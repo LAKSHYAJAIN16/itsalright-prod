@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 import getRawTextFromRichText from "../lib/getRawTextFromRichText";
 import styles from "../styles/Card.module.css";
@@ -66,12 +67,12 @@ export default function PreviewTextViewer({ post }) {
     </div>
   );
   return (
-    <a href={`/post/${post.id}`}>
+    <Link href={`/post/${post.id}`}>
       <div className={styles.card}>
         <h1 className={styles.title}>{post.title}</h1>
         <br />
         <PreviewText />
       </div>
-    </a>
+    </Link>
   );
 }
