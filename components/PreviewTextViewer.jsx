@@ -57,7 +57,7 @@ export default function PreviewTextViewer({ post }) {
         </>
       ) : (
         <>
-          <div className={styles.sub} style={{justifyContent:"center"}}>
+          <div className={styles.sub} style={{ justifyContent: "center" }}>
             <span style={{ marginLeft: "0px", zoom: 0.8 }}>
               This has been posted anonymously
             </span>
@@ -67,12 +67,14 @@ export default function PreviewTextViewer({ post }) {
     </div>
   );
   return (
-    <Link href={`/post/${post.id}`}>
-      <div className={styles.card}>
-        <h1 className={styles.title}>{post.title}</h1>
-        <br />
-        <PreviewText />
-      </div>
-    </Link>
+    <div style={{ cursor: "pointer" }}>
+      <Link href={`/post/${post.id}`}>
+        <div className={styles.card}>
+          <h1 className={styles.title}>{post.title}</h1>
+          <br />
+          <PreviewText />
+        </div>
+      </Link>
+    </div>
   );
 }
