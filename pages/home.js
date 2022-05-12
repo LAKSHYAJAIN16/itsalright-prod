@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Head from "next/head";
+import Script from "next/script";
 
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
@@ -71,6 +72,22 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
+      <Script
+        strategy="lazyOnload"
+        src={`https://www.googletagmanager.com/gtag/js?id=G-5QG3T5J6L6`}
+      />
+
+      <Script strategy="lazyOnload">
+        {`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-5QG3T5J6L6', {
+        page_path: window.location.pathname,
+        });
+    `}
+      </Script>
 
       <div className={styles.main}>
         <Navbar />
