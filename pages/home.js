@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Head from "next/head";
 import Script from "next/script";
 
+import Meta from "../components/Meta";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import styles from "../styles/Home.module.css";
@@ -64,14 +65,12 @@ export default function Home() {
 
   return (
     <div onMouseDown={(e) => scrollFailSafe(e)}>
-      <Head>
-        <title>Its alright : Share your problems and get Solutions</title>
-        <meta
-          name="description"
-          content="Get access to a rich community of therapists, doctors, motivational speakers, etc, pledging to correct your mistakes and helping you out"
-        />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+      <Meta
+        title={"Itsalright : Together, we can make it alright"}
+        desc={
+          "Get access to a free body of thousands of mental health experts and get their advice for free"
+        }
+      />
 
       <Script
         strategy="lazyOnload"
@@ -86,7 +85,7 @@ export default function Home() {
         gtag('config', 'G-5QG3T5J6L6', {
         page_path: window.location.pathname,
         });
-    `}
+        `}
       </Script>
 
       <div className={styles.main}>
