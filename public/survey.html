@@ -68,13 +68,14 @@
 
       // Next Callback
       const next = async () => {
+        console.log("haha");
         // Get curLine and curIndex before we change them
         const prevIndex = curIndex;
         const prevLine = curLine;
 
         // Choose Random Category
-        const random_category_index = Math.floor(Math.random() * data.length);
-        const random_category = data[random_category_index];
+        const random_category_index = Math.floor(Math.random() * lines.length);
+        const random_category = lines[random_category_index];
         console.log(random_category);
 
         // Get Random Lines
