@@ -1,0 +1,5564 @@
+[
+    {
+        "title": "The Lord of the Rings (The Lord of the Rings  #1-3)",
+        "isbn": "0007136587",
+        "cover": "//covers.openlibrary.org/b/id/10510076-M.jpg",
+        "authors": "J.R.R. Tolkien",
+        "rating": 4.5,
+        "reviews": 2564,
+        "pages": "eng"
+    },
+    {
+        "title": "The Annotated Hobbit",
+        "isbn": "0007137273",
+        "cover": "//covers.openlibrary.org/b/id/10066-M.jpg",
+        "authors": "J.R.R. Tolkien/Douglas A. Anderson",
+        "rating": 4.27,
+        "reviews": 653,
+        "pages": "eng"
+    },
+    {
+        "title": "Complete Works of Oscar Wilde",
+        "isbn": "0007144350",
+        "cover": "//covers.openlibrary.org/b/id/10468-M.jpg",
+        "authors": "Oscar Wilde/Merlin Holland",
+        "rating": 4.45,
+        "reviews": 25076,
+        "pages": "eng"
+    },
+    {
+        "title": "If I Die in a Combat Zone",
+        "isbn": "0007162995",
+        "cover": "//covers.openlibrary.org/b/id/11537-M.jpg",
+        "authors": "Tim O'Brien",
+        "rating": 3.95,
+        "reviews": 230,
+        "pages": "eng"
+    },
+    {
+        "title": "Daughter of Fortune",
+        "isbn": "006019491X",
+        "cover": "//covers.openlibrary.org/b/id/23094-M.jpg",
+        "authors": "Isabel Allende/Margaret Sayers Peden",
+        "rating": 3.91,
+        "reviews": 2409,
+        "pages": "eng"
+    },
+    {
+        "title": "We Were Not Like Other People",
+        "isbn": "0060255080",
+        "cover": "",
+        "authors": "Ephraim Sevela/Antonina W. Bouis",
+        "rating": 4.14,
+        "reviews": 218,
+        "pages": "eng"
+    },
+    {
+        "title": "Brave New World and Brave New World Revisited",
+        "isbn": "0060535261",
+        "cover": "//covers.openlibrary.org/b/id/12645086-M.jpg",
+        "authors": "Aldous Huxley/Christopher Hitchens",
+        "rating": 4.16,
+        "reviews": 1182,
+        "pages": "eng"
+    },
+    {
+        "title": "Men Are from Mars  Women Are from Venus",
+        "isbn": "0060574216",
+        "cover": "//covers.openlibrary.org/b/id/30289-M.jpg",
+        "authors": "John Gray",
+        "rating": 3.55,
+        "reviews": 264492,
+        "pages": "eng"
+    },
+    {
+        "title": "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus  #1)",
+        "isbn": "0060589469",
+        "cover": "//covers.openlibrary.org/b/id/31248-M.jpg",
+        "authors": "Robert M. Pirsig",
+        "rating": 3.77,
+        "reviews": 332632,
+        "pages": "eng"
+    },
+    {
+        "title": "The Zebra Wall",
+        "isbn": "0060733039",
+        "cover": "//covers.openlibrary.org/b/id/33308-M.jpg",
+        "authors": "Kevin Henkes",
+        "rating": 3.44,
+        "reviews": 581,
+        "pages": "eng"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "isbn": "0060740450",
+        "cover": "//covers.openlibrary.org/b/id/10096372-M.jpg",
+        "authors": "Gabriel Garc\u00eda M\u00e1rquez/Gregory Rabassa",
+        "rating": 4.07,
+        "reviews": 7332,
+        "pages": "eng"
+    },
+    {
+        "title": "The Known World",
+        "isbn": "0060749911",
+        "cover": "//covers.openlibrary.org/b/id/34377-M.jpg",
+        "authors": "Edward P. Jones",
+        "rating": 3.83,
+        "reviews": 620,
+        "pages": "eng"
+    },
+    {
+        "title": "How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days",
+        "isbn": "006076287X",
+        "cover": "//covers.openlibrary.org/b/id/35184-M.jpg",
+        "authors": "Adam Ginsberg",
+        "rating": 3.48,
+        "reviews": 488,
+        "pages": "eng"
+    },
+    {
+        "title": "Brave New World / Brave New World Revisited",
+        "isbn": "0060776099",
+        "cover": "//covers.openlibrary.org/b/id/35569-M.jpg",
+        "authors": "Aldous Huxley/Christopher Hitchens",
+        "rating": 4.16,
+        "reviews": 258698,
+        "pages": "eng"
+    },
+    {
+        "title": "A Long Shadow (Inspector Ian Rutledge  #8)",
+        "isbn": "006078671X",
+        "cover": "//covers.openlibrary.org/b/id/36089-M.jpg",
+        "authors": "Charles Todd",
+        "rating": 4.11,
+        "reviews": 6524,
+        "pages": "eng"
+    },
+    {
+        "title": "The Zahir",
+        "isbn": "0060832819",
+        "cover": "//covers.openlibrary.org/b/id/37356-M.jpg",
+        "authors": "Paulo Coelho/Margaret Jull Costa",
+        "rating": 3.57,
+        "reviews": 118170,
+        "pages": "eng"
+    },
+    {
+        "title": "Fast Food Nation: The Dark Side of the All-American Meal",
+        "isbn": "0060838582",
+        "cover": "//covers.openlibrary.org/b/id/8393056-M.jpg",
+        "authors": "Eric Schlosser",
+        "rating": 3.74,
+        "reviews": 380477,
+        "pages": "eng"
+    },
+    {
+        "title": "Bel Canto",
+        "isbn": "0060838728",
+        "cover": "//covers.openlibrary.org/b/id/37686-M.jpg",
+        "authors": "Ann Patchett",
+        "rating": 3.93,
+        "reviews": 436742,
+        "pages": "eng"
+    },
+    {
+        "title": "Brave New World",
+        "isbn": "0060850523",
+        "cover": "//covers.openlibrary.org/b/id/12818014-M.jpg",
+        "authors": "Aldous Huxley",
+        "rating": 3.99,
+        "reviews": 26965,
+        "pages": "eng"
+    },
+    {
+        "title": "Brave New World Revisited",
+        "isbn": "0060898526",
+        "cover": "//covers.openlibrary.org/b/id/39560-M.jpg",
+        "authors": "Aldous Huxley",
+        "rating": 3.95,
+        "reviews": 26101,
+        "pages": "eng"
+    },
+    {
+        "title": "The Lost Continent: Travels in Small Town America",
+        "isbn": "0060920084",
+        "cover": "//covers.openlibrary.org/b/id/12722717-M.jpg",
+        "authors": "Bill Bryson",
+        "rating": 3.83,
+        "reviews": 91723,
+        "pages": "eng"
+    },
+    {
+        "title": "V.",
+        "isbn": "0060930217",
+        "cover": "//covers.openlibrary.org/b/id/40630-M.jpg",
+        "authors": "Thomas Pynchon",
+        "rating": 3.96,
+        "reviews": 3377,
+        "pages": "eng"
+    },
+    {
+        "title": "The Poisonwood Bible",
+        "isbn": "0060930535",
+        "cover": "//covers.openlibrary.org/b/id/40670-M.jpg",
+        "authors": "Barbara Kingsolver",
+        "rating": 4.06,
+        "reviews": 12092,
+        "pages": "eng"
+    },
+    {
+        "title": "The Crying of Lot 49",
+        "isbn": "0060931671",
+        "cover": "//covers.openlibrary.org/b/id/40806-M.jpg",
+        "authors": "Thomas Pynchon",
+        "rating": 3.69,
+        "reviews": 4474,
+        "pages": "eng"
+    },
+    {
+        "title": "The Odyssey",
+        "isbn": "0060931957",
+        "cover": "//covers.openlibrary.org/b/id/40840-M.jpg",
+        "authors": "Homer/Richmond Lattimore",
+        "rating": 3.76,
+        "reviews": 2636,
+        "pages": "eng"
+    },
+    {
+        "title": "The Language Instinct: How the Mind Creates Language",
+        "isbn": "0060958332",
+        "cover": "//covers.openlibrary.org/b/id/42202-M.jpg",
+        "authors": "Steven Pinker",
+        "rating": 4.03,
+        "reviews": 31330,
+        "pages": "eng"
+    },
+    {
+        "title": "The End of Obscenity: The Trials of Lady Chatterley  Tropic of Cancer  and Fanny Hill",
+        "isbn": "0060970618",
+        "cover": "//covers.openlibrary.org/b/id/9780652-M.jpg",
+        "authors": "Charles Rembar",
+        "rating": 3.88,
+        "reviews": 550,
+        "pages": "eng"
+    },
+    {
+        "title": "Choke",
+        "isbn": "0061094226",
+        "cover": "//covers.openlibrary.org/b/id/45230-M.jpg",
+        "authors": "Stuart Woods",
+        "rating": 3.84,
+        "reviews": 4928,
+        "pages": "eng"
+    },
+    {
+        "title": "By the River Piedra I Sat Down and Wept",
+        "isbn": "0061122092",
+        "cover": "//covers.openlibrary.org/b/id/45740-M.jpg",
+        "authors": "Paulo Coelho/Alan R. Clarke",
+        "rating": 3.57,
+        "reviews": 141728,
+        "pages": "eng"
+    },
+    {
+        "title": "Veronika Decides to Die",
+        "isbn": "0061124265",
+        "cover": "//covers.openlibrary.org/b/id/45811-M.jpg",
+        "authors": "Paulo Coelho/Margaret Jull Costa/K\u00e2muran \u015eipal",
+        "rating": 3.7,
+        "reviews": 264338,
+        "pages": "eng"
+    },
+    {
+        "title": "The Crusader: Ronald Reagan and the Fall of Communism",
+        "isbn": "0061136905",
+        "cover": "//covers.openlibrary.org/b/id/46207-M.jpg",
+        "authors": "Paul Kengor",
+        "rating": 4.23,
+        "reviews": 790,
+        "pages": "eng"
+    },
+    {
+        "title": "Sugarplums and Scandal  (Love at Stake #2.5; Bed-and-Breakfast Mysteries #22.5)",
+        "isbn": "0061136956",
+        "cover": "//covers.openlibrary.org/b/id/46210-M.jpg",
+        "authors": "Lori Avocato/Dana Cameron/Mary Dahiem/Suzanne Macpherson/Cait London/Kerrelyn Sparks/Mary Daheim",
+        "rating": 3.98,
+        "reviews": 4261,
+        "pages": "eng"
+    },
+    {
+        "title": "Howl: Original Draft Facsimile  Transcript & Variant Versions  Fully Annotated by Author  with Contemporaneous Correspondence",
+        "isbn": "0061137456",
+        "cover": "//covers.openlibrary.org/b/id/46264-M.jpg",
+        "authors": "Allen Ginsberg/Barry Miles",
+        "rating": 4.22,
+        "reviews": 568,
+        "pages": "eng"
+    },
+    {
+        "title": "The Known World",
+        "isbn": "0061159174",
+        "cover": "//covers.openlibrary.org/b/id/46872-M.jpg",
+        "authors": "Edward P. Jones",
+        "rating": 3.83,
+        "reviews": 59760,
+        "pages": "eng"
+    },
+    {
+        "title": "Men Are from Mars  Women Are from Venus",
+        "isbn": "006123205X",
+        "cover": "//covers.openlibrary.org/b/id/47389-M.jpg",
+        "authors": "John Gray",
+        "rating": 3.55,
+        "reviews": 88,
+        "pages": "eng"
+    },
+    {
+        "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+        "isbn": "0061234001",
+        "cover": "//covers.openlibrary.org/b/id/11569562-M.jpg",
+        "authors": "Steven D. Levitt/Stephen J. Dubner",
+        "rating": 3.97,
+        "reviews": 1257810,
+        "pages": "eng"
+    },
+    {
+        "title": "Howl's Moving Castle (Howl's Moving Castle  #1)",
+        "isbn": "006441034X",
+        "cover": "//covers.openlibrary.org/b/id/50595-M.jpg",
+        "authors": "Diana Wynne Jones",
+        "rating": 4.29,
+        "reviews": 323493,
+        "pages": "eng"
+    },
+    {
+        "title": "What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond",
+        "isbn": "0072262788",
+        "cover": "//covers.openlibrary.org/b/id/62368-M.jpg",
+        "authors": "Chris Malta/Lisa Suttora",
+        "rating": 3.62,
+        "reviews": 308,
+        "pages": "eng"
+    },
+    {
+        "title": "An Imaginary Life",
+        "isbn": "0099273845",
+        "cover": "//covers.openlibrary.org/b/id/71404-M.jpg",
+        "authors": "David Malouf",
+        "rating": 3.88,
+        "reviews": 3260,
+        "pages": "eng"
+    },
+    {
+        "title": "The Great World",
+        "isbn": "0099273861",
+        "cover": "//covers.openlibrary.org/b/id/12869870-M.jpg",
+        "authors": "David Malouf",
+        "rating": 3.88,
+        "reviews": 1414,
+        "pages": "eng"
+    },
+    {
+        "title": "The Curious Incident of the Dog in the Night-Time",
+        "isbn": "0099450259",
+        "cover": "//covers.openlibrary.org/b/id/12648975-M.jpg",
+        "authors": "Mark Haddon",
+        "rating": 3.88,
+        "reviews": 33448,
+        "pages": "eng"
+    },
+    {
+        "title": "The Curious Incident of the Dog In the Night-time",
+        "isbn": "0099456761",
+        "cover": "//covers.openlibrary.org/b/id/12648962-M.jpg",
+        "authors": "Mark Haddon",
+        "rating": 3.88,
+        "reviews": 12516,
+        "pages": "eng"
+    },
+    {
+        "title": "A Very Long Engagement",
+        "isbn": "0099474549",
+        "cover": "//covers.openlibrary.org/b/id/76174-M.jpg",
+        "authors": "S\u00e9bastien Japrisot",
+        "rating": 3.91,
+        "reviews": 478,
+        "pages": "eng"
+    },
+    {
+        "title": "Skipping Christmas",
+        "isbn": "0099481685",
+        "cover": "//covers.openlibrary.org/b/id/10689748-M.jpg",
+        "authors": "John Grisham",
+        "rating": 3.49,
+        "reviews": 92866,
+        "pages": "eng"
+    },
+    {
+        "title": "Slow Learner: Early Stories",
+        "isbn": "0099532514",
+        "cover": "//covers.openlibrary.org/b/id/77289-M.jpg",
+        "authors": "Thomas Pynchon",
+        "rating": 3.5,
+        "reviews": 6546,
+        "pages": "eng"
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "isbn": "0099922800",
+        "cover": "//covers.openlibrary.org/b/id/78800-M.jpg",
+        "authors": "Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky",
+        "rating": 4.32,
+        "reviews": 1682,
+        "pages": "eng"
+    },
+    {
+        "title": "City of Glass (The New York Trilogy  #1)",
+        "isbn": "0140097317",
+        "cover": "//covers.openlibrary.org/b/id/94333-M.jpg",
+        "authors": "Paul Auster",
+        "rating": 3.79,
+        "reviews": 25023,
+        "pages": "eng"
+    },
+    {
+        "title": "Ghosts (The New York Trilogy  #2)",
+        "isbn": "014009735X",
+        "cover": "//covers.openlibrary.org/b/id/11637662-M.jpg",
+        "authors": "Paul Auster",
+        "rating": 3.64,
+        "reviews": 7440,
+        "pages": "eng"
+    },
+    {
+        "title": "Moon Palace",
+        "isbn": "0140115854",
+        "cover": "//covers.openlibrary.org/b/id/8260571-M.jpg",
+        "authors": "Paul Auster",
+        "rating": 3.94,
+        "reviews": 32518,
+        "pages": "eng"
+    },
+    {
+        "title": "Americana",
+        "isbn": "0140119485",
+        "cover": "//covers.openlibrary.org/b/id/94789-M.jpg",
+        "authors": "Don DeLillo",
+        "rating": 3.43,
+        "reviews": 1163,
+        "pages": "eng"
+    },
+    {
+        "title": "Liar's Poker",
+        "isbn": "0140143459",
+        "cover": "//covers.openlibrary.org/b/id/95715-M.jpg",
+        "authors": "Michael   Lewis",
+        "rating": 4.15,
+        "reviews": 45942,
+        "pages": "eng"
+    },
+    {
+        "title": "The Normans in Sicily: The Normans in the South 1016-1130 and the Kingdom in the Sun 1130-1194",
+        "isbn": "0140152121",
+        "cover": "//covers.openlibrary.org/b/id/96017-M.jpg",
+        "authors": "John Julius Norwich",
+        "rating": 4.34,
+        "reviews": 1352,
+        "pages": "eng"
+    },
+    {
+        "title": "Libra",
+        "isbn": "0140156046",
+        "cover": "//covers.openlibrary.org/b/id/96113-M.jpg",
+        "authors": "Don DeLillo",
+        "rating": 3.99,
+        "reviews": 24194,
+        "pages": "eng"
+    },
+    {
+        "title": "Leviathan",
+        "isbn": "0140178139",
+        "cover": "//covers.openlibrary.org/b/id/96883-M.jpg",
+        "authors": "Paul Auster",
+        "rating": 3.96,
+        "reviews": 23763,
+        "pages": "eng"
+    },
+    {
+        "title": "Great Jones Street",
+        "isbn": "0140179178",
+        "cover": "//covers.openlibrary.org/b/id/96950-M.jpg",
+        "authors": "Don DeLillo",
+        "rating": 3.48,
+        "reviews": 5256,
+        "pages": "eng"
+    },
+    {
+        "title": "Untouchable",
+        "isbn": "0140183957",
+        "cover": "//covers.openlibrary.org/b/id/97376-M.jpg",
+        "authors": "Mulk Raj Anand/E.M. Forster",
+        "rating": 3.71,
+        "reviews": 7018,
+        "pages": "eng"
+    },
+    {
+        "title": "North of South: An African Journey",
+        "isbn": "0140188266",
+        "cover": "//covers.openlibrary.org/b/id/97857-M.jpg",
+        "authors": "Shiva Naipaul",
+        "rating": 3.89,
+        "reviews": 910,
+        "pages": "eng"
+    },
+    {
+        "title": "The Monkey's Wrench",
+        "isbn": "0140188924",
+        "cover": "//covers.openlibrary.org/b/id/97919-M.jpg",
+        "authors": "Primo Levi/William Weaver/Ruth Feldman/Ruth Tenzer Feldman",
+        "rating": 3.92,
+        "reviews": 1394,
+        "pages": "eng"
+    },
+    {
+        "title": "Been Down So Long It Looks Like Up To Me",
+        "isbn": "0140189300",
+        "cover": "//covers.openlibrary.org/b/id/97949-M.jpg",
+        "authors": "Richard Fari\u00f1a/Thomas Pynchon",
+        "rating": 3.8,
+        "reviews": 5298,
+        "pages": "eng"
+    },
+    {
+        "title": "The Beloved: Reflections on the Path of the Heart",
+        "isbn": "014019553X",
+        "cover": "//covers.openlibrary.org/b/id/98335-M.jpg",
+        "authors": "Kahlil Gibran/John Walbridge/Robin Waterfield",
+        "rating": 4.19,
+        "reviews": 758,
+        "pages": "eng"
+    },
+    {
+        "title": "The Nuclear Age",
+        "isbn": "0140259104",
+        "cover": "//covers.openlibrary.org/b/id/99522-M.jpg",
+        "authors": "Tim O'Brien",
+        "rating": 3.45,
+        "reviews": 2210,
+        "pages": "eng"
+    },
+    {
+        "title": "Boyhood: Scenes from Provincial Life",
+        "isbn": "014026566X",
+        "cover": "//covers.openlibrary.org/b/id/10331238-M.jpg",
+        "authors": "J.M. Coetzee",
+        "rating": 3.79,
+        "reviews": 6490,
+        "pages": "eng"
+    },
+    {
+        "title": "The Iliad",
+        "isbn": "0140275363",
+        "cover": "//covers.openlibrary.org/b/id/100172-M.jpg",
+        "authors": "Homer/Robert Fagles/Bernard Knox",
+        "rating": 3.86,
+        "reviews": 578267,
+        "pages": "eng"
+    },
+    {
+        "title": "Age of Iron",
+        "isbn": "0140275657",
+        "cover": "//covers.openlibrary.org/b/id/10331313-M.jpg",
+        "authors": "J.M. Coetzee",
+        "rating": 3.84,
+        "reviews": 6150,
+        "pages": "eng"
+    },
+    {
+        "title": "The 48 Laws of Power",
+        "isbn": "0140280197",
+        "cover": "//covers.openlibrary.org/b/id/6380636-M.jpg",
+        "authors": "Robert Greene/Joost Elffers",
+        "rating": 4.18,
+        "reviews": 122344,
+        "pages": "eng"
+    },
+    {
+        "title": "Waiting for the Barbarians",
+        "isbn": "0140283358",
+        "cover": "//covers.openlibrary.org/b/id/10331324-M.jpg",
+        "authors": "J.M. Coetzee",
+        "rating": 3.94,
+        "reviews": 36346,
+        "pages": "eng"
+    },
+    {
+        "title": "Gravity's Rainbow",
+        "isbn": "0140283382",
+        "cover": "//covers.openlibrary.org/b/id/100548-M.jpg",
+        "authors": "Thomas Pynchon",
+        "rating": 4.01,
+        "reviews": 2308,
+        "pages": "eng"
+    },
+    {
+        "title": "Shadows and Wind: A View of Modern Vietnam",
+        "isbn": "0140285970",
+        "cover": "//covers.openlibrary.org/b/id/100663-M.jpg",
+        "authors": "Robert Templer",
+        "rating": 3.49,
+        "reviews": 604,
+        "pages": "eng"
+    },
+    {
+        "title": "Charlie and the Chocolate Factory: A Play",
+        "isbn": "0140311254",
+        "cover": "",
+        "authors": "Richard R. George/Roald Dahl",
+        "rating": 4.33,
+        "reviews": 5609,
+        "pages": "eng"
+    },
+    {
+        "title": "The Puffin Book of Nonsense Verse",
+        "isbn": "0140366601",
+        "cover": "//covers.openlibrary.org/b/id/102089-M.jpg",
+        "authors": "Quentin Blake",
+        "rating": 4.02,
+        "reviews": 449,
+        "pages": "eng"
+    },
+    {
+        "title": "Anne Frank Beyond the Diary: A Photographic Remembrance",
+        "isbn": "0140369260",
+        "cover": "//covers.openlibrary.org/b/id/8581394-M.jpg",
+        "authors": "Ruud van der Rol/Rian Verhoeven/Anna Quindlen/Anne Frank/Tony   Langham/Plym Peters",
+        "rating": 4.27,
+        "reviews": 48475,
+        "pages": "eng"
+    },
+    {
+        "title": "De Profundis and Other Writings",
+        "isbn": "014043089X",
+        "cover": "//covers.openlibrary.org/b/id/103056-M.jpg",
+        "authors": "Oscar Wilde/Hesketh Pearson",
+        "rating": 4.21,
+        "reviews": 4848,
+        "pages": "eng"
+    },
+    {
+        "title": "A Christmas Carol and Other Christmas Writings",
+        "isbn": "0140439056",
+        "cover": "//covers.openlibrary.org/b/id/9282531-M.jpg",
+        "authors": "Charles Dickens/Michael Slater",
+        "rating": 4.14,
+        "reviews": 61074,
+        "pages": "eng"
+    },
+    {
+        "title": "Electra and Other Plays",
+        "isbn": "0140440283",
+        "cover": "//covers.openlibrary.org/b/id/103615-M.jpg",
+        "authors": "Sophocles/E.F. Watling",
+        "rating": 4.14,
+        "reviews": 488,
+        "pages": "eng"
+    },
+    {
+        "title": "Prometheus Bound and Other Plays",
+        "isbn": "0140441123",
+        "cover": "//covers.openlibrary.org/b/id/103686-M.jpg",
+        "authors": "Aeschylus/Philip Vellacott",
+        "rating": 4.1,
+        "reviews": 8766,
+        "pages": "eng"
+    },
+    {
+        "title": "Li Po and Tu Fu: Poems",
+        "isbn": "0140442723",
+        "cover": "//covers.openlibrary.org/b/id/103829-M.jpg",
+        "authors": "Li Bai/Du Fu/Arthur Cooper/Shui Chien-Tung",
+        "rating": 4.14,
+        "reviews": 1034,
+        "pages": "eng"
+    },
+    {
+        "title": "The Oresteia: Agamemnon  The Libation Bearers  The Eumenides",
+        "isbn": "0140443339",
+        "cover": "",
+        "authors": "Aeschylus/Robert Fagles/William Bedell Stanford",
+        "rating": 4.02,
+        "reviews": 57787,
+        "pages": "eng"
+    },
+    {
+        "title": "The Three Theban Plays: Antigone  Oedipus the King  Oedipus at Colonus",
+        "isbn": "0140444254",
+        "cover": "//covers.openlibrary.org/b/id/12652078-M.jpg",
+        "authors": "Sophocles/Robert Fagles/Bernard Knox",
+        "rating": 3.97,
+        "reviews": 6388,
+        "pages": "eng"
+    },
+    {
+        "title": "The Histories",
+        "isbn": "0140446389",
+        "cover": "//covers.openlibrary.org/b/id/104183-M.jpg",
+        "authors": "Herodotus/Aubrey de S\u00e9lincourt/John M. Marincola",
+        "rating": 3.99,
+        "reviews": 1076,
+        "pages": "eng"
+    },
+    {
+        "title": "What is Art?",
+        "isbn": "0140446427",
+        "cover": "//covers.openlibrary.org/b/id/104186-M.jpg",
+        "authors": "Leo Tolstoy/Richard Pevear/Larissa Volokhonsky",
+        "rating": 3.72,
+        "reviews": 484,
+        "pages": "eng"
+    },
+    {
+        "title": "The Bacchae and Other Plays",
+        "isbn": "0140447261",
+        "cover": "//covers.openlibrary.org/b/id/104235-M.jpg",
+        "authors": "Euripides/John Davie/Richard Rutherford",
+        "rating": 4.14,
+        "reviews": 688,
+        "pages": "eng"
+    },
+    {
+        "title": "The Iliad",
+        "isbn": "0140447946",
+        "cover": "//covers.openlibrary.org/b/id/104293-M.jpg",
+        "authors": "Homer/E.V. Rieu/Peter Jones/D.C.H. Rieu",
+        "rating": 3.86,
+        "reviews": 4300,
+        "pages": "eng"
+    },
+    {
+        "title": "The Histories",
+        "isbn": "0140449086",
+        "cover": "//covers.openlibrary.org/b/id/104337-M.jpg",
+        "authors": "Herodotus/Aubrey de S\u00e9lincourt/John M. Marincola",
+        "rating": 3.99,
+        "reviews": 70170,
+        "pages": "eng"
+    },
+    {
+        "title": "The Odyssey",
+        "isbn": "0140449116",
+        "cover": "//covers.openlibrary.org/b/id/104341-M.jpg",
+        "authors": "Homer/E.V. Rieu/Peter Jones/D.C.H. Rieu",
+        "rating": 3.76,
+        "reviews": 5410,
+        "pages": "eng"
+    },
+    {
+        "title": "Anna Karenina",
+        "isbn": "0140449175",
+        "cover": "//covers.openlibrary.org/b/id/104346-M.jpg",
+        "authors": "Leo Tolstoy/Richard Pevear/Larissa Volokhonsky/John Bayley",
+        "rating": 4.05,
+        "reviews": 6645,
+        "pages": "eng"
+    },
+    {
+        "title": "Medea and Other Plays",
+        "isbn": "0140449299",
+        "cover": "//covers.openlibrary.org/b/id/104358-M.jpg",
+        "authors": "Euripides/John Davie/Richard Rutherford",
+        "rating": 4.03,
+        "reviews": 18600,
+        "pages": "eng"
+    },
+    {
+        "title": "Phaedrus",
+        "isbn": "0140449744",
+        "cover": "//covers.openlibrary.org/b/id/4574818-M.jpg",
+        "authors": "Plato/C.J. Rowe",
+        "rating": 3.92,
+        "reviews": 648,
+        "pages": "eng"
+    },
+    {
+        "title": "1776",
+        "isbn": "0140481397",
+        "cover": "//covers.openlibrary.org/b/id/104516-M.jpg",
+        "authors": "Peter  Stone/Sherman Edwards",
+        "rating": 4.22,
+        "reviews": 2790,
+        "pages": "eng"
+    },
+    {
+        "title": "Wuthering Heights",
+        "isbn": "0140620125",
+        "cover": "//covers.openlibrary.org/b/id/11076255-M.jpg",
+        "authors": "Emily Bront\u00eb",
+        "rating": 3.85,
+        "reviews": 4589,
+        "pages": "eng"
+    },
+    {
+        "title": "Vanity Fair",
+        "isbn": "0140620850",
+        "cover": "//covers.openlibrary.org/b/id/105772-M.jpg",
+        "authors": "William Makepeace Thackeray",
+        "rating": 3.79,
+        "reviews": 1264,
+        "pages": "eng"
+    },
+    {
+        "title": "Hamlet",
+        "isbn": "0140714545",
+        "cover": "//covers.openlibrary.org/b/id/8452705-M.jpg",
+        "authors": "William Shakespeare/Stephen Orgel/A.R. Braunmuller",
+        "rating": 4.02,
+        "reviews": 3464,
+        "pages": "eng"
+    },
+    {
+        "title": "The Complete Pelican Shakespeare",
+        "isbn": "0141000589",
+        "cover": "//covers.openlibrary.org/b/id/106399-M.jpg",
+        "authors": "William Shakespeare/Stephen Orgel/A.R. Braunmuller",
+        "rating": 4.5,
+        "reviews": 2964,
+        "pages": "eng"
+    },
+    {
+        "title": "Fast Food Nation: What The All-American Meal is Doing to the World",
+        "isbn": "0141006870",
+        "cover": "//covers.openlibrary.org/b/id/8393049-M.jpg",
+        "authors": "Eric Schlosser",
+        "rating": 3.74,
+        "reviews": 2006,
+        "pages": "eng"
+    },
+    {
+        "title": "Forever Amber",
+        "isbn": "0141009829",
+        "cover": "//covers.openlibrary.org/b/id/12958934-M.jpg",
+        "authors": "Kathleen Winsor",
+        "rating": 3.99,
+        "reviews": 29790,
+        "pages": "eng"
+    },
+    {
+        "title": "Gunnar's Daughter",
+        "isbn": "014118020X",
+        "cover": "//covers.openlibrary.org/b/id/107639-M.jpg",
+        "authors": "Sigrid Undset/Sherrill Harbison/Arthur G. Chater",
+        "rating": 4.18,
+        "reviews": 1857,
+        "pages": "eng"
+    },
+    {
+        "title": "The Wreath (Kristin Lavransdatter  #1)",
+        "isbn": "0141180412",
+        "cover": "//covers.openlibrary.org/b/id/107659-M.jpg",
+        "authors": "Sigrid Undset/Tiina Nunnally",
+        "rating": 4.02,
+        "reviews": 7967,
+        "pages": "eng"
+    },
+    {
+        "title": "The Wife (Kristin Lavransdatter  #2)",
+        "isbn": "0141181281",
+        "cover": "//covers.openlibrary.org/b/id/107717-M.jpg",
+        "authors": "Sigrid Undset/Tiina Nunnally/Sherrill Harbison",
+        "rating": 4.15,
+        "reviews": 4634,
+        "pages": "eng"
+    },
+    {
+        "title": "The Cross (Kristin Lavransdatter  #3)",
+        "isbn": "0141182350",
+        "cover": "//covers.openlibrary.org/b/id/107779-M.jpg",
+        "authors": "Sigrid Undset/Tiina Nunnally/Sherrill Harbison",
+        "rating": 4.29,
+        "reviews": 3972,
+        "pages": "eng"
+    },
+    {
+        "title": "Orientalism",
+        "isbn": "0141187425",
+        "cover": "//covers.openlibrary.org/b/id/108130-M.jpg",
+        "authors": "Edward W. Said",
+        "rating": 4.08,
+        "reviews": 2142,
+        "pages": "eng"
+    },
+    {
+        "title": "Casino Royale",
+        "isbn": "0141187581",
+        "cover": "//covers.openlibrary.org/b/id/108145-M.jpg",
+        "authors": "Ian Fleming",
+        "rating": 3.73,
+        "reviews": 923,
+        "pages": "eng"
+    },
+    {
+        "title": "The Changeling Sea",
+        "isbn": "0141312629",
+        "cover": "//covers.openlibrary.org/b/id/108681-M.jpg",
+        "authors": "Patricia A. McKillip",
+        "rating": 4.06,
+        "reviews": 9045,
+        "pages": "eng"
+    },
+    {
+        "title": "The Woman in White",
+        "isbn": "0141439610",
+        "cover": "//covers.openlibrary.org/b/id/109045-M.jpg",
+        "authors": "Wilkie Collins/Matthew Sweet",
+        "rating": 4.0,
+        "reviews": 216792,
+        "pages": "eng"
+    },
+    {
+        "title": "The Portrait of a Lady",
+        "isbn": "0141439637",
+        "cover": "//covers.openlibrary.org/b/id/109047-M.jpg",
+        "authors": "Henry James/Patricia Crick",
+        "rating": 3.78,
+        "reviews": 124077,
+        "pages": "eng"
+    },
+    {
+        "title": "Vanity Fair",
+        "isbn": "0141439831",
+        "cover": "//covers.openlibrary.org/b/id/7848498-M.jpg",
+        "authors": "William Makepeace Thackeray/John Carey",
+        "rating": 3.79,
+        "reviews": 206621,
+        "pages": "eng"
+    },
+    {
+        "title": "Icy Sparks",
+        "isbn": "0142000205",
+        "cover": "//covers.openlibrary.org/b/id/109280-M.jpg",
+        "authors": "Gwyn Hyman Rubio",
+        "rating": 3.7,
+        "reviews": 76192,
+        "pages": "eng"
+    },
+    {
+        "title": "The Pearl",
+        "isbn": "0142000698",
+        "cover": "//covers.openlibrary.org/b/id/9157799-M.jpg",
+        "authors": "John Steinbeck",
+        "rating": 3.46,
+        "reviews": 321508,
+        "pages": "eng"
+    },
+    {
+        "title": "Travels with Charley: In Search of America",
+        "isbn": "0142000701",
+        "cover": "//covers.openlibrary.org/b/id/9189552-M.jpg",
+        "authors": "John Steinbeck",
+        "rating": 4.08,
+        "reviews": 112912,
+        "pages": "eng"
+    },
+    {
+        "title": "Youth",
+        "isbn": "0142002003",
+        "cover": "//covers.openlibrary.org/b/id/109449-M.jpg",
+        "authors": "J.M. Coetzee",
+        "rating": 3.79,
+        "reviews": 10038,
+        "pages": "eng"
+    },
+    {
+        "title": "The Blank Slate: The Modern Denial of Human Nature",
+        "isbn": "0142003344",
+        "cover": "//covers.openlibrary.org/b/id/109581-M.jpg",
+        "authors": "Steven Pinker",
+        "rating": 4.08,
+        "reviews": 38114,
+        "pages": "eng"
+    },
+    {
+        "title": "Journey of the Sparrows",
+        "isbn": "0142302090",
+        "cover": "//covers.openlibrary.org/b/id/109937-M.jpg",
+        "authors": "Fran Leeper Buss/Daisy Cubias",
+        "rating": 3.69,
+        "reviews": 570,
+        "pages": "eng"
+    },
+    {
+        "title": "Dirty Beasts",
+        "isbn": "0142302279",
+        "cover": "//covers.openlibrary.org/b/id/6462194-M.jpg",
+        "authors": "Roald Dahl/Quentin Blake",
+        "rating": 4.01,
+        "reviews": 8182,
+        "pages": "eng"
+    },
+    {
+        "title": "Charlie and the Chocolate Factory (Charlie Bucket  #1)",
+        "isbn": "0142403881",
+        "cover": "//covers.openlibrary.org/b/id/8388025-M.jpg",
+        "authors": "Roald Dahl/Quentin Blake",
+        "rating": 4.13,
+        "reviews": 1117774,
+        "pages": "eng"
+    },
+    {
+        "title": "Amber Brown Is Not a Crayon",
+        "isbn": "0142406198",
+        "cover": "//covers.openlibrary.org/b/id/10239223-M.jpg",
+        "authors": "Paula Danziger/Tony Ross",
+        "rating": 3.84,
+        "reviews": 9670,
+        "pages": "eng"
+    },
+    {
+        "title": "Siddhartha",
+        "isbn": "0142437182",
+        "cover": "//covers.openlibrary.org/b/id/110549-M.jpg",
+        "authors": "Hermann Hesse/Joachim Neugroschel/Ralph Freedman",
+        "rating": 4.02,
+        "reviews": 2340,
+        "pages": "eng"
+    },
+    {
+        "title": "The Aleph and Other Stories",
+        "isbn": "0142437883",
+        "cover": "//covers.openlibrary.org/b/id/110614-M.jpg",
+        "authors": "Jorge Luis Borges/Andrew Hurley",
+        "rating": 4.38,
+        "reviews": 40728,
+        "pages": "eng"
+    },
+    {
+        "title": "Anna Karenina",
+        "isbn": "0143035002",
+        "cover": "//covers.openlibrary.org/b/id/111128-M.jpg",
+        "authors": "Leo Tolstoy/Richard Pevear/Larissa Volokhonsky",
+        "rating": 4.05,
+        "reviews": 34124,
+        "pages": "eng"
+    },
+    {
+        "title": "Disgrace",
+        "isbn": "0143036378",
+        "cover": "//covers.openlibrary.org/b/id/111255-M.jpg",
+        "authors": "J.M. Coetzee",
+        "rating": 3.84,
+        "reviews": 123310,
+        "pages": "eng"
+    },
+    {
+        "title": "Collapse: How Societies Choose to Fail or Succeed",
+        "isbn": "0143036556",
+        "cover": "//covers.openlibrary.org/b/id/12915179-M.jpg",
+        "authors": "Jared Diamond",
+        "rating": 3.93,
+        "reviews": 105652,
+        "pages": "eng"
+    },
+    {
+        "title": "The Wind in the Willows",
+        "isbn": "0143039091",
+        "cover": "//covers.openlibrary.org/b/id/10655673-M.jpg",
+        "authors": "Kenneth Grahame/Gillian Avery",
+        "rating": 3.99,
+        "reviews": 295693,
+        "pages": "eng"
+    },
+    {
+        "title": "Kristin Lavransdatter (Kristin Lavransdatter  #1-3)",
+        "isbn": "0143039164",
+        "cover": "//covers.openlibrary.org/b/id/111485-M.jpg",
+        "authors": "Sigrid Undset/Tiina Nunnally/Brad Leithauser",
+        "rating": 4.28,
+        "reviews": 15564,
+        "pages": "eng"
+    },
+    {
+        "title": "The New York Trilogy",
+        "isbn": "0143039830",
+        "cover": "",
+        "authors": "Paul Auster/Art Spiegelman/Luc Sante",
+        "rating": 3.89,
+        "reviews": 86708,
+        "pages": "eng"
+    },
+    {
+        "title": "Gravity's Rainbow",
+        "isbn": "0143039946",
+        "cover": "//covers.openlibrary.org/b/id/111560-M.jpg",
+        "authors": "Thomas Pynchon",
+        "rating": 4.01,
+        "reviews": 60304,
+        "pages": "eng"
+    },
+    {
+        "title": "The Odyssey",
+        "isbn": "0143039954",
+        "cover": "//covers.openlibrary.org/b/id/111561-M.jpg",
+        "authors": "Homer/Robert Fagles/Bernard Knox",
+        "rating": 3.76,
+        "reviews": 1522283,
+        "pages": "eng"
+    },
+    {
+        "title": "Twenty Love Poems and a Song of Despair",
+        "isbn": "0143039962",
+        "cover": "//covers.openlibrary.org/b/id/111562-M.jpg",
+        "authors": "Pablo Neruda/W.S. Merwin/Cristina Garc\u00eda",
+        "rating": 4.3,
+        "reviews": 75954,
+        "pages": "eng"
+    },
+    {
+        "title": "The Iliad/The Odyssey",
+        "isbn": "0147712556",
+        "cover": "//covers.openlibrary.org/b/id/111898-M.jpg",
+        "authors": "Homer/Robert Fagles/Bernard Knox",
+        "rating": 4.04,
+        "reviews": 111434,
+        "pages": "eng"
+    },
+    {
+        "title": "Animal Farm / 1984",
+        "isbn": "0151010269",
+        "cover": "//covers.openlibrary.org/b/id/10524365-M.jpg",
+        "authors": "George Orwell/Christopher Hitchens",
+        "rating": 4.28,
+        "reviews": 293718,
+        "pages": "eng"
+    },
+    {
+        "title": "All the King's Men",
+        "isbn": "0156004801",
+        "cover": "//covers.openlibrary.org/b/id/115258-M.jpg",
+        "authors": "Robert Penn Warren",
+        "rating": 4.09,
+        "reviews": 95087,
+        "pages": "eng"
+    },
+    {
+        "title": "The Oedipus Cycle: Oedipus Rex  Oedipus at Colonus  Antigone",
+        "isbn": "015602764X",
+        "cover": "//covers.openlibrary.org/b/id/115630-M.jpg",
+        "authors": "Sophocles/Robert Fitzgerald/Dudley Fitts",
+        "rating": 3.97,
+        "reviews": 91437,
+        "pages": "eng"
+    },
+    {
+        "title": "The Moonstone",
+        "isbn": "0192100289",
+        "cover": "https://archive.org/download/moonstone00coll_1/page/cover_w180_h360.jpg",
+        "authors": "Wilkie Collins/P.D. James",
+        "rating": 3.91,
+        "reviews": 724,
+        "pages": "eng"
+    },
+    {
+        "title": "Phaedrus",
+        "isbn": "0192802771",
+        "cover": "https://archive.org/download/phaedrusoxfordwo00plat/page/cover_w180_h360.jpg",
+        "authors": "Plato/Robin Waterfield",
+        "rating": 3.92,
+        "reviews": 186,
+        "pages": "eng"
+    },
+    {
+        "title": "The Histories",
+        "isbn": "0192824252",
+        "cover": "//covers.openlibrary.org/b/id/118585-M.jpg",
+        "authors": "Herodotus/Carolyn Dewald/Robin Waterfield",
+        "rating": 3.99,
+        "reviews": 1314,
+        "pages": "eng"
+    },
+    {
+        "title": "Orestes and Other Plays",
+        "isbn": "0192832603",
+        "cover": "//covers.openlibrary.org/b/id/119019-M.jpg",
+        "authors": "Euripides/James Morwood/Robin Waterfield",
+        "rating": 4.1,
+        "reviews": 598,
+        "pages": "eng"
+    },
+    {
+        "title": "War and Peace",
+        "isbn": "0192833987",
+        "cover": "//covers.openlibrary.org/b/id/119157-M.jpg",
+        "authors": "Leo Tolstoy/Henry Gifford/Aylmer Maude/Louise Maude",
+        "rating": 4.11,
+        "reviews": 424734,
+        "pages": "eng"
+    },
+    {
+        "title": "Antigone; Oedipus the Kingn; Electra",
+        "isbn": "0192835882",
+        "cover": "//covers.openlibrary.org/b/id/119342-M.jpg",
+        "authors": "Sophocles/Edith Hall/H.D.F. Kitto",
+        "rating": 3.94,
+        "reviews": 26894,
+        "pages": "eng"
+    },
+    {
+        "title": "The Eclogues and The Georgics",
+        "isbn": "0192837680",
+        "cover": "//covers.openlibrary.org/b/id/119493-M.jpg",
+        "authors": "Virgil/Cecil Day-Lewis",
+        "rating": 3.8,
+        "reviews": 698,
+        "pages": "eng"
+    },
+    {
+        "title": "Alcestis",
+        "isbn": "0195061667",
+        "cover": "//covers.openlibrary.org/b/id/121545-M.jpg",
+        "authors": "Euripides/William Arrowsmith",
+        "rating": 3.83,
+        "reviews": 4042,
+        "pages": "eng"
+    },
+    {
+        "title": "Ride of the Second Horseman: The Birth and Death of War",
+        "isbn": "0195119207",
+        "cover": "//covers.openlibrary.org/b/id/124077-M.jpg",
+        "authors": "Robert L. O'Connell",
+        "rating": 4.29,
+        "reviews": 346,
+        "pages": "eng"
+    },
+    {
+        "title": "Bakkhai",
+        "isbn": "0195125983",
+        "cover": "//covers.openlibrary.org/b/id/124442-M.jpg",
+        "authors": "Euripides/Reginald Gibbons/Peter H. Burian",
+        "rating": 3.88,
+        "reviews": 468,
+        "pages": "eng"
+    },
+    {
+        "title": "The Oresteia",
+        "isbn": "019513592X",
+        "cover": "//covers.openlibrary.org/b/id/125003-M.jpg",
+        "authors": "Aeschylus/Alan Shapiro/Peter H. Burian",
+        "rating": 4.02,
+        "reviews": 458,
+        "pages": "eng"
+    },
+    {
+        "title": "Medea",
+        "isbn": "0195145666",
+        "cover": "//covers.openlibrary.org/b/id/125468-M.jpg",
+        "authors": "Euripides/Georgia Ann Machemer/Michael   Collier",
+        "rating": 3.87,
+        "reviews": 850,
+        "pages": "eng"
+    },
+    {
+        "title": "The Design and Implementation of the 4.3BSD UNIX Operating System",
+        "isbn": "0201061961",
+        "cover": "//covers.openlibrary.org/b/id/4062254-M.jpg",
+        "authors": "Samuel J. Leffler/Marshall Kirk McKusick/Michael J. Karels",
+        "rating": 4.26,
+        "reviews": 525,
+        "pages": "eng"
+    },
+    {
+        "title": "The Evidence-Based Social Work Skills Book",
+        "isbn": "0205358624",
+        "cover": "//covers.openlibrary.org/b/id/1145702-M.jpg",
+        "authors": "Barry R. Cournoyer",
+        "rating": 3.4,
+        "reviews": 236,
+        "pages": "eng"
+    },
+    {
+        "title": "The Crescent Obscured: The United States and the Muslim World  1776-1815",
+        "isbn": "0226014908",
+        "cover": "//covers.openlibrary.org/b/id/139494-M.jpg",
+        "authors": "Robert J. Allison",
+        "rating": 3.62,
+        "reviews": 346,
+        "pages": "eng"
+    },
+    {
+        "title": "The Work of Mourning",
+        "isbn": "0226142817",
+        "cover": "//covers.openlibrary.org/b/id/140406-M.jpg",
+        "authors": "Jacques Derrida/Pascale-Anne Brault/Michael Naas",
+        "rating": 4.2,
+        "reviews": 606,
+        "pages": "eng"
+    },
+    {
+        "title": "The Complete Greek Tragedies  Volume 1: Aeschylus",
+        "isbn": "0226307646",
+        "cover": "//covers.openlibrary.org/b/id/2335698-M.jpg",
+        "authors": "Aeschylus/Richmond Lattimore/David Grene",
+        "rating": 4.1,
+        "reviews": 506,
+        "pages": "eng"
+    },
+    {
+        "title": "The Complete Greek Tragedies  Volume 3: Euripides",
+        "isbn": "0226307662",
+        "cover": "//covers.openlibrary.org/b/id/2335702-M.jpg",
+        "authors": "Euripides/David Grene/Richmond Lattimore",
+        "rating": 4.43,
+        "reviews": 764,
+        "pages": "eng"
+    },
+    {
+        "title": "Euripides I: Alcestis / The Medea / The Heracleidae / Hippolytus",
+        "isbn": "0226307808",
+        "cover": "//covers.openlibrary.org/b/id/6982132-M.jpg",
+        "authors": "Euripides/Richmond Lattimore/David Grene/Rex Warner/Ralph Gladstone",
+        "rating": 4.03,
+        "reviews": 9187,
+        "pages": "eng"
+    },
+    {
+        "title": "Euripides II: The Cyclops / Heracles / Iphigenia in Tauris / Helen",
+        "isbn": "0226307816",
+        "cover": "//covers.openlibrary.org/b/id/141067-M.jpg",
+        "authors": "Euripides/David Grene/Richmond Lattimore/Witter Bynner/William Arrowsmith",
+        "rating": 4.31,
+        "reviews": 1844,
+        "pages": "eng"
+    },
+    {
+        "title": "Euripides III: Hecuba / Andromache / The Trojan Women / Ion (Complete Greek Tragedies  #7)",
+        "isbn": "0226307824",
+        "cover": "//covers.openlibrary.org/b/id/141068-M.jpg",
+        "authors": "Euripides/David Grene/Richmond Lattimore/William Arrowsmith/John Frederick Nims/Ronald Frederick Willetts",
+        "rating": 4.0,
+        "reviews": 1337,
+        "pages": "eng"
+    },
+    {
+        "title": "Euripides IV: Rhesus / The Suppliant Women / Orestes / Iphigenia in Aulis",
+        "isbn": "0226307832",
+        "cover": "//covers.openlibrary.org/b/id/6645721-M.jpg",
+        "authors": "Euripides/David Grene/Richmond Lattimore/William Arrowsmith/Frank William Jones/Charles R. Walker",
+        "rating": 4.21,
+        "reviews": 1427,
+        "pages": "eng"
+    },
+    {
+        "title": "Euripides V: Electra / The Phoenician Women / The Bacchae",
+        "isbn": "0226307840",
+        "cover": "//covers.openlibrary.org/b/id/141070-M.jpg",
+        "authors": "Euripides/David Grene/Richmond Lattimore/Emily Townsend Vermeule/Elizabeth Wyckoff/William Arrowsmith",
+        "rating": 4.21,
+        "reviews": 6896,
+        "pages": "eng"
+    },
+    {
+        "title": "Sophocles II: Ajax/Women of Trachis/Electra/Philoctetes (Complete Greek Tragedies 4)",
+        "isbn": "0226307867",
+        "cover": "//covers.openlibrary.org/b/id/141071-M.jpg",
+        "authors": "Sophocles/David Grene/Richmond Lattimore/John Moore/Michael Jameson",
+        "rating": 4.14,
+        "reviews": 10318,
+        "pages": "eng"
+    },
+    {
+        "title": "Aeschylus II: The Suppliant Maidens  The Persians  Seven against Thebes  and Prometheus Bound (The Complete Greek Tragedies)",
+        "isbn": "0226307948",
+        "cover": "//covers.openlibrary.org/b/id/141077-M.jpg",
+        "authors": "Aeschylus/David Grene/Richmond Lattimore/Seth Benardete",
+        "rating": 4.1,
+        "reviews": 966,
+        "pages": "eng"
+    },
+    {
+        "title": "Ideas Have Consequences",
+        "isbn": "0226876802",
+        "cover": "//covers.openlibrary.org/b/id/143482-M.jpg",
+        "authors": "Richard M. Weaver",
+        "rating": 4.16,
+        "reviews": 2138,
+        "pages": "eng"
+    },
+    {
+        "title": "The Hobbit",
+        "isbn": "0261103288",
+        "cover": "//covers.openlibrary.org/b/id/149276-M.jpg",
+        "authors": "J.R.R. Tolkien",
+        "rating": 4.27,
+        "reviews": 6703,
+        "pages": "eng"
+    },
+    {
+        "title": "Learnability and Cognition: The Acquisition of Argument Structure",
+        "isbn": "0262660733",
+        "cover": "//covers.openlibrary.org/b/id/152265-M.jpg",
+        "authors": "Steven Pinker/Jacques A. Mehler",
+        "rating": 3.75,
+        "reviews": 532,
+        "pages": "eng"
+    },
+    {
+        "title": "Traders  Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives",
+        "isbn": "0273704745",
+        "cover": "//covers.openlibrary.org/b/id/154437-M.jpg",
+        "authors": "Satyajit Das",
+        "rating": 3.83,
+        "reviews": 3246,
+        "pages": "eng"
+    },
+    {
+        "title": "Manliness",
+        "isbn": "0300106645",
+        "cover": "//covers.openlibrary.org/b/id/162512-M.jpg",
+        "authors": "Harvey Mansfield",
+        "rating": 3.39,
+        "reviews": 658,
+        "pages": "eng"
+    },
+    {
+        "title": "Giada's Family Dinners",
+        "isbn": "030723827X",
+        "cover": "//covers.openlibrary.org/b/id/166821-M.jpg",
+        "authors": "Giada De Laurentiis/Victoria Pearson",
+        "rating": 3.96,
+        "reviews": 28462,
+        "pages": "eng"
+    },
+    {
+        "title": "Digging to America",
+        "isbn": "0307263940",
+        "cover": "//covers.openlibrary.org/b/id/167147-M.jpg",
+        "authors": "Anne Tyler",
+        "rating": 3.55,
+        "reviews": 34587,
+        "pages": "eng"
+    },
+    {
+        "title": "We Tell Ourselves Stories in Order to Live: Collected Nonfiction",
+        "isbn": "0307264874",
+        "cover": "//covers.openlibrary.org/b/id/167202-M.jpg",
+        "authors": "Joan Didion/John Leonard",
+        "rating": 4.5,
+        "reviews": 4250,
+        "pages": "eng"
+    },
+    {
+        "title": "Collected Stories",
+        "isbn": "0307264904",
+        "cover": "//covers.openlibrary.org/b/id/9159583-M.jpg",
+        "authors": "Roald Dahl/Jeremy Treglown",
+        "rating": 4.39,
+        "reviews": 1542,
+        "pages": "eng"
+    },
+    {
+        "title": "The Road",
+        "isbn": "0307265439",
+        "cover": "//covers.openlibrary.org/b/id/8373710-M.jpg",
+        "authors": "Cormac McCarthy",
+        "rating": 3.97,
+        "reviews": 1213107,
+        "pages": "eng"
+    },
+    {
+        "title": "A Million Little Pieces",
+        "isbn": "0307276902",
+        "cover": "//covers.openlibrary.org/b/id/7083934-M.jpg",
+        "authors": "James Frey",
+        "rating": 3.65,
+        "reviews": 412537,
+        "pages": "eng"
+    },
+    {
+        "title": "Lord of the Flies",
+        "isbn": "0307281701",
+        "cover": "//covers.openlibrary.org/b/id/9349927-M.jpg",
+        "authors": "William Golding",
+        "rating": 3.68,
+        "reviews": 822,
+        "pages": "eng"
+    },
+    {
+        "title": "Everyday Pasta",
+        "isbn": "0307346587",
+        "cover": "//covers.openlibrary.org/b/id/168105-M.jpg",
+        "authors": "Giada De Laurentiis/Victoria Pearson",
+        "rating": 4.09,
+        "reviews": 17884,
+        "pages": "eng"
+    },
+    {
+        "title": "Purpose Driven Life - For Commuters: What on Earth Am I Here For?",
+        "isbn": "0310258979",
+        "cover": "//covers.openlibrary.org/b/id/170807-M.jpg",
+        "authors": "Rick Warren",
+        "rating": 3.93,
+        "reviews": 57,
+        "pages": "eng"
+    },
+    {
+        "title": "Waiting for My Cats to Die: A Memoir",
+        "isbn": "0312287445",
+        "cover": "//covers.openlibrary.org/b/id/178417-M.jpg",
+        "authors": "Stacy Horn",
+        "rating": 3.67,
+        "reviews": 674,
+        "pages": "eng"
+    },
+    {
+        "title": "Choke Point: A Brinker Mystery (Brinker P.I.)",
+        "isbn": "0312315325",
+        "cover": "//covers.openlibrary.org/b/id/7084018-M.jpg",
+        "authors": "James C. Mitchell",
+        "rating": 3.22,
+        "reviews": 278,
+        "pages": "eng"
+    },
+    {
+        "title": "Mason & Dixon",
+        "isbn": "0312423209",
+        "cover": "//covers.openlibrary.org/b/id/181830-M.jpg",
+        "authors": "Thomas Pynchon/Christophe Claro/Brice Matthieussent",
+        "rating": 4.07,
+        "reviews": 16945,
+        "pages": "eng"
+    },
+    {
+        "title": "Primo Levi: A Life",
+        "isbn": "0312423675",
+        "cover": "//covers.openlibrary.org/b/id/181861-M.jpg",
+        "authors": "Ian Thomson",
+        "rating": 4.11,
+        "reviews": 848,
+        "pages": "eng"
+    },
+    {
+        "title": "I am Charlotte Simmons",
+        "isbn": "0312424442",
+        "cover": "//covers.openlibrary.org/b/id/10548178-M.jpg",
+        "authors": "Tom Wolfe",
+        "rating": 3.42,
+        "reviews": 42514,
+        "pages": "eng"
+    },
+    {
+        "title": "The Brooklyn Follies",
+        "isbn": "0312426232",
+        "cover": "//covers.openlibrary.org/b/id/182028-M.jpg",
+        "authors": "Paul Auster",
+        "rating": 3.84,
+        "reviews": 36260,
+        "pages": "eng"
+    },
+    {
+        "title": "A Sparrow Falls (Courtney #3)",
+        "isbn": "0312940688",
+        "cover": "//covers.openlibrary.org/b/id/183981-M.jpg",
+        "authors": "Wilbur Smith",
+        "rating": 4.19,
+        "reviews": 10678,
+        "pages": "eng"
+    },
+    {
+        "title": "White Oleander",
+        "isbn": "0316284955",
+        "cover": "//covers.openlibrary.org/b/id/188769-M.jpg",
+        "authors": "Janet Fitch",
+        "rating": 3.96,
+        "reviews": 6704,
+        "pages": "eng"
+    },
+    {
+        "title": "Slow Learner: Early Stories",
+        "isbn": "0316724432",
+        "cover": "//covers.openlibrary.org/b/id/9627018-M.jpg",
+        "authors": "Thomas Pynchon",
+        "rating": 3.5,
+        "reviews": 861,
+        "pages": "eng"
+    },
+    {
+        "title": "Leadership",
+        "isbn": "0316861014",
+        "cover": "//covers.openlibrary.org/b/id/10464345-M.jpg",
+        "authors": "Rudolph W. Giuliani",
+        "rating": 3.72,
+        "reviews": 4037,
+        "pages": "eng"
+    },
+    {
+        "title": "Hard Times",
+        "isbn": "0321107217",
+        "cover": "//covers.openlibrary.org/b/id/2382912-M.jpg",
+        "authors": "Charles Dickens",
+        "rating": 3.52,
+        "reviews": 82435,
+        "pages": "eng"
+    },
+    {
+        "title": "The Power of One: The Solo Play for Playwrights  Actors  and Directors",
+        "isbn": "0325001537",
+        "cover": "//covers.openlibrary.org/b/id/2385168-M.jpg",
+        "authors": "Louis E. Catron",
+        "rating": 3.67,
+        "reviews": 260,
+        "pages": "eng"
+    },
+    {
+        "title": "A Bend in the River",
+        "isbn": "0330487140",
+        "cover": "//covers.openlibrary.org/b/id/198434-M.jpg",
+        "authors": "V.S. Naipaul",
+        "rating": 3.77,
+        "reviews": 26620,
+        "pages": "eng"
+    },
+    {
+        "title": "'Salem's Lot",
+        "isbn": "0340770538",
+        "cover": "//covers.openlibrary.org/b/id/10693243-M.jpg",
+        "authors": "Stephen King",
+        "rating": 4.02,
+        "reviews": 636,
+        "pages": "eng"
+    },
+    {
+        "title": "Lovely in Her Bones (Elizabeth MacPherson  #2)",
+        "isbn": "0345360354",
+        "cover": "//covers.openlibrary.org/b/id/207643-M.jpg",
+        "authors": "Sharyn McCrumb",
+        "rating": 3.8,
+        "reviews": 2966,
+        "pages": "eng"
+    },
+    {
+        "title": "Douglas Adams's Starship Titanic",
+        "isbn": "0345368436",
+        "cover": "//covers.openlibrary.org/b/id/7480637-M.jpg",
+        "authors": "Terry Jones",
+        "rating": 3.6,
+        "reviews": 2026,
+        "pages": "eng"
+    },
+    {
+        "title": "The Power of One (The Power of One  #1)",
+        "isbn": "034541005X",
+        "cover": "//covers.openlibrary.org/b/id/6459205-M.jpg",
+        "authors": "Bryce Courtenay",
+        "rating": 4.35,
+        "reviews": 138878,
+        "pages": "eng"
+    },
+    {
+        "title": "The Door Into Summer",
+        "isbn": "0345413997",
+        "cover": "//covers.openlibrary.org/b/id/10118264-M.jpg",
+        "authors": "Robert A. Heinlein",
+        "rating": 4.01,
+        "reviews": 34768,
+        "pages": "eng"
+    },
+    {
+        "title": "The Collapse of the Common Good: How America's Lawsuit Culture Undermines Our Freedom",
+        "isbn": "034543871X",
+        "cover": "//covers.openlibrary.org/b/id/209903-M.jpg",
+        "authors": "Philip K. Howard",
+        "rating": 3.91,
+        "reviews": 396,
+        "pages": "eng"
+    },
+    {
+        "title": "The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1-5)",
+        "isbn": "0345453743",
+        "cover": "//covers.openlibrary.org/b/id/12065809-M.jpg",
+        "authors": "Douglas Adams",
+        "rating": 4.38,
+        "reviews": 499931,
+        "pages": "eng"
+    },
+    {
+        "title": "The Salmon of Doubt (Dirk Gently  #3)",
+        "isbn": "0345455290",
+        "cover": "//covers.openlibrary.org/b/id/11464835-M.jpg",
+        "authors": "Douglas Adams",
+        "rating": 3.93,
+        "reviews": 44480,
+        "pages": "eng"
+    },
+    {
+        "title": "Wish You Were Here: The Official Biography of Douglas Adams",
+        "isbn": "0345476514",
+        "cover": "",
+        "authors": "Nick  Webb",
+        "rating": 4.14,
+        "reviews": 5614,
+        "pages": "eng"
+    },
+    {
+        "title": "The Power Broker: A Novel (Christian Gillette  #3)",
+        "isbn": "0345480600",
+        "cover": "//covers.openlibrary.org/b/id/8293171-M.jpg",
+        "authors": "Stephen W. Frey",
+        "rating": 3.75,
+        "reviews": 376,
+        "pages": "eng"
+    },
+    {
+        "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+        "isbn": "0345538374",
+        "cover": "//covers.openlibrary.org/b/id/7657446-M.jpg",
+        "authors": "J.R.R. Tolkien",
+        "rating": 4.59,
+        "reviews": 204194,
+        "pages": "eng"
+    },
+    {
+        "title": "The Drowned and the Saved",
+        "isbn": "0349100470",
+        "cover": "",
+        "authors": "Primo Levi",
+        "rating": 4.4,
+        "reviews": 7254,
+        "pages": "eng"
+    },
+    {
+        "title": "Monkey Business",
+        "isbn": "0373250711",
+        "cover": "//covers.openlibrary.org/b/id/8277908-M.jpg",
+        "authors": "Sarah Mlynowski",
+        "rating": 3.67,
+        "reviews": 7150,
+        "pages": "eng"
+    },
+    {
+        "title": "Boys of Summer",
+        "isbn": "0373792689",
+        "cover": "//covers.openlibrary.org/b/id/221499-M.jpg",
+        "authors": "Julie Elizabeth Leto/Leslie Kelly/Kimberly Raye",
+        "rating": 3.77,
+        "reviews": 1205,
+        "pages": "eng"
+    },
+    {
+        "title": "The Natural",
+        "isbn": "0374502005",
+        "cover": "//covers.openlibrary.org/b/id/224559-M.jpg",
+        "authors": "Bernard Malamud/Kevin Baker",
+        "rating": 3.63,
+        "reviews": 17939,
+        "pages": "eng"
+    },
+    {
+        "title": "Giving Good Weight",
+        "isbn": "0374516006",
+        "cover": "//covers.openlibrary.org/b/id/224654-M.jpg",
+        "authors": "John McPhee",
+        "rating": 4.23,
+        "reviews": 1372,
+        "pages": "eng"
+    },
+    {
+        "title": "The John McPhee Reader (John McPhee Reader  #1)",
+        "isbn": "0374517193",
+        "cover": "//covers.openlibrary.org/b/id/224670-M.jpg",
+        "authors": "John McPhee/William Howarth",
+        "rating": 4.42,
+        "reviews": 1540,
+        "pages": "eng"
+    },
+    {
+        "title": "Annals of the Former World",
+        "isbn": "0374518734",
+        "cover": "//covers.openlibrary.org/b/id/6798433-M.jpg",
+        "authors": "John McPhee",
+        "rating": 4.34,
+        "reviews": 6950,
+        "pages": "eng"
+    },
+    {
+        "title": "Heirs of General Practice",
+        "isbn": "0374519749",
+        "cover": "//covers.openlibrary.org/b/id/224711-M.jpg",
+        "authors": "John McPhee",
+        "rating": 4.17,
+        "reviews": 664,
+        "pages": "eng"
+    },
+    {
+        "title": "Rising from the Plains",
+        "isbn": "0374520658",
+        "cover": "",
+        "authors": "John McPhee",
+        "rating": 4.23,
+        "reviews": 2890,
+        "pages": "eng"
+    },
+    {
+        "title": "Slouching Towards Bethlehem",
+        "isbn": "0374521727",
+        "cover": "//covers.openlibrary.org/b/id/7281479-M.jpg",
+        "authors": "Joan Didion",
+        "rating": 4.21,
+        "reviews": 54106,
+        "pages": "eng"
+    },
+    {
+        "title": "The White Album",
+        "isbn": "0374522219",
+        "cover": "//covers.openlibrary.org/b/id/224780-M.jpg",
+        "authors": "Joan Didion",
+        "rating": 4.17,
+        "reviews": 24000,
+        "pages": "eng"
+    },
+    {
+        "title": "Coming Into the Country",
+        "isbn": "0374522871",
+        "cover": "//covers.openlibrary.org/b/id/224803-M.jpg",
+        "authors": "John McPhee",
+        "rating": 4.22,
+        "reviews": 11856,
+        "pages": "eng"
+    },
+    {
+        "title": "The Odyssey",
+        "isbn": "0374525749",
+        "cover": "//covers.openlibrary.org/b/id/224984-M.jpg",
+        "authors": "Homer/Robert Fitzgerald/D.S. Carne-Ross",
+        "rating": 3.76,
+        "reviews": 3941,
+        "pages": "eng"
+    },
+    {
+        "title": "Play It As It Lays",
+        "isbn": "0374529949",
+        "cover": "//covers.openlibrary.org/b/id/225257-M.jpg",
+        "authors": "Joan Didion/David Thomson",
+        "rating": 3.87,
+        "reviews": 47543,
+        "pages": "eng"
+    },
+    {
+        "title": "The Border Trilogy: All the Pretty Horses  The Crossing  Cities of the Plain",
+        "isbn": "0375407936",
+        "cover": "//covers.openlibrary.org/b/id/225981-M.jpg",
+        "authors": "Cormac McCarthy",
+        "rating": 4.44,
+        "reviews": 10218,
+        "pages": "eng"
+    },
+    {
+        "title": "The Cairo Trilogy: Palace Walk / Palace of Desire / Sugar Street (The Cairo Trilogy #1-3)",
+        "isbn": "0375413316",
+        "cover": "//covers.openlibrary.org/b/id/226388-M.jpg",
+        "authors": "Naguib Mahfouz",
+        "rating": 4.46,
+        "reviews": 8007,
+        "pages": "eng"
+    },
+    {
+        "title": "Magic Seeds",
+        "isbn": "0375707271",
+        "cover": "//covers.openlibrary.org/b/id/10464760-M.jpg",
+        "authors": "V.S. Naipaul",
+        "rating": 3.13,
+        "reviews": 1710,
+        "pages": "eng"
+    },
+    {
+        "title": "Half a Life",
+        "isbn": "037570728X",
+        "cover": "//covers.openlibrary.org/b/id/228800-M.jpg",
+        "authors": "V.S. Naipaul",
+        "rating": 3.25,
+        "reviews": 6380,
+        "pages": "eng"
+    },
+    {
+        "title": "The Adolescent",
+        "isbn": "0375719008",
+        "cover": "//covers.openlibrary.org/b/id/229259-M.jpg",
+        "authors": "Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky",
+        "rating": 3.94,
+        "reviews": 7783,
+        "pages": "eng"
+    },
+    {
+        "title": "The Double and The Gambler",
+        "isbn": "0375719016",
+        "cover": "//covers.openlibrary.org/b/id/9471718-M.jpg",
+        "authors": "Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky",
+        "rating": 4.16,
+        "reviews": 5316,
+        "pages": "eng"
+    },
+    {
+        "title": "Anil's Ghost",
+        "isbn": "0375724370",
+        "cover": "//covers.openlibrary.org/b/id/229486-M.jpg",
+        "authors": "Michael Ondaatje",
+        "rating": 3.57,
+        "reviews": 26355,
+        "pages": "eng"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "isbn": "0375751513",
+        "cover": "//covers.openlibrary.org/b/id/229898-M.jpg",
+        "authors": "Oscar Wilde/Jeffrey Eugenides",
+        "rating": 4.08,
+        "reviews": 1521706,
+        "pages": "eng"
+    },
+    {
+        "title": "Sailing Alone Around the Room: New and Selected Poems",
+        "isbn": "0375755195",
+        "cover": "//covers.openlibrary.org/b/id/230163-M.jpg",
+        "authors": "Billy Collins",
+        "rating": 4.23,
+        "reviews": 24552,
+        "pages": "eng"
+    },
+    {
+        "title": "Ethan Frome and Summer",
+        "isbn": "0375757287",
+        "cover": "//covers.openlibrary.org/b/id/230353-M.jpg",
+        "authors": "Edith Wharton/Elizabeth Strout",
+        "rating": 3.86,
+        "reviews": 1240,
+        "pages": "eng"
+    },
+    {
+        "title": "The Moonstone",
+        "isbn": "0375757856",
+        "cover": "//covers.openlibrary.org/b/id/230407-M.jpg",
+        "authors": "Wilkie Collins/Carolyn G. Heilbrun",
+        "rating": 3.91,
+        "reviews": 119946,
+        "pages": "eng"
+    },
+    {
+        "title": "Little Dorrit",
+        "isbn": "037575914X",
+        "cover": "//covers.openlibrary.org/b/id/230513-M.jpg",
+        "authors": "Charles Dickens/Hablot Knight Browne/David Gates",
+        "rating": 3.99,
+        "reviews": 1929,
+        "pages": "eng"
+    },
+    {
+        "title": "The Grass Crown (Masters of Rome  #2)",
+        "isbn": "038071082X",
+        "cover": "//covers.openlibrary.org/b/id/8231824-M.jpg",
+        "authors": "Colleen McCullough",
+        "rating": 4.3,
+        "reviews": 20350,
+        "pages": "eng"
+    },
+    {
+        "title": "Tim",
+        "isbn": "0380711966",
+        "cover": "//covers.openlibrary.org/b/id/234931-M.jpg",
+        "authors": "Colleen McCullough",
+        "rating": 3.81,
+        "reviews": 594,
+        "pages": "eng"
+    },
+    {
+        "title": "Neither Here nor There: Travels in Europe",
+        "isbn": "0380713802",
+        "cover": "//covers.openlibrary.org/b/id/234958-M.jpg",
+        "authors": "Bill Bryson",
+        "rating": 3.86,
+        "reviews": 97656,
+        "pages": "eng"
+    },
+    {
+        "title": "The Mother Tongue: English and How It Got That Way",
+        "isbn": "0380715430",
+        "cover": "//covers.openlibrary.org/b/id/234982-M.jpg",
+        "authors": "Bill Bryson",
+        "rating": 3.93,
+        "reviews": 57248,
+        "pages": "eng"
+    },
+    {
+        "title": "Wrinkles in Time",
+        "isbn": "0380720442",
+        "cover": "//covers.openlibrary.org/b/id/10464297-M.jpg",
+        "authors": "George Smoot/Keay Davidson",
+        "rating": 4.01,
+        "reviews": 2430,
+        "pages": "eng"
+    },
+    {
+        "title": "Notes from a Small Island",
+        "isbn": "0380727501",
+        "cover": "",
+        "authors": "Bill Bryson",
+        "rating": 3.91,
+        "reviews": 161542,
+        "pages": "eng"
+    },
+    {
+        "title": "Anne Frank: Life in Hiding",
+        "isbn": "0380732548",
+        "cover": "//covers.openlibrary.org/b/id/235562-M.jpg",
+        "authors": "Johanna Hurwitz/Vera Rosenberry",
+        "rating": 3.99,
+        "reviews": 368,
+        "pages": "eng"
+    },
+    {
+        "title": "Children of the Alley",
+        "isbn": "0385264739",
+        "cover": "//covers.openlibrary.org/b/id/238864-M.jpg",
+        "authors": "Naguib Mahfouz/Peter Theroux",
+        "rating": 4.1,
+        "reviews": 2848,
+        "pages": "eng"
+    },
+    {
+        "title": "Midaq Alley",
+        "isbn": "0385264763",
+        "cover": "//covers.openlibrary.org/b/id/238865-M.jpg",
+        "authors": "Naguib Mahfouz/Trevor Le Gassick",
+        "rating": 3.85,
+        "reviews": 9916,
+        "pages": "eng"
+    },
+    {
+        "title": "Guts: The True Stories behind Hatchet and the Brian Books",
+        "isbn": "0385326505",
+        "cover": "//covers.openlibrary.org/b/id/239598-M.jpg",
+        "authors": "Gary Paulsen",
+        "rating": 3.88,
+        "reviews": 4278,
+        "pages": "eng"
+    },
+    {
+        "title": "Dragonfly in Amber (Outlander  #2)",
+        "isbn": "0385335970",
+        "cover": "//covers.openlibrary.org/b/id/239981-M.jpg",
+        "authors": "Diana Gabaldon",
+        "rating": 4.32,
+        "reviews": 445023,
+        "pages": "eng"
+    },
+    {
+        "title": "Coming of Age in Mississippi: The Classic Autobiography of a Young Black Girl in the Rural South",
+        "isbn": "0385337817",
+        "cover": "//covers.openlibrary.org/b/id/240133-M.jpg",
+        "authors": "Anne Moody",
+        "rating": 4.13,
+        "reviews": 14568,
+        "pages": "eng"
+    },
+    {
+        "title": "A Painted House",
+        "isbn": "0385337930",
+        "cover": "//covers.openlibrary.org/b/id/240141-M.jpg",
+        "authors": "John Grisham",
+        "rating": 3.7,
+        "reviews": 136098,
+        "pages": "eng"
+    },
+    {
+        "title": "The Client",
+        "isbn": "0385339089",
+        "cover": "//covers.openlibrary.org/b/id/240221-M.jpg",
+        "authors": "John Grisham",
+        "rating": 4.0,
+        "reviews": 735281,
+        "pages": "eng"
+    },
+    {
+        "title": "The Street Lawyer",
+        "isbn": "0385339097",
+        "cover": "//covers.openlibrary.org/b/id/9322924-M.jpg",
+        "authors": "John Grisham",
+        "rating": 3.83,
+        "reviews": 180278,
+        "pages": "eng"
+    },
+    {
+        "title": "The Partner",
+        "isbn": "0385339100",
+        "cover": "//covers.openlibrary.org/b/id/10464725-M.jpg",
+        "authors": "John Grisham",
+        "rating": 3.92,
+        "reviews": 195364,
+        "pages": "eng"
+    },
+    {
+        "title": "The Summons",
+        "isbn": "0385339593",
+        "cover": "//covers.openlibrary.org/b/id/240253-M.jpg",
+        "authors": "John Grisham",
+        "rating": 3.69,
+        "reviews": 118186,
+        "pages": "eng"
+    },
+    {
+        "title": "The Rainmaker",
+        "isbn": "0385339607",
+        "cover": "//covers.openlibrary.org/b/id/9322877-M.jpg",
+        "authors": "John Grisham",
+        "rating": 3.94,
+        "reviews": 304055,
+        "pages": "eng"
+    },
+    {
+        "title": "The King of Torts",
+        "isbn": "0385339658",
+        "cover": "//covers.openlibrary.org/b/id/9322870-M.jpg",
+        "authors": "John Grisham",
+        "rating": 3.68,
+        "reviews": 136472,
+        "pages": "eng"
+    },
+    {
+        "title": "The Brethren",
+        "isbn": "0385339674",
+        "cover": "//covers.openlibrary.org/b/id/240260-M.jpg",
+        "authors": "John Grisham",
+        "rating": 3.73,
+        "reviews": 152554,
+        "pages": "eng"
+    },
+    {
+        "title": "The Last Juror",
+        "isbn": "0385339682",
+        "cover": "//covers.openlibrary.org/b/id/10215765-M.jpg",
+        "authors": "John Grisham",
+        "rating": 3.87,
+        "reviews": 144866,
+        "pages": "eng"
+    },
+    {
+        "title": "The Broker",
+        "isbn": "0385340540",
+        "cover": "//covers.openlibrary.org/b/id/9323337-M.jpg",
+        "authors": "John Grisham",
+        "rating": 3.78,
+        "reviews": 145144,
+        "pages": "eng"
+    },
+    {
+        "title": "Adrift on the Nile",
+        "isbn": "0385423330",
+        "cover": "//covers.openlibrary.org/b/id/240563-M.jpg",
+        "authors": "Naguib Mahfouz/Frances Liardet",
+        "rating": 3.82,
+        "reviews": 989,
+        "pages": "eng"
+    },
+    {
+        "title": "The Harafish",
+        "isbn": "0385423357",
+        "cover": "//covers.openlibrary.org/b/id/4610863-M.jpg",
+        "authors": "Naguib Mahfouz/Catherine Cobham/Naguib Mahfouz",
+        "rating": 4.36,
+        "reviews": 1596,
+        "pages": "eng"
+    },
+    {
+        "title": "Child of War  Woman of Peace",
+        "isbn": "0385471475",
+        "cover": "//covers.openlibrary.org/b/id/240699-M.jpg",
+        "authors": "Le Ly Hayslip/James Hayslip/Jenny Wurts",
+        "rating": 3.8,
+        "reviews": 760,
+        "pages": "eng"
+    },
+    {
+        "title": "Akhenaten: Dweller in Truth",
+        "isbn": "0385499094",
+        "cover": "//covers.openlibrary.org/b/id/242069-M.jpg",
+        "authors": "Naguib Mahfouz/Tagreid Abu-Hassabo",
+        "rating": 3.81,
+        "reviews": 2732,
+        "pages": "eng"
+    },
+    {
+        "title": "The Day the Leader Was Killed",
+        "isbn": "0385499221",
+        "cover": "//covers.openlibrary.org/b/id/242076-M.jpg",
+        "authors": "Naguib Mahfouz/Surgana/Naguib Mahfouz",
+        "rating": 3.63,
+        "reviews": 1730,
+        "pages": "eng"
+    },
+    {
+        "title": "The Afghan Campaign",
+        "isbn": "038551641X",
+        "cover": "//covers.openlibrary.org/b/id/242896-M.jpg",
+        "authors": "Steven Pressfield",
+        "rating": 3.96,
+        "reviews": 6358,
+        "pages": "eng"
+    },
+    {
+        "title": "'Salem's Lot",
+        "isbn": "0385516487",
+        "cover": "//covers.openlibrary.org/b/id/9256108-M.jpg",
+        "authors": "Stephen King/Jerry N. Uelsmann",
+        "rating": 4.25,
+        "reviews": 168840,
+        "pages": "eng"
+    },
+    {
+        "title": "The Innocent Man: Murder and Injustice in a Small Town",
+        "isbn": "0385517238",
+        "cover": "https://archive.org/download/innocentmanmurde00gris/page/cover_w180_h360.jpg",
+        "authors": "John Grisham",
+        "rating": 3.82,
+        "reviews": 104370,
+        "pages": "eng"
+    },
+    {
+        "title": "The Curious Incident of the Dog in the Night-time",
+        "isbn": "0385662238",
+        "cover": "//covers.openlibrary.org/b/id/243682-M.jpg",
+        "authors": "Mark Haddon",
+        "rating": 3.88,
+        "reviews": 308,
+        "pages": "eng"
+    },
+    {
+        "title": "Forever in Blue: The Fourth Summer of the Sisterhood (Sisterhood  #4)",
+        "isbn": "0385729367",
+        "cover": "//covers.openlibrary.org/b/id/243951-M.jpg",
+        "authors": "Ann Brashares",
+        "rating": 3.81,
+        "reviews": 124782,
+        "pages": "eng"
+    },
+    {
+        "title": "The Power of One (The Power of One  #1)",
+        "isbn": "0385732546",
+        "cover": "//covers.openlibrary.org/b/id/244693-M.jpg",
+        "authors": "Bryce Courtenay",
+        "rating": 4.35,
+        "reviews": 381,
+        "pages": "eng"
+    },
+    {
+        "title": "The Annotated Christmas Carol",
+        "isbn": "0393051587",
+        "cover": "//covers.openlibrary.org/b/id/247741-M.jpg",
+        "authors": "Charles Dickens/Michael Patrick Hearn/John Leech",
+        "rating": 4.05,
+        "reviews": 818,
+        "pages": "eng"
+    },
+    {
+        "title": "Power  Faith  and Fantasy: America in the Middle East 1776 to the Present",
+        "isbn": "0393058263",
+        "cover": "//covers.openlibrary.org/b/id/247901-M.jpg",
+        "authors": "Michael B. Oren",
+        "rating": 3.98,
+        "reviews": 3852,
+        "pages": "eng"
+    },
+    {
+        "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States",
+        "isbn": "0393060411",
+        "cover": "//covers.openlibrary.org/b/id/248048-M.jpg",
+        "authors": "National Commission on Terrorist Attacks Upon The United States",
+        "rating": 3.6,
+        "reviews": 916,
+        "pages": "eng"
+    },
+    {
+        "title": "Surely You're Joking  Mr. Feynman!: Adventures of a Curious Character",
+        "isbn": "0393316041",
+        "cover": "//covers.openlibrary.org/b/id/249301-M.jpg",
+        "authors": "Richard P. Feynman",
+        "rating": 4.28,
+        "reviews": 213443,
+        "pages": "eng"
+    },
+    {
+        "title": "Reinventing the Enemy's Language: Contemporary Native Women's Writings of North America",
+        "isbn": "0393318281",
+        "cover": "//covers.openlibrary.org/b/id/249605-M.jpg",
+        "authors": "Joy Harjo/Gloria Bird/Beth Cuthand/Valerie Martinez/Patricia Blanco",
+        "rating": 4.39,
+        "reviews": 1132,
+        "pages": "eng"
+    },
+    {
+        "title": "What Do You Care What Other People Think?",
+        "isbn": "0393320928",
+        "cover": "//covers.openlibrary.org/b/id/250006-M.jpg",
+        "authors": "Richard P. Feynman",
+        "rating": 4.27,
+        "reviews": 31656,
+        "pages": "eng"
+    },
+    {
+        "title": "The Norton Anthology of Modern and Contemporary Poetry",
+        "isbn": "039332429X",
+        "cover": "",
+        "authors": "Jahan Ramazani/Richard Ellmann/Robert O'Clair",
+        "rating": 4.23,
+        "reviews": 1708,
+        "pages": "eng"
+    },
+    {
+        "title": "Moneyball: The Art of Winning an Unfair Game",
+        "isbn": "0393324818",
+        "cover": "//covers.openlibrary.org/b/id/250590-M.jpg",
+        "authors": "Michael   Lewis",
+        "rating": 4.26,
+        "reviews": 170505,
+        "pages": "eng"
+    },
+    {
+        "title": "The Bacchae of Euripides: A Communion Rite",
+        "isbn": "0393325830",
+        "cover": "//covers.openlibrary.org/b/id/250765-M.jpg",
+        "authors": "Wole Soyinka",
+        "rating": 3.86,
+        "reviews": 360,
+        "pages": "eng"
+    },
+    {
+        "title": "Fight Club",
+        "isbn": "0393327345",
+        "cover": "//covers.openlibrary.org/b/id/7890578-M.jpg",
+        "authors": "Chuck Palahniuk",
+        "rating": 4.19,
+        "reviews": 777782,
+        "pages": "eng"
+    },
+    {
+        "title": "Another Bullshit Night in Suck City",
+        "isbn": "0393329402",
+        "cover": "//covers.openlibrary.org/b/id/251279-M.jpg",
+        "authors": "Nick Flynn",
+        "rating": 3.78,
+        "reviews": 18983,
+        "pages": "eng"
+    },
+    {
+        "title": "The Peloponnesian War: A New Translation  Backgrounds  Interpretations",
+        "isbn": "0393971678",
+        "cover": "//covers.openlibrary.org/b/id/252711-M.jpg",
+        "authors": "Thucydides/Jennifer Tolbert Roberts/Walter Blanco",
+        "rating": 3.9,
+        "reviews": 602,
+        "pages": "eng"
+    },
+    {
+        "title": "Jesus the Son of Man",
+        "isbn": "0394431243",
+        "cover": "//covers.openlibrary.org/b/id/253637-M.jpg",
+        "authors": "Kahlil Gibran/\u062c\u0628\u0631\u0627\u0646 \u062e\u0644\u064a\u0644 \u062c\u0628\u0631\u0627\u0646",
+        "rating": 3.98,
+        "reviews": 2832,
+        "pages": "eng"
+    },
+    {
+        "title": "The Power Broker: Robert Moses and the Fall of New York",
+        "isbn": "0394720245",
+        "cover": "",
+        "authors": "Robert A. Caro",
+        "rating": 4.51,
+        "reviews": 23760,
+        "pages": "eng"
+    },
+    {
+        "title": "Oscar Wilde",
+        "isbn": "0394759842",
+        "cover": "//covers.openlibrary.org/b/id/254528-M.jpg",
+        "authors": "Richard Ellmann",
+        "rating": 4.24,
+        "reviews": 6126,
+        "pages": "eng"
+    },
+    {
+        "title": "On Beyond Zebra!",
+        "isbn": "0394800842",
+        "cover": "//covers.openlibrary.org/b/id/254572-M.jpg",
+        "authors": "Dr. Seuss",
+        "rating": 4.04,
+        "reviews": 5694,
+        "pages": "eng"
+    },
+    {
+        "title": "Juniper",
+        "isbn": "0394832205",
+        "cover": "//covers.openlibrary.org/b/id/254747-M.jpg",
+        "authors": "Monica Furlong",
+        "rating": 4.16,
+        "reviews": 422,
+        "pages": "eng"
+    },
+    {
+        "title": "The Gettysburg Address",
+        "isbn": "0395883970",
+        "cover": "//covers.openlibrary.org/b/id/257353-M.jpg",
+        "authors": "Abraham Lincoln/Michael McCurdy",
+        "rating": 4.53,
+        "reviews": 10510,
+        "pages": "eng"
+    },
+    {
+        "title": "Heretics of Dune (Dune Chronicles  #5)",
+        "isbn": "0399128980",
+        "cover": "//covers.openlibrary.org/b/id/6637679-M.jpg",
+        "authors": "Frank Herbert",
+        "rating": 3.86,
+        "reviews": 1024,
+        "pages": "eng"
+    },
+    {
+        "title": "The Last Assassin (John Rain  #5)",
+        "isbn": "0399153594",
+        "cover": "//covers.openlibrary.org/b/id/11980890-M.jpg",
+        "authors": "Barry Eisler",
+        "rating": 4.27,
+        "reviews": 716,
+        "pages": "eng"
+    },
+    {
+        "title": "Plays 1: Medea/The Phoenician Women/Bacchae",
+        "isbn": "0413752801",
+        "cover": "//covers.openlibrary.org/b/id/261660-M.jpg",
+        "authors": "Euripides/David Thompson/J. Michael Walton",
+        "rating": 3.78,
+        "reviews": 210,
+        "pages": "eng"
+    },
+    {
+        "title": "The Road to Serfdom",
+        "isbn": "0415253896",
+        "cover": "//covers.openlibrary.org/b/id/266444-M.jpg",
+        "authors": "Friedrich A. Hayek",
+        "rating": 4.18,
+        "reviews": 788,
+        "pages": "eng"
+    },
+    {
+        "title": "Three Plays by Aristophanes: Lysistrata/Women at the Thesmophoria/Assemblywomen",
+        "isbn": "0415907446",
+        "cover": "//covers.openlibrary.org/b/id/4626903-M.jpg",
+        "authors": "Aristophanes/Jeffrey Henderson",
+        "rating": 3.94,
+        "reviews": 448,
+        "pages": "eng"
+    },
+    {
+        "title": "Rainbow Six (John Clark  #2; Jack Ryan Universe  #10)",
+        "isbn": "0425170349",
+        "cover": "//covers.openlibrary.org/b/id/271448-M.jpg",
+        "authors": "Tom Clancy/David Dukes",
+        "rating": 4.09,
+        "reviews": 82542,
+        "pages": "eng"
+    },
+    {
+        "title": "When Rabbit Howls",
+        "isbn": "0425183319",
+        "cover": "//covers.openlibrary.org/b/id/272109-M.jpg",
+        "authors": "Truddi Chase/Robert A. Phillips",
+        "rating": 4.04,
+        "reviews": 924,
+        "pages": "eng"
+    },
+    {
+        "title": "Literature Circle Guide: A Wrinkle in Time",
+        "isbn": "043927169X",
+        "cover": "//covers.openlibrary.org/b/id/1228506-M.jpg",
+        "authors": "Tara MacCarthy",
+        "rating": 3.6,
+        "reviews": 62,
+        "pages": "eng"
+    },
+    {
+        "title": "Harry Potter and the Order of the Phoenix (Harry Potter  #5)",
+        "isbn": "0439358078",
+        "cover": "//covers.openlibrary.org/b/id/12025650-M.jpg",
+        "authors": "J.K. Rowling/Mary GrandPr\u00e9",
+        "rating": 4.49,
+        "reviews": 4307204,
+        "pages": "eng"
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets (Harry Potter  #2)",
+        "isbn": "0439554896",
+        "cover": "//covers.openlibrary.org/b/id/10301720-M.jpg",
+        "authors": "J.K. Rowling",
+        "rating": 4.42,
+        "reviews": 13018,
+        "pages": "eng"
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter  #3)",
+        "isbn": "043965548X",
+        "cover": "//covers.openlibrary.org/b/id/10580458-M.jpg",
+        "authors": "J.K. Rowling/Mary GrandPr\u00e9",
+        "rating": 4.56,
+        "reviews": 4679605,
+        "pages": "eng"
+    },
+    {
+        "title": "Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5)",
+        "isbn": "0439682584",
+        "cover": "//covers.openlibrary.org/b/id/278981-M.jpg",
+        "authors": "J.K. Rowling/Mary GrandPr\u00e9",
+        "rating": 4.78,
+        "reviews": 85546,
+        "pages": "eng"
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince (Harry Potter  #6)",
+        "isbn": "0439785960",
+        "cover": "//covers.openlibrary.org/b/id/9326654-M.jpg",
+        "authors": "J.K. Rowling/Mary GrandPr\u00e9",
+        "rating": 4.57,
+        "reviews": 4192032,
+        "pages": "eng"
+    },
+    {
+        "title": "Harry Potter Collection (Harry Potter  #1-6)",
+        "isbn": "0439827604",
+        "cover": "//covers.openlibrary.org/b/id/279436-M.jpg",
+        "authors": "J.K. Rowling",
+        "rating": 4.73,
+        "reviews": 59826,
+        "pages": "eng"
+    },
+    {
+        "title": "The Testament",
+        "isbn": "0440234743",
+        "cover": "//covers.openlibrary.org/b/id/9323527-M.jpg",
+        "authors": "John Grisham/Jorma-Veikko Sappinen",
+        "rating": 3.86,
+        "reviews": 178563,
+        "pages": "eng"
+    },
+    {
+        "title": "Chapterhouse: Dune (Dune Chronicles #6)",
+        "isbn": "0441102670",
+        "cover": "//covers.openlibrary.org/b/id/6451285-M.jpg",
+        "authors": "Frank Herbert",
+        "rating": 3.91,
+        "reviews": 77992,
+        "pages": "eng"
+    },
+    {
+        "title": "Dune Messiah (Dune Chronicles #2)",
+        "isbn": "0441172695",
+        "cover": "//covers.openlibrary.org/b/id/6389112-M.jpg",
+        "authors": "Frank Herbert",
+        "rating": 3.88,
+        "reviews": 195319,
+        "pages": "eng"
+    },
+    {
+        "title": "God Emperor of Dune (Dune Chronicles  #4)",
+        "isbn": "0441294677",
+        "cover": "//covers.openlibrary.org/b/id/284524-M.jpg",
+        "authors": "Frank Herbert",
+        "rating": 3.84,
+        "reviews": 5993,
+        "pages": "eng"
+    },
+    {
+        "title": "Heretics of Dune (Dune Chronicles #5)",
+        "isbn": "0441328008",
+        "cover": "//covers.openlibrary.org/b/id/284530-M.jpg",
+        "authors": "Frank Herbert",
+        "rating": 3.86,
+        "reviews": 91247,
+        "pages": "eng"
+    },
+    {
+        "title": "Stranger in a Strange Land",
+        "isbn": "0441788386",
+        "cover": "//covers.openlibrary.org/b/id/8535833-M.jpg",
+        "authors": "Robert A. Heinlein",
+        "rating": 3.92,
+        "reviews": 504272,
+        "pages": "eng"
+    },
+    {
+        "title": "Lincoln on Leadership: Executive Strategies for Tough Times",
+        "isbn": "0446394599",
+        "cover": "//covers.openlibrary.org/b/id/285557-M.jpg",
+        "authors": "Donald T. Phillips",
+        "rating": 4.14,
+        "reviews": 10901,
+        "pages": "eng"
+    },
+    {
+        "title": "Dear John",
+        "isbn": "0446528056",
+        "cover": "//covers.openlibrary.org/b/id/286188-M.jpg",
+        "authors": "Nicholas Sparks",
+        "rating": 4.03,
+        "reviews": 1005728,
+        "pages": "eng"
+    },
+    {
+        "title": "Cradle and All",
+        "isbn": "0446609404",
+        "cover": "//covers.openlibrary.org/b/id/12301273-M.jpg",
+        "authors": "James Patterson",
+        "rating": 3.86,
+        "reviews": 56122,
+        "pages": "eng"
+    },
+    {
+        "title": "The Wedding (The Notebook  #2)",
+        "isbn": "0446615862",
+        "cover": "//covers.openlibrary.org/b/id/6459323-M.jpg",
+        "authors": "Nicholas Sparks",
+        "rating": 3.99,
+        "reviews": 253534,
+        "pages": "eng"
+    },
+    {
+        "title": "Message in a Bottle",
+        "isbn": "0446676071",
+        "cover": "",
+        "authors": "Nicholas Sparks",
+        "rating": 3.96,
+        "reviews": 403318,
+        "pages": "eng"
+    },
+    {
+        "title": "The War of Art: Break Through the Blocks & Win Your Inner Creative Battles",
+        "isbn": "0446691437",
+        "cover": "//covers.openlibrary.org/b/id/288439-M.jpg",
+        "authors": "Steven Pressfield/Robert McKee",
+        "rating": 4.0,
+        "reviews": 107474,
+        "pages": "eng"
+    },
+    {
+        "title": "A Walk to Remember",
+        "isbn": "0446693804",
+        "cover": "//covers.openlibrary.org/b/id/288549-M.jpg",
+        "authors": "Nicholas Sparks",
+        "rating": 4.17,
+        "reviews": 1112230,
+        "pages": "eng"
+    },
+    {
+        "title": "Three Weeks With My Brother",
+        "isbn": "0446694851",
+        "cover": "//covers.openlibrary.org/b/id/7912228-M.jpg",
+        "authors": "Nicholas Sparks/Micah Sparks",
+        "rating": 4.03,
+        "reviews": 73936,
+        "pages": "eng"
+    },
+    {
+        "title": "The Rescue",
+        "isbn": "0446696129",
+        "cover": "//covers.openlibrary.org/b/id/288664-M.jpg",
+        "authors": "Nicholas Sparks",
+        "rating": 4.11,
+        "reviews": 310218,
+        "pages": "eng"
+    },
+    {
+        "title": "A Bend in the Road",
+        "isbn": "0446696137",
+        "cover": "//covers.openlibrary.org/b/id/288665-M.jpg",
+        "authors": "Nicholas Sparks",
+        "rating": 4.03,
+        "reviews": 251727,
+        "pages": "eng"
+    },
+    {
+        "title": "True Believer (Jeremy Marsh & Lexie Darnell  #1)",
+        "isbn": "044669651X",
+        "cover": "",
+        "authors": "Nicholas Sparks",
+        "rating": 3.8,
+        "reviews": 136921,
+        "pages": "eng"
+    },
+    {
+        "title": "The Changeling (Daughters of England  #15)",
+        "isbn": "0449146979",
+        "cover": "//covers.openlibrary.org/b/id/6603863-M.jpg",
+        "authors": "Philippa Carr",
+        "rating": 3.98,
+        "reviews": 1059,
+        "pages": "eng"
+    },
+    {
+        "title": "Capitalism: The Unknown Ideal",
+        "isbn": "0451147952",
+        "cover": "//covers.openlibrary.org/b/id/291492-M.jpg",
+        "authors": "Ayn Rand/Nathaniel Branden/Alan Greenspan/Robert Hessen",
+        "rating": 3.88,
+        "reviews": 7342,
+        "pages": "eng"
+    },
+    {
+        "title": "For the New Intellectual: The Philosophy of Ayn Rand",
+        "isbn": "0451163087",
+        "cover": "//covers.openlibrary.org/b/id/291578-M.jpg",
+        "authors": "Ayn Rand",
+        "rating": 3.68,
+        "reviews": 5724,
+        "pages": "eng"
+    },
+    {
+        "title": "The Virtue of Selfishness: A New Concept of Egoism",
+        "isbn": "0451163931",
+        "cover": "//covers.openlibrary.org/b/id/7096727-M.jpg",
+        "authors": "Ayn Rand/Nathaniel Branden",
+        "rating": 3.51,
+        "reviews": 23100,
+        "pages": "eng"
+    },
+    {
+        "title": "We the Living",
+        "isbn": "0451187849",
+        "cover": "//covers.openlibrary.org/b/id/8343821-M.jpg",
+        "authors": "Ayn Rand/Leonard Peikoff",
+        "rating": 3.91,
+        "reviews": 46862,
+        "pages": "eng"
+    },
+    {
+        "title": "The Richest Man in Babylon",
+        "isbn": "0451205367",
+        "cover": "//covers.openlibrary.org/b/id/292916-M.jpg",
+        "authors": "George S. Clason",
+        "rating": 4.26,
+        "reviews": 153096,
+        "pages": "eng"
+    },
+    {
+        "title": "1984",
+        "isbn": "0451516753",
+        "cover": "",
+        "authors": "George Orwell/Erich Fromm",
+        "rating": 4.18,
+        "reviews": 2912,
+        "pages": "eng"
+    },
+    {
+        "title": "The Odyssey",
+        "isbn": "0451527364",
+        "cover": "//covers.openlibrary.org/b/id/295648-M.jpg",
+        "authors": "Homer/W.H.D. Rouse",
+        "rating": 3.76,
+        "reviews": 828,
+        "pages": "eng"
+    },
+    {
+        "title": "The Complete Plays",
+        "isbn": "0451527844",
+        "cover": "//covers.openlibrary.org/b/id/295684-M.jpg",
+        "authors": "Sophocles/Paul Roche",
+        "rating": 4.27,
+        "reviews": 6186,
+        "pages": "eng"
+    },
+    {
+        "title": "Anna Karenina",
+        "isbn": "0451528611",
+        "cover": "//covers.openlibrary.org/b/id/295745-M.jpg",
+        "authors": "Leo Tolstoy/David Magarshack/Priscilla Meyer",
+        "rating": 4.05,
+        "reviews": 219800,
+        "pages": "eng"
+    },
+    {
+        "title": "The Death of Ivan Ilych And Other Stories",
+        "isbn": "0451528808",
+        "cover": "//covers.openlibrary.org/b/id/295761-M.jpg",
+        "authors": "Leo Tolstoy/Hugh McLean",
+        "rating": 4.11,
+        "reviews": 14904,
+        "pages": "eng"
+    },
+    {
+        "title": "The Oedipus Plays of Sophocles",
+        "isbn": "0451621603",
+        "cover": "//covers.openlibrary.org/b/id/10464514-M.jpg",
+        "authors": "Sophocles/Paul Roche",
+        "rating": 3.97,
+        "reviews": 406,
+        "pages": "eng"
+    },
+    {
+        "title": "Four Plays: The Clouds/The Birds/Lysistrata/The Frogs",
+        "isbn": "0452007178",
+        "cover": "//covers.openlibrary.org/b/id/296006-M.jpg",
+        "authors": "Aristophanes/William Arrowsmith/Richmond Lattimore/Douglass Parker",
+        "rating": 4.06,
+        "reviews": 12796,
+        "pages": "eng"
+    },
+    {
+        "title": "Here I Stand: A Life of Martin Luther",
+        "isbn": "0452011469",
+        "cover": "//covers.openlibrary.org/b/id/296117-M.jpg",
+        "authors": "Roland H. Bainton",
+        "rating": 4.08,
+        "reviews": 6018,
+        "pages": "eng"
+    },
+    {
+        "title": "The Oedipus Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone",
+        "isbn": "0452011671",
+        "cover": "//covers.openlibrary.org/b/id/296134-M.jpg",
+        "authors": "Sophocles/Paul Roche",
+        "rating": 3.97,
+        "reviews": 1394,
+        "pages": "eng"
+    },
+    {
+        "title": "Atlas Shrugged",
+        "isbn": "0452011876",
+        "cover": "//covers.openlibrary.org/b/id/296148-M.jpg",
+        "authors": "Ayn Rand/Leonard Peikoff",
+        "rating": 3.69,
+        "reviews": 646134,
+        "pages": "eng"
+    },
+    {
+        "title": "When Heaven and Earth Changed Places: A Vietnamese Woman's Journey from War to Peace",
+        "isbn": "0452271681",
+        "cover": "//covers.openlibrary.org/b/id/296498-M.jpg",
+        "authors": "Le Ly Hayslip/Jay Wurts",
+        "rating": 4.12,
+        "reviews": 5586,
+        "pages": "eng"
+    },
+    {
+        "title": "Letters of Ayn Rand",
+        "isbn": "0452274044",
+        "cover": "//covers.openlibrary.org/b/id/7267099-M.jpg",
+        "authors": "Ayn Rand/Michael S. Berliner/Leonard Peikoff",
+        "rating": 3.96,
+        "reviews": 717,
+        "pages": "eng"
+    },
+    {
+        "title": "Anthem",
+        "isbn": "0452281253",
+        "cover": "//covers.openlibrary.org/b/id/297072-M.jpg",
+        "authors": "Ayn Rand",
+        "rating": 3.63,
+        "reviews": 222009,
+        "pages": "eng"
+    },
+    {
+        "title": "The Bluest Eye",
+        "isbn": "0452282195",
+        "cover": "//covers.openlibrary.org/b/id/10696290-M.jpg",
+        "authors": "Toni Morrison",
+        "rating": 4.03,
+        "reviews": 7056,
+        "pages": "eng"
+    },
+    {
+        "title": "We Were the Mulvaneys",
+        "isbn": "0452282829",
+        "cover": "//covers.openlibrary.org/b/id/8066214-M.jpg",
+        "authors": "Joyce Carol Oates",
+        "rating": 3.73,
+        "reviews": 175188,
+        "pages": "eng"
+    },
+    {
+        "title": "Nineteen Eighty-Four",
+        "isbn": "0452284236",
+        "cover": "//covers.openlibrary.org/b/id/7898938-M.jpg",
+        "authors": "George Orwell/Thomas Pynchon",
+        "rating": 4.18,
+        "reviews": 20159,
+        "pages": "eng"
+    },
+    {
+        "title": "Holiday Romance and Other Writings for Children",
+        "isbn": "0460876015",
+        "cover": "//covers.openlibrary.org/b/id/297960-M.jpg",
+        "authors": "Charles Dickens",
+        "rating": 3.32,
+        "reviews": 384,
+        "pages": "eng"
+    },
+    {
+        "title": "eBay for Dummies",
+        "isbn": "0470045299",
+        "cover": "//covers.openlibrary.org/b/id/299626-M.jpg",
+        "authors": "Marsha Collier",
+        "rating": 3.5,
+        "reviews": 608,
+        "pages": "eng"
+    },
+    {
+        "title": "The Warren Buffett CEO: Secrets from the Berkshire Hathaway Managers",
+        "isbn": "0471430455",
+        "cover": "//covers.openlibrary.org/b/id/304711-M.jpg",
+        "authors": "Robert P. Miles/Tom Osborne",
+        "rating": 4.07,
+        "reviews": 510,
+        "pages": "eng"
+    },
+    {
+        "title": "Power of an Hour: Business and Life Mastery in One Hour a Week",
+        "isbn": "0471780936",
+        "cover": "//covers.openlibrary.org/b/id/306997-M.jpg",
+        "authors": "Dave Lakhani",
+        "rating": 3.34,
+        "reviews": 553,
+        "pages": "eng"
+    },
+    {
+        "title": "Sailing for Dummies",
+        "isbn": "0471791431",
+        "cover": "//covers.openlibrary.org/b/id/307096-M.jpg",
+        "authors": "J.J. Isler/Peter Isler",
+        "rating": 3.95,
+        "reviews": 716,
+        "pages": "eng"
+    },
+    {
+        "title": "eBay: Top 100 Simplified Tips & Tricks",
+        "isbn": "0471933821",
+        "cover": "//covers.openlibrary.org/b/id/307379-M.jpg",
+        "authors": "Julia Wilkinson",
+        "rating": 4.27,
+        "reviews": 278,
+        "pages": "eng"
+    },
+    {
+        "title": "The Oresteia Trilogy: Agamemnon/The Libation-Bearers/The Furies",
+        "isbn": "0486292428",
+        "cover": "//covers.openlibrary.org/b/id/312022-M.jpg",
+        "authors": "Aeschylus/E.D.A. Morshead",
+        "rating": 4.02,
+        "reviews": 329,
+        "pages": "eng"
+    },
+    {
+        "title": "Ruthless Rhymes for Heartless Homes and More Ruthless Rhymes",
+        "isbn": "0486402185",
+        "cover": "",
+        "authors": "Harry Graham/Frank J. Moore/D. Streamer",
+        "rating": 3.86,
+        "reviews": 152,
+        "pages": "eng"
+    },
+    {
+        "title": "An Ideal Husband",
+        "isbn": "048641423X",
+        "cover": "//covers.openlibrary.org/b/id/313092-M.jpg",
+        "authors": "Oscar Wilde",
+        "rating": 4.04,
+        "reviews": 65970,
+        "pages": "eng"
+    },
+    {
+        "title": "The Trojan Women and Hippolytus",
+        "isbn": "0486424626",
+        "cover": "//covers.openlibrary.org/b/id/313615-M.jpg",
+        "authors": "Euripides",
+        "rating": 3.63,
+        "reviews": 132,
+        "pages": "eng"
+    },
+    {
+        "title": "Anna Karenina",
+        "isbn": "0486437965",
+        "cover": "//covers.openlibrary.org/b/id/314295-M.jpg",
+        "authors": "Leo Tolstoy/Louise Maude/Aylmer Maude",
+        "rating": 4.05,
+        "reviews": 1700,
+        "pages": "eng"
+    },
+    {
+        "title": "The Woman in White",
+        "isbn": "0486440966",
+        "cover": "//covers.openlibrary.org/b/id/314427-M.jpg",
+        "authors": "Wilkie Collins",
+        "rating": 4.0,
+        "reviews": 776,
+        "pages": "eng"
+    },
+    {
+        "title": "The Kingdom of God Is Within You",
+        "isbn": "0486451380",
+        "cover": "//covers.openlibrary.org/b/id/314760-M.jpg",
+        "authors": "Leo Tolstoy/Constance Garnett",
+        "rating": 4.13,
+        "reviews": 5158,
+        "pages": "eng"
+    },
+    {
+        "title": "The Complete Works",
+        "isbn": "0517092948",
+        "cover": "//covers.openlibrary.org/b/id/7241639-M.jpg",
+        "authors": "William Shakespeare",
+        "rating": 4.5,
+        "reviews": 1372,
+        "pages": "eng"
+    },
+    {
+        "title": "The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy  #1-5)",
+        "isbn": "0517149257",
+        "cover": "//covers.openlibrary.org/b/id/7892560-M.jpg",
+        "authors": "Douglas Adams",
+        "rating": 4.38,
+        "reviews": 6569,
+        "pages": "eng"
+    },
+    {
+        "title": "Carrie / 'Salem's Lot / The Shining",
+        "isbn": "0517219026",
+        "cover": "//covers.openlibrary.org/b/id/321510-M.jpg",
+        "authors": "Stephen King",
+        "rating": 4.54,
+        "reviews": 27370,
+        "pages": "eng"
+    },
+    {
+        "title": "The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy  #1-5)",
+        "isbn": "0517226952",
+        "cover": "//covers.openlibrary.org/b/id/12617870-M.jpg",
+        "authors": "Douglas Adams",
+        "rating": 4.38,
+        "reviews": 8071,
+        "pages": "eng"
+    },
+    {
+        "title": "The Clan of the Cave Bear (Earth's Children  #1)",
+        "isbn": "0517542021",
+        "cover": "//covers.openlibrary.org/b/id/12529012-M.jpg",
+        "authors": "Jean M. Auel",
+        "rating": 4.05,
+        "reviews": 1458,
+        "pages": "eng"
+    },
+    {
+        "title": "Moral Luck: Philosophical Papers 1973-1980",
+        "isbn": "0521286913",
+        "cover": "//covers.openlibrary.org/b/id/332323-M.jpg",
+        "authors": "Bernard Williams",
+        "rating": 4.09,
+        "reviews": 416,
+        "pages": "eng"
+    },
+    {
+        "title": "Tolstoy: Anna Karenina",
+        "isbn": "0521313252",
+        "cover": "//covers.openlibrary.org/b/id/6774860-M.jpg",
+        "authors": "Anthony Thorlby",
+        "rating": 4.19,
+        "reviews": 2536,
+        "pages": "eng"
+    },
+    {
+        "title": "Collapse of Complex Societies",
+        "isbn": "052138673X",
+        "cover": "//covers.openlibrary.org/b/id/8460196-M.jpg",
+        "authors": "Joseph A. Tainter",
+        "rating": 4.15,
+        "reviews": 1700,
+        "pages": "eng"
+    },
+    {
+        "title": "Aeschylus: The Oresteia (A Student Guide: Landmarks of World Literature)",
+        "isbn": "0521539811",
+        "cover": "//covers.openlibrary.org/b/id/344516-M.jpg",
+        "authors": "Simon Goldhill",
+        "rating": 4.03,
+        "reviews": 157,
+        "pages": "eng"
+    },
+    {
+        "title": "Hamlet",
+        "isbn": "0521618746",
+        "cover": "//covers.openlibrary.org/b/id/349855-M.jpg",
+        "authors": "William Shakespeare/Harold Bloom/Rex Gibson",
+        "rating": 4.02,
+        "reviews": 1218831,
+        "pages": "eng"
+    },
+    {
+        "title": "The Sparrow (The Sparrow  #1)",
+        "isbn": "0552997773",
+        "cover": "//covers.openlibrary.org/b/id/12658498-M.jpg",
+        "authors": "Mary Doria Russell",
+        "rating": 4.16,
+        "reviews": 1834,
+        "pages": "eng"
+    },
+    {
+        "title": "The Complete Plays",
+        "isbn": "0553213431",
+        "cover": "//covers.openlibrary.org/b/id/6695775-M.jpg",
+        "authors": "Aristophanes/Moses Hadas",
+        "rating": 4.21,
+        "reviews": 4573,
+        "pages": "eng"
+    },
+    {
+        "title": "Fire Sea (The Death Gate Cycle  #3)",
+        "isbn": "0553295411",
+        "cover": "//covers.openlibrary.org/b/id/369260-M.jpg",
+        "authors": "Margaret Weis/Tracy Hickman",
+        "rating": 4.07,
+        "reviews": 33038,
+        "pages": "eng"
+    },
+    {
+        "title": "Girls in Pants: The Third Summer of the Sisterhood (Sisterhood  #3)",
+        "isbn": "0553375938",
+        "cover": "//covers.openlibrary.org/b/id/369696-M.jpg",
+        "authors": "Ann Brashares",
+        "rating": 3.83,
+        "reviews": 123208,
+        "pages": "eng"
+    },
+    {
+        "title": "Selected Stories of Anton Chekhov",
+        "isbn": "0553381008",
+        "cover": "//covers.openlibrary.org/b/id/12855352-M.jpg",
+        "authors": "Anton Chekhov/Richard Pevear/Larissa Volokhonsky",
+        "rating": 4.35,
+        "reviews": 54521,
+        "pages": "eng"
+    },
+    {
+        "title": "Tides of War",
+        "isbn": "0553381393",
+        "cover": "//covers.openlibrary.org/b/id/369981-M.jpg",
+        "authors": "Steven Pressfield",
+        "rating": 3.9,
+        "reviews": 7292,
+        "pages": "eng"
+    },
+    {
+        "title": "The Clan of the Cave Bear (Earth's Children  #1)",
+        "isbn": "0553381679",
+        "cover": "//covers.openlibrary.org/b/id/12524519-M.jpg",
+        "authors": "Jean M. Auel",
+        "rating": 4.05,
+        "reviews": 369348,
+        "pages": "eng"
+    },
+    {
+        "title": "Last of the Amazons",
+        "isbn": "0553382047",
+        "cover": "//covers.openlibrary.org/b/id/10510063-M.jpg",
+        "authors": "Steven Pressfield",
+        "rating": 3.76,
+        "reviews": 4676,
+        "pages": "eng"
+    },
+    {
+        "title": "Gates of Fire",
+        "isbn": "055338368X",
+        "cover": "//covers.openlibrary.org/b/id/370144-M.jpg",
+        "authors": "Steven Pressfield",
+        "rating": 4.42,
+        "reviews": 44260,
+        "pages": "eng"
+    },
+    {
+        "title": "Vice (V  #8)",
+        "isbn": "0553572490",
+        "cover": "//covers.openlibrary.org/b/id/372395-M.jpg",
+        "authors": "Jane Feather",
+        "rating": 3.51,
+        "reviews": 1367,
+        "pages": "eng"
+    },
+    {
+        "title": "Seventy-Seven Clocks (Bryant & May #3)",
+        "isbn": "0553587153",
+        "cover": "//covers.openlibrary.org/b/id/373362-M.jpg",
+        "authors": "Christopher Fowler",
+        "rating": 3.89,
+        "reviews": 4686,
+        "pages": "eng"
+    },
+    {
+        "title": "Sailing from Byzantium: How a Lost Empire Shaped the World",
+        "isbn": "0553803816",
+        "cover": "//covers.openlibrary.org/b/id/374173-M.jpg",
+        "authors": "Colin  Wells",
+        "rating": 3.88,
+        "reviews": 1660,
+        "pages": "eng"
+    },
+    {
+        "title": "The Phantom Tollbooth: A Children's Play in Two Acts",
+        "isbn": "0573650969",
+        "cover": "//covers.openlibrary.org/b/id/4679268-M.jpg",
+        "authors": "Susan Nanus/Norton Juster",
+        "rating": 4.13,
+        "reviews": 272,
+        "pages": "eng"
+    },
+    {
+        "title": "The Firm",
+        "isbn": "0582418275",
+        "cover": "//covers.openlibrary.org/b/id/381617-M.jpg",
+        "authors": "Robin Waterfield/John Grisham",
+        "rating": 4.01,
+        "reviews": 1081896,
+        "pages": "eng"
+    },
+    {
+        "title": "If I Die In A Combat Zone",
+        "isbn": "0586087990",
+        "cover": "//covers.openlibrary.org/b/id/382350-M.jpg",
+        "authors": "Tim O'Brien",
+        "rating": 3.95,
+        "reviews": 314,
+        "pages": "eng"
+    },
+    {
+        "title": "The Meanest Thing To Say",
+        "isbn": "0590956167",
+        "cover": "//covers.openlibrary.org/b/id/12701084-M.jpg",
+        "authors": "Bill Cosby/Varnette P. Honeywood/Varnette Hon Eywood",
+        "rating": 3.54,
+        "reviews": 2020,
+        "pages": "eng"
+    },
+    {
+        "title": "The Best Way to Play: A Little Bill Book",
+        "isbn": "0590956175",
+        "cover": "//covers.openlibrary.org/b/id/12701094-M.jpg",
+        "authors": "Bill Cosby/Varnette P. Honeywood/Varnette Honeywood",
+        "rating": 3.49,
+        "reviews": 850,
+        "pages": "eng"
+    },
+    {
+        "title": "The Changeling",
+        "isbn": "0595321801",
+        "cover": "//covers.openlibrary.org/b/id/387916-M.jpg",
+        "authors": "Zilpha Keatley Snyder",
+        "rating": 4.17,
+        "reviews": 2580,
+        "pages": "eng"
+    },
+    {
+        "title": "Ruby Cookbook",
+        "isbn": "0596523696",
+        "cover": "//covers.openlibrary.org/b/id/389276-M.jpg",
+        "authors": "Lucas Carlson/Leonard Richardson",
+        "rating": 3.84,
+        "reviews": 1205,
+        "pages": "eng"
+    },
+    {
+        "title": "Rails Cookbook: Recipes for Rapid Web Development with Ruby",
+        "isbn": "0596527314",
+        "cover": "//covers.openlibrary.org/b/id/389304-M.jpg",
+        "authors": "Rob Orsini",
+        "rating": 3.48,
+        "reviews": 642,
+        "pages": "eng"
+    },
+    {
+        "title": "Tyler Florence's Real Kitchen: An Indespensible Guide for Anybody Who Likes to Cook",
+        "isbn": "0609609971",
+        "cover": "//covers.openlibrary.org/b/id/390755-M.jpg",
+        "authors": "Tyler Florence/JoAnn Cianciulli/Bill Bettencourt/Bobby Flay",
+        "rating": 4.06,
+        "reviews": 3156,
+        "pages": "eng"
+    },
+    {
+        "title": "Poems From The Hobbit",
+        "isbn": "0618009345",
+        "cover": "//covers.openlibrary.org/b/id/392814-M.jpg",
+        "authors": "J.R.R. Tolkien",
+        "rating": 4.3,
+        "reviews": 395,
+        "pages": "eng"
+    },
+    {
+        "title": "Interpreter of Maladies",
+        "isbn": "0618101365",
+        "cover": "//covers.openlibrary.org/b/id/393245-M.jpg",
+        "authors": "Jhumpa Lahiri",
+        "rating": 4.15,
+        "reviews": 263950,
+        "pages": "eng"
+    },
+    {
+        "title": "The Lord of the Rings: The Art of the Fellowship of the Ring",
+        "isbn": "0618212906",
+        "cover": "//covers.openlibrary.org/b/id/393768-M.jpg",
+        "authors": "Gary Russell",
+        "rating": 4.59,
+        "reviews": 52498,
+        "pages": "eng"
+    },
+    {
+        "title": "The Hobbit  or There and Back Again",
+        "isbn": "0618260307",
+        "cover": "//covers.openlibrary.org/b/id/394001-M.jpg",
+        "authors": "J.R.R. Tolkien",
+        "rating": 4.27,
+        "reviews": 5062154,
+        "pages": "eng"
+    },
+    {
+        "title": "The Fellowship of the Ring (The Lord of the Rings  #1)",
+        "isbn": "0618346252",
+        "cover": "//covers.openlibrary.org/b/id/8574448-M.jpg",
+        "authors": "J.R.R. Tolkien",
+        "rating": 4.36,
+        "reviews": 4258286,
+        "pages": "eng"
+    },
+    {
+        "title": "The Lord of the Rings: Weapons and Warfare",
+        "isbn": "0618391002",
+        "cover": "//covers.openlibrary.org/b/id/394382-M.jpg",
+        "authors": "Chris   Smith/Christopher  Lee/Richard Taylor",
+        "rating": 4.53,
+        "reviews": 39862,
+        "pages": "eng"
+    },
+    {
+        "title": "The Lord of the Rings: Complete Visual Companion",
+        "isbn": "0618510826",
+        "cover": "//covers.openlibrary.org/b/id/394776-M.jpg",
+        "authors": "Jude Fisher",
+        "rating": 4.5,
+        "reviews": 942,
+        "pages": "eng"
+    },
+    {
+        "title": "The Lord of the Rings (The Lord of the Rings  #1-3)",
+        "isbn": "0618517650",
+        "cover": "//covers.openlibrary.org/b/id/7073567-M.jpg",
+        "authors": "J.R.R. Tolkien",
+        "rating": 4.5,
+        "reviews": 4604,
+        "pages": "eng"
+    },
+    {
+        "title": "In the Lake of the Woods",
+        "isbn": "061870986X",
+        "cover": "//covers.openlibrary.org/b/id/395152-M.jpg",
+        "authors": "Tim O'Brien",
+        "rating": 3.78,
+        "reviews": 29613,
+        "pages": "eng"
+    },
+    {
+        "title": "Roald Dahl Treasury",
+        "isbn": "067003665X",
+        "cover": "//covers.openlibrary.org/b/id/400746-M.jpg",
+        "authors": "Roald Dahl",
+        "rating": 4.43,
+        "reviews": 4734,
+        "pages": "eng"
+    },
+    {
+        "title": "Special Topics in Calamity Physics",
+        "isbn": "067003777X",
+        "cover": "//covers.openlibrary.org/b/id/400792-M.jpg",
+        "authors": "Marisha Pessl",
+        "rating": 3.71,
+        "reviews": 65254,
+        "pages": "eng"
+    },
+    {
+        "title": "Changeling (Changeling  #1)",
+        "isbn": "0670059676",
+        "cover": "//covers.openlibrary.org/b/id/6766436-M.jpg",
+        "authors": "Delia Sherman",
+        "rating": 3.6,
+        "reviews": 2212,
+        "pages": "eng"
+    },
+    {
+        "title": "The Regeneration Trilogy (Regeneration  #1-3)",
+        "isbn": "0670869295",
+        "cover": "//covers.openlibrary.org/b/id/401723-M.jpg",
+        "authors": "Pat Barker",
+        "rating": 4.38,
+        "reviews": 3768,
+        "pages": "eng"
+    },
+    {
+        "title": "Heaven (Casteel  #1)",
+        "isbn": "0671010050",
+        "cover": "//covers.openlibrary.org/b/id/4648069-M.jpg",
+        "authors": "V.C. Andrews",
+        "rating": 4.03,
+        "reviews": 490,
+        "pages": "eng"
+    },
+    {
+        "title": "Morgan's Run",
+        "isbn": "0671024183",
+        "cover": "//covers.openlibrary.org/b/id/8294863-M.jpg",
+        "authors": "Colleen McCullough",
+        "rating": 3.95,
+        "reviews": 7804,
+        "pages": "eng"
+    },
+    {
+        "title": "The October Horse: A Novel of Caesar and Cleopatra (Masters of Rome  #6)",
+        "isbn": "0671024205",
+        "cover": "//covers.openlibrary.org/b/id/11536107-M.jpg",
+        "authors": "Colleen McCullough",
+        "rating": 4.29,
+        "reviews": 9692,
+        "pages": "eng"
+    },
+    {
+        "title": "Anne Frank Remembered: The Story of the Woman Who Helped to Hide the Frank Family",
+        "isbn": "0671662341",
+        "cover": "//covers.openlibrary.org/b/id/407122-M.jpg",
+        "authors": "Miep Gies/Alison Leslie Gold",
+        "rating": 4.29,
+        "reviews": 111226,
+        "pages": "eng"
+    },
+    {
+        "title": "History of the Peloponnesian War  Bk. 7-8",
+        "isbn": "0674991877",
+        "cover": "//covers.openlibrary.org/b/id/414563-M.jpg",
+        "authors": "Thucydides/C.F. Smith",
+        "rating": 4.29,
+        "reviews": 550,
+        "pages": "eng"
+    },
+    {
+        "title": "The Everyman Anthology of Poetry for Children",
+        "isbn": "0679436340",
+        "cover": "//covers.openlibrary.org/b/id/6799895-M.jpg",
+        "authors": "Gillian Avery/Everyman's Library/Thomas Benwick",
+        "rating": 4.14,
+        "reviews": 423,
+        "pages": "eng"
+    },
+    {
+        "title": "Sand and Foam",
+        "isbn": "067943920X",
+        "cover": "//covers.openlibrary.org/b/id/418268-M.jpg",
+        "authors": "Kahlil Gibran/\u062c\u0628\u0631\u0627\u0646 \u062e\u0644\u064a\u0644 \u062c\u0628\u0631\u0627\u0646",
+        "rating": 4.08,
+        "reviews": 6130,
+        "pages": "eng"
+    },
+    {
+        "title": "Siddhartha",
+        "isbn": "0679643362",
+        "cover": "//covers.openlibrary.org/b/id/419724-M.jpg",
+        "authors": "Hermann Hesse/Susan Bernofsky/Tom Robbins",
+        "rating": 4.02,
+        "reviews": 1905,
+        "pages": "eng"
+    },
+    {
+        "title": "A History of Venice",
+        "isbn": "0679721975",
+        "cover": "//covers.openlibrary.org/b/id/419779-M.jpg",
+        "authors": "John Julius Norwich",
+        "rating": 4.2,
+        "reviews": 3517,
+        "pages": "eng"
+    },
+    {
+        "title": "Running Dog",
+        "isbn": "0679722947",
+        "cover": "//covers.openlibrary.org/b/id/419825-M.jpg",
+        "authors": "Don DeLillo",
+        "rating": 3.43,
+        "reviews": 2968,
+        "pages": "eng"
+    },
+    {
+        "title": "The Names",
+        "isbn": "0679722955",
+        "cover": "//covers.openlibrary.org/b/id/419826-M.jpg",
+        "authors": "Don DeLillo",
+        "rating": 3.64,
+        "reviews": 6539,
+        "pages": "eng"
+    },
+    {
+        "title": "The Burnt Orange Heresy (Vintage Crime/Black Lizard)",
+        "isbn": "0679732527",
+        "cover": "//covers.openlibrary.org/b/id/7109706-M.jpg",
+        "authors": "Charles Willeford",
+        "rating": 3.89,
+        "reviews": 340,
+        "pages": "eng"
+    },
+    {
+        "title": "The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic",
+        "isbn": "0679734996",
+        "cover": "//covers.openlibrary.org/b/id/420214-M.jpg",
+        "authors": "Wendy Wasserstein",
+        "rating": 3.84,
+        "reviews": 5781,
+        "pages": "eng"
+    },
+    {
+        "title": "The Axe (The Master of Hestviken  #1)",
+        "isbn": "0679752730",
+        "cover": "//covers.openlibrary.org/b/id/420884-M.jpg",
+        "authors": "Sigrid Undset/Arthur G. Chater",
+        "rating": 4.21,
+        "reviews": 1296,
+        "pages": "eng"
+    },
+    {
+        "title": "Where I Was From",
+        "isbn": "0679752862",
+        "cover": "",
+        "authors": "Joan Didion",
+        "rating": 3.86,
+        "reviews": 5924,
+        "pages": "eng"
+    },
+    {
+        "title": "A Book of Common Prayer",
+        "isbn": "0679754865",
+        "cover": "//covers.openlibrary.org/b/id/420949-M.jpg",
+        "authors": "Joan Didion",
+        "rating": 3.8,
+        "reviews": 6196,
+        "pages": "eng"
+    },
+    {
+        "title": "The Snake Pit (The Master of Hestviken  #2)",
+        "isbn": "0679755543",
+        "cover": "//covers.openlibrary.org/b/id/420983-M.jpg",
+        "authors": "Sigrid Undset/Arthur G. Chater",
+        "rating": 4.23,
+        "reviews": 938,
+        "pages": "eng"
+    },
+    {
+        "title": "The Untouchable",
+        "isbn": "0679767479",
+        "cover": "//covers.openlibrary.org/b/id/9812508-M.jpg",
+        "authors": "John Banville",
+        "rating": 3.95,
+        "reviews": 4693,
+        "pages": "eng"
+    },
+    {
+        "title": "A Short History of Byzantium",
+        "isbn": "0679772693",
+        "cover": "//covers.openlibrary.org/b/id/9655729-M.jpg",
+        "authors": "John Julius Norwich",
+        "rating": 4.09,
+        "reviews": 4040,
+        "pages": "eng"
+    },
+    {
+        "title": "Birdsong",
+        "isbn": "0679776818",
+        "cover": "//covers.openlibrary.org/b/id/421787-M.jpg",
+        "authors": "Sebastian Faulks",
+        "rating": 4.09,
+        "reviews": 115509,
+        "pages": "eng"
+    },
+    {
+        "title": "The Reawakening",
+        "isbn": "0684826356",
+        "cover": "//covers.openlibrary.org/b/id/12196911-M.jpg",
+        "authors": "Primo Levi/Stuart J. Woolf",
+        "rating": 4.29,
+        "reviews": 2768,
+        "pages": "eng"
+    },
+    {
+        "title": "Survival in Auschwitz",
+        "isbn": "0684826801",
+        "cover": "//covers.openlibrary.org/b/id/426021-M.jpg",
+        "authors": "Primo Levi/Stuart J. Woolf/Philip Roth",
+        "rating": 4.32,
+        "reviews": 58385,
+        "pages": "eng"
+    },
+    {
+        "title": "A Backward Glance",
+        "isbn": "0684847558",
+        "cover": "//covers.openlibrary.org/b/id/11048804-M.jpg",
+        "authors": "Edith Wharton/Louis Auchincloss",
+        "rating": 3.76,
+        "reviews": 1427,
+        "pages": "eng"
+    },
+    {
+        "title": "Underworld",
+        "isbn": "0684848155",
+        "cover": "//covers.openlibrary.org/b/id/427320-M.jpg",
+        "authors": "Don DeLillo",
+        "rating": 3.92,
+        "reviews": 3837,
+        "pages": "eng"
+    },
+    {
+        "title": "Ronald Reagan: How an Ordinary Man Became an Extraordinary Leader",
+        "isbn": "0684848236",
+        "cover": "//covers.openlibrary.org/b/id/427328-M.jpg",
+        "authors": "Dinesh D'Souza",
+        "rating": 4.13,
+        "reviews": 2422,
+        "pages": "eng"
+    },
+    {
+        "title": "The Fall of a Sparrow",
+        "isbn": "0684850273",
+        "cover": "//covers.openlibrary.org/b/id/427462-M.jpg",
+        "authors": "Robert Hellenga",
+        "rating": 3.69,
+        "reviews": 2112,
+        "pages": "eng"
+    },
+    {
+        "title": "The Life of Our Lord: Written for His Children During the Years 1846 to 1849",
+        "isbn": "0684865378",
+        "cover": "//covers.openlibrary.org/b/id/9281196-M.jpg",
+        "authors": "Charles Dickens",
+        "rating": 4.01,
+        "reviews": 3586,
+        "pages": "eng"
+    },
+    {
+        "title": "Stand Back  Said the Elephant  \"I'm Going to Sneeze!\"",
+        "isbn": "0688093388",
+        "cover": "//covers.openlibrary.org/b/id/4656769-M.jpg",
+        "authors": "Patricia Thomas/Wallace Tripp",
+        "rating": 4.39,
+        "reviews": 2040,
+        "pages": "eng"
+    },
+    {
+        "title": "The First Man in Rome (Masters of Rome  #1)",
+        "isbn": "068809368X",
+        "cover": "//covers.openlibrary.org/b/id/11536101-M.jpg",
+        "authors": "Colleen McCullough",
+        "rating": 4.11,
+        "reviews": 1518,
+        "pages": "eng"
+    },
+    {
+        "title": "Hatchet (Brian's Saga  #1)",
+        "isbn": "0689840926",
+        "cover": "//covers.openlibrary.org/b/id/436248-M.jpg",
+        "authors": "Gary Paulsen",
+        "rating": 3.72,
+        "reviews": 540696,
+        "pages": "eng"
+    },
+    {
+        "title": "Treasure Island",
+        "isbn": "0689854684",
+        "cover": "//covers.openlibrary.org/b/id/12819079-M.jpg",
+        "authors": "Robert Louis Stevenson/N.C. Wyeth/Timothy Meis",
+        "rating": 3.83,
+        "reviews": 272,
+        "pages": "eng"
+    },
+    {
+        "title": "QED: The Strange Theory of Light and Matter",
+        "isbn": "0691024170",
+        "cover": "//covers.openlibrary.org/b/id/440582-M.jpg",
+        "authors": "Richard P. Feynman",
+        "rating": 4.24,
+        "reviews": 27084,
+        "pages": "eng"
+    },
+    {
+        "title": "The Lives of Animals",
+        "isbn": "069107089X",
+        "cover": "//covers.openlibrary.org/b/id/11183981-M.jpg",
+        "authors": "J.M. Coetzee/Amy Gutmann/Peter Singer/Wendy Doniger/Barbara Smuts/Marjorie Garber",
+        "rating": 3.69,
+        "reviews": 3996,
+        "pages": "eng"
+    },
+    {
+        "title": "On Bullshit",
+        "isbn": "0691122946",
+        "cover": "//covers.openlibrary.org/b/id/10476700-M.jpg",
+        "authors": "Harry G. Frankfurt",
+        "rating": 3.57,
+        "reviews": 18783,
+        "pages": "eng"
+    },
+    {
+        "title": "The Middle Sea: A History of the Mediterranean",
+        "isbn": "0701176083",
+        "cover": "//covers.openlibrary.org/b/id/447573-M.jpg",
+        "authors": "John Julius Norwich",
+        "rating": 3.85,
+        "reviews": 1912,
+        "pages": "eng"
+    },
+    {
+        "title": "Euripides: Iphigenia at Aulis (Companions to Greek & Roman Tragedy)",
+        "isbn": "0715629948",
+        "cover": "//covers.openlibrary.org/b/id/1354005-M.jpg",
+        "authors": "Euripides/Pantelis Michelakis",
+        "rating": 4.03,
+        "reviews": 168,
+        "pages": "eng"
+    },
+    {
+        "title": "Euripides: Medea",
+        "isbn": "071563187X",
+        "cover": "//covers.openlibrary.org/b/id/455255-M.jpg",
+        "authors": "William Allan",
+        "rating": 4.04,
+        "reviews": 206,
+        "pages": "eng"
+    },
+    {
+        "title": "Narcissus and Goldmund",
+        "isbn": "0720608724",
+        "cover": "//covers.openlibrary.org/b/id/4679437-M.jpg",
+        "authors": "Hermann Hesse/Leila Vennewitz",
+        "rating": 4.2,
+        "reviews": 638,
+        "pages": "eng"
+    },
+    {
+        "title": "Israel  My Beloved",
+        "isbn": "0736903704",
+        "cover": "//covers.openlibrary.org/b/id/463876-M.jpg",
+        "authors": "Kay Arthur",
+        "rating": 4.16,
+        "reviews": 1810,
+        "pages": "eng"
+    },
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1)",
+        "isbn": "0739322206",
+        "cover": "//covers.openlibrary.org/b/id/8769632-M.jpg",
+        "authors": "Douglas Adams/Stephen Fry",
+        "rating": 4.22,
+        "reviews": 2538,
+        "pages": "eng"
+    },
+    {
+        "title": "The Summons / The Brethren",
+        "isbn": "0739342770",
+        "cover": "//covers.openlibrary.org/b/id/468999-M.jpg",
+        "authors": "John Grisham/Michael Beck/Frank  Muller",
+        "rating": 3.99,
+        "reviews": 482,
+        "pages": "eng"
+    },
+    {
+        "title": "Growing Up Untouchable in India: A Dalit Autobiography",
+        "isbn": "0742508803",
+        "cover": "//covers.openlibrary.org/b/id/1382135-M.jpg",
+        "authors": "Vasant Moon/Gail Omvedt/Eleanor Zelliot",
+        "rating": 3.65,
+        "reviews": 256,
+        "pages": "eng"
+    },
+    {
+        "title": "Bowling Alone: The Collapse and Revival of American Community",
+        "isbn": "0743203046",
+        "cover": "//covers.openlibrary.org/b/id/471286-M.jpg",
+        "authors": "Robert D. Putnam",
+        "rating": 3.8,
+        "reviews": 10068,
+        "pages": "eng"
+    },
+    {
+        "title": "1776",
+        "isbn": "0743226720",
+        "cover": "//covers.openlibrary.org/b/id/8331093-M.jpg",
+        "authors": "David McCullough",
+        "rating": 4.07,
+        "reviews": 334218,
+        "pages": "eng"
+    },
+    {
+        "title": "Sex  Drugs  and Cocoa Puffs: A Low Culture Manifesto",
+        "isbn": "0743236017",
+        "cover": "//covers.openlibrary.org/b/id/472944-M.jpg",
+        "authors": "Chuck Klosterman",
+        "rating": 3.73,
+        "reviews": 124450,
+        "pages": "eng"
+    },
+    {
+        "title": "Cosmopolis",
+        "isbn": "0743244257",
+        "cover": "//covers.openlibrary.org/b/id/473373-M.jpg",
+        "authors": "Don DeLillo",
+        "rating": 3.22,
+        "reviews": 1144,
+        "pages": "eng"
+    },
+    {
+        "title": "Cry  the Beloved Country",
+        "isbn": "074326195X",
+        "cover": "//covers.openlibrary.org/b/id/474320-M.jpg",
+        "authors": "Alan Paton",
+        "rating": 3.9,
+        "reviews": 109432,
+        "pages": "eng"
+    },
+    {
+        "title": "Cry  the Beloved Country",
+        "isbn": "0743262174",
+        "cover": "//covers.openlibrary.org/b/id/474332-M.jpg",
+        "authors": "Alan Paton",
+        "rating": 3.9,
+        "reviews": 6596,
+        "pages": "eng"
+    },
+    {
+        "title": "Killing Yourself to Live: 85% of a True Story",
+        "isbn": "0743264460",
+        "cover": "//covers.openlibrary.org/b/id/474418-M.jpg",
+        "authors": "Chuck Klosterman",
+        "rating": 3.81,
+        "reviews": 53007,
+        "pages": "eng"
+    },
+    {
+        "title": "The Good Earth (House of Earth  #1)",
+        "isbn": "0743272935",
+        "cover": "//covers.openlibrary.org/b/id/474857-M.jpg",
+        "authors": "Pearl S. Buck",
+        "rating": 3.98,
+        "reviews": 8517,
+        "pages": "eng"
+    },
+    {
+        "title": "On  Off (Carmine Delmonico  #1)",
+        "isbn": "0743286421",
+        "cover": "//covers.openlibrary.org/b/id/12076566-M.jpg",
+        "authors": "Colleen McCullough",
+        "rating": 3.52,
+        "reviews": 2736,
+        "pages": "eng"
+    },
+    {
+        "title": "Music & Silence",
+        "isbn": "0743418263",
+        "cover": "//covers.openlibrary.org/b/id/10693241-M.jpg",
+        "authors": "Rose Tremain",
+        "rating": 3.95,
+        "reviews": 6331,
+        "pages": "eng"
+    },
+    {
+        "title": "'Salem's Lot",
+        "isbn": "0743536967",
+        "cover": "//covers.openlibrary.org/b/id/8413439-M.jpg",
+        "authors": "Stephen King/Ron McLarty",
+        "rating": 4.02,
+        "reviews": 471,
+        "pages": "eng"
+    },
+    {
+        "title": "Juiced Official Strategy Guide",
+        "isbn": "0744005612",
+        "cover": "//covers.openlibrary.org/b/id/1386317-M.jpg",
+        "authors": "Doug Walsh",
+        "rating": 0.0,
+        "reviews": 112,
+        "pages": "eng"
+    },
+    {
+        "title": "The Waste Lands (The Dark Tower  #3)",
+        "isbn": "0747411875",
+        "cover": "",
+        "authors": "Stephen King/Ned Dameron",
+        "rating": 4.24,
+        "reviews": 661,
+        "pages": "eng"
+    },
+    {
+        "title": "Transform Your Life: A step-by-step programme for change",
+        "isbn": "0749919442",
+        "cover": "//covers.openlibrary.org/b/id/492382-M.jpg",
+        "authors": "Diana Cooper",
+        "rating": 4.0,
+        "reviews": 188,
+        "pages": "eng"
+    },
+    {
+        "title": "The Long Shadow (The Morland Dynasty  #6)",
+        "isbn": "0751506435",
+        "cover": "//covers.openlibrary.org/b/id/7842279-M.jpg",
+        "authors": "Cynthia Harrod-Eagles",
+        "rating": 4.12,
+        "reviews": 1119,
+        "pages": "eng"
+    },
+    {
+        "title": "Treasure Island",
+        "isbn": "0753453800",
+        "cover": "//covers.openlibrary.org/b/id/500293-M.jpg",
+        "authors": "Robert Louis Stevenson",
+        "rating": 3.83,
+        "reviews": 637817,
+        "pages": "eng"
+    },
+    {
+        "title": "Heidi (Heidi  #1-2)",
+        "isbn": "0753454947",
+        "cover": "//covers.openlibrary.org/b/id/500332-M.jpg",
+        "authors": "Johanna Spyri/Beverly Cleary/Angelo  Rinaldi",
+        "rating": 3.99,
+        "reviews": 306986,
+        "pages": "eng"
+    },
+    {
+        "title": "What to Expect the First Year (What to Expect)",
+        "isbn": "0761129588",
+        "cover": "//covers.openlibrary.org/b/id/507721-M.jpg",
+        "authors": "Heidi Murkoff/Sharon Mazel/Arlene Eisenberg/Sandee Hathaway/Mark D. Widome",
+        "rating": 3.89,
+        "reviews": 24426,
+        "pages": "eng"
+    },
+    {
+        "title": "Charles Dickens' A Christmas Carol",
+        "isbn": "0762408480",
+        "cover": "//covers.openlibrary.org/b/id/513297-M.jpg",
+        "authors": "Jane Parker Resnick/Christian Birmingham",
+        "rating": 4.1,
+        "reviews": 172,
+        "pages": "eng"
+    },
+    {
+        "title": "The Dragon's Eye (Dragonology Chronicles  #1)",
+        "isbn": "0763628107",
+        "cover": "//covers.openlibrary.org/b/id/516579-M.jpg",
+        "authors": "Dugald A. Steer/Douglas Carrel",
+        "rating": 3.82,
+        "reviews": 4663,
+        "pages": "eng"
+    },
+    {
+        "title": "Starting an eBay Business for Dummies",
+        "isbn": "0764569244",
+        "cover": "//covers.openlibrary.org/b/id/522481-M.jpg",
+        "authors": "Marsha Collier",
+        "rating": 3.55,
+        "reviews": 494,
+        "pages": "eng"
+    },
+    {
+        "title": "Shakespeare's Hamlet",
+        "isbn": "0764585681",
+        "cover": "//covers.openlibrary.org/b/id/10180758-M.jpg",
+        "authors": "William Shakespeare/Terri Mategrano",
+        "rating": 4.02,
+        "reviews": 444,
+        "pages": "eng"
+    },
+    {
+        "title": "Golding's Lord of the Flies (Cliffs Notes)",
+        "isbn": "0764585975",
+        "cover": "//covers.openlibrary.org/b/id/523005-M.jpg",
+        "authors": "Maureen Kelly/CliffsNotes/William Golding",
+        "rating": 3.95,
+        "reviews": 258,
+        "pages": "eng"
+    },
+    {
+        "title": "O'Brien's the Things They Carried",
+        "isbn": "0764586688",
+        "cover": "//covers.openlibrary.org/b/id/1442330-M.jpg",
+        "authors": "Jill Colella/CliffsNotes",
+        "rating": 3.69,
+        "reviews": 176,
+        "pages": "eng"
+    },
+    {
+        "title": "A Shadow in Summer (Long Price Quartet  #1)",
+        "isbn": "0765313405",
+        "cover": "//covers.openlibrary.org/b/id/524624-M.jpg",
+        "authors": "Daniel Abraham",
+        "rating": 3.6,
+        "reviews": 20035,
+        "pages": "eng"
+    },
+    {
+        "title": "Time for the Stars (Heinlein's Juveniles  #10)",
+        "isbn": "0765314932",
+        "cover": "//covers.openlibrary.org/b/id/524700-M.jpg",
+        "authors": "Robert A. Heinlein",
+        "rating": 3.97,
+        "reviews": 14052,
+        "pages": "eng"
+    },
+    {
+        "title": "The Road to Dune",
+        "isbn": "0765353709",
+        "cover": "//covers.openlibrary.org/b/id/8009492-M.jpg",
+        "authors": "Frank Herbert/Brian Herbert/Kevin J. Anderson",
+        "rating": 3.88,
+        "reviews": 10004,
+        "pages": "eng"
+    },
+    {
+        "title": "I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away",
+        "isbn": "076790382X",
+        "cover": "//covers.openlibrary.org/b/id/12722647-M.jpg",
+        "authors": "Bill Bryson",
+        "rating": 3.9,
+        "reviews": 98784,
+        "pages": "eng"
+    },
+    {
+        "title": "In a Sunburned Country",
+        "isbn": "0767903862",
+        "cover": "//covers.openlibrary.org/b/id/12722656-M.jpg",
+        "authors": "Bill Bryson",
+        "rating": 4.07,
+        "reviews": 145237,
+        "pages": "eng"
+    },
+    {
+        "title": "Northern Lights",
+        "isbn": "0767904419",
+        "cover": "//covers.openlibrary.org/b/id/527723-M.jpg",
+        "authors": "Tim O'Brien",
+        "rating": 3.29,
+        "reviews": 2334,
+        "pages": "eng"
+    },
+    {
+        "title": "Going After Cacciato",
+        "isbn": "0767904427",
+        "cover": "//covers.openlibrary.org/b/id/527724-M.jpg",
+        "authors": "Tim O'Brien",
+        "rating": 3.91,
+        "reviews": 21119,
+        "pages": "eng"
+    },
+    {
+        "title": "If I Die in a Combat Zone  Box Me Up and Ship Me Home",
+        "isbn": "0767904435",
+        "cover": "//covers.openlibrary.org/b/id/527725-M.jpg",
+        "authors": "Tim O'Brien",
+        "rating": 3.95,
+        "reviews": 15751,
+        "pages": "eng"
+    },
+    {
+        "title": "A Short History of Nearly Everything",
+        "isbn": "076790818X",
+        "cover": "//covers.openlibrary.org/b/id/12725608-M.jpg",
+        "authors": "Bill Bryson",
+        "rating": 4.21,
+        "reviews": 497660,
+        "pages": "eng"
+    },
+    {
+        "title": "Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right",
+        "isbn": "0767910435",
+        "cover": "//covers.openlibrary.org/b/id/528101-M.jpg",
+        "authors": "Bill Bryson",
+        "rating": 3.87,
+        "reviews": 4432,
+        "pages": "eng"
+    },
+    {
+        "title": "Bill Bryson's African Diary",
+        "isbn": "0767915062",
+        "cover": "//covers.openlibrary.org/b/id/528295-M.jpg",
+        "authors": "Bill Bryson",
+        "rating": 3.44,
+        "reviews": 14595,
+        "pages": "eng"
+    },
+    {
+        "title": "A Christmas Story",
+        "isbn": "0767916220",
+        "cover": "//covers.openlibrary.org/b/id/528353-M.jpg",
+        "authors": "Jean Shepherd",
+        "rating": 4.08,
+        "reviews": 6518,
+        "pages": "eng"
+    },
+    {
+        "title": "The Dictionary of Corporate Bullshit: An A to Z Lexicon of Empty  Enraging  and Just Plain Stupid Office Talk",
+        "isbn": "0767920740",
+        "cover": "//covers.openlibrary.org/b/id/528564-M.jpg",
+        "authors": "Lois Beckwith",
+        "rating": 4.03,
+        "reviews": 356,
+        "pages": "eng"
+    },
+    {
+        "title": "Dinner with Anna Karenina",
+        "isbn": "0778322270",
+        "cover": "//covers.openlibrary.org/b/id/6635990-M.jpg",
+        "authors": "Gloria Goldreich",
+        "rating": 2.99,
+        "reviews": 1182,
+        "pages": "eng"
+    },
+    {
+        "title": "A Killing Rain (Louis Kincaid  #6)",
+        "isbn": "078601606X",
+        "cover": "//covers.openlibrary.org/b/id/539457-M.jpg",
+        "authors": "P.J. Parrish",
+        "rating": 4.04,
+        "reviews": 1295,
+        "pages": "eng"
+    },
+    {
+        "title": "Sparrow Hawk Red",
+        "isbn": "0786811056",
+        "cover": "//covers.openlibrary.org/b/id/6603140-M.jpg",
+        "authors": "Ben Mikaelsen",
+        "rating": 3.79,
+        "reviews": 187,
+        "pages": "eng"
+    },
+    {
+        "title": "Love",
+        "isbn": "0786881488",
+        "cover": "//covers.openlibrary.org/b/id/545983-M.jpg",
+        "authors": "Pablo Neruda",
+        "rating": 4.46,
+        "reviews": 2709,
+        "pages": "eng"
+    },
+    {
+        "title": "Amber and Ashes (Dragonlance: The Dark Disciple  #1)",
+        "isbn": "0786937424",
+        "cover": "//covers.openlibrary.org/b/id/547470-M.jpg",
+        "authors": "Margaret Weis",
+        "rating": 3.87,
+        "reviews": 5610,
+        "pages": "eng"
+    },
+    {
+        "title": "Road of the Patriarch (Forgotten Realms: The Sellswords  #3)",
+        "isbn": "0786940751",
+        "cover": "//covers.openlibrary.org/b/id/547615-M.jpg",
+        "authors": "R.A. Salvatore",
+        "rating": 4.19,
+        "reviews": 12894,
+        "pages": "eng"
+    },
+    {
+        "title": "Always Enough: God's Miraculous Provision Among the Poorest Children on Earth",
+        "isbn": "0800793617",
+        "cover": "//covers.openlibrary.org/b/id/562500-M.jpg",
+        "authors": "Heidi Baker/Rolland Baker",
+        "rating": 4.46,
+        "reviews": 1912,
+        "pages": "eng"
+    },
+    {
+        "title": "Gorgias/Phaedrus (Agora)",
+        "isbn": "0801435307",
+        "cover": "//covers.openlibrary.org/b/id/4677125-M.jpg",
+        "authors": "Plato/James H. Nichols Jr.",
+        "rating": 4.35,
+        "reviews": 269,
+        "pages": "eng"
+    },
+    {
+        "title": "Quiet Days in Clichy",
+        "isbn": "080213016X",
+        "cover": "//covers.openlibrary.org/b/id/568508-M.jpg",
+        "authors": "Henry Miller",
+        "rating": 3.69,
+        "reviews": 6916,
+        "pages": "eng"
+    },
+    {
+        "title": "Tropic of Cancer",
+        "isbn": "0802131786",
+        "cover": "//covers.openlibrary.org/b/id/568616-M.jpg",
+        "authors": "Henry Miller/Ji\u0159\u00ed N\u00edl",
+        "rating": 3.68,
+        "reviews": 106730,
+        "pages": "eng"
+    },
+    {
+        "title": "Reservation Blues",
+        "isbn": "0802141900",
+        "cover": "//covers.openlibrary.org/b/id/569424-M.jpg",
+        "authors": "Sherman Alexie",
+        "rating": 3.98,
+        "reviews": 22632,
+        "pages": "eng"
+    },
+    {
+        "title": "Nexus (The Rosy Crucifixion  #3)",
+        "isbn": "0802151787",
+        "cover": "//covers.openlibrary.org/b/id/569629-M.jpg",
+        "authors": "Henry Miller",
+        "rating": 4.1,
+        "reviews": 6838,
+        "pages": "eng"
+    },
+    {
+        "title": "Sexus (The Rosy Crucifixion  #1)",
+        "isbn": "0802151809",
+        "cover": "//covers.openlibrary.org/b/id/569631-M.jpg",
+        "authors": "Henry Miller",
+        "rating": 3.98,
+        "reviews": 16116,
+        "pages": "eng"
+    },
+    {
+        "title": "Tropic of Capricorn",
+        "isbn": "0802151825",
+        "cover": "//covers.openlibrary.org/b/id/569632-M.jpg",
+        "authors": "Henry Miller",
+        "rating": 3.78,
+        "reviews": 30092,
+        "pages": "eng"
+    },
+    {
+        "title": "My First Story of Christmas",
+        "isbn": "0802417582",
+        "cover": "//covers.openlibrary.org/b/id/569939-M.jpg",
+        "authors": "Tim Dowley/Roger Langton",
+        "rating": 4.07,
+        "reviews": 44,
+        "pages": "eng"
+    },
+    {
+        "title": "Liar's Poker: A Harry Garnish Mystery",
+        "isbn": "0802732291",
+        "cover": "//covers.openlibrary.org/b/id/6744405-M.jpg",
+        "authors": "Frank McConnell",
+        "rating": 3.31,
+        "reviews": 240,
+        "pages": "eng"
+    },
+    {
+        "title": "Once Upon a Cool Motorcycle Dude",
+        "isbn": "0802789471",
+        "cover": "//covers.openlibrary.org/b/id/1512481-M.jpg",
+        "authors": "Kevin O'Malley/Carol Heyer/Scott Goto",
+        "rating": 4.08,
+        "reviews": 3578,
+        "pages": "eng"
+    },
+    {
+        "title": "Travels in the Scriptorium",
+        "isbn": "0805081453",
+        "cover": "//covers.openlibrary.org/b/id/581571-M.jpg",
+        "authors": "Paul Auster",
+        "rating": 3.23,
+        "reviews": 13521,
+        "pages": "eng"
+    },
+    {
+        "title": "Monkey Business: True Story of the Scopes Trial",
+        "isbn": "0805431578",
+        "cover": "//covers.openlibrary.org/b/id/582947-M.jpg",
+        "authors": "Marvin N. Olasky/John R. Perry",
+        "rating": 3.15,
+        "reviews": 420,
+        "pages": "eng"
+    },
+    {
+        "title": "Regeneration Through Violence: The Mythology of the American Frontier  1600\u20131860",
+        "isbn": "0806132299",
+        "cover": "//covers.openlibrary.org/b/id/584670-M.jpg",
+        "authors": "Richard Slotkin",
+        "rating": 4.3,
+        "reviews": 996,
+        "pages": "eng"
+    },
+    {
+        "title": "The Broken Wings",
+        "isbn": "0806501901",
+        "cover": "//covers.openlibrary.org/b/id/585041-M.jpg",
+        "authors": "Kahlil Gibran/\u062c\u0628\u0631\u0627\u0646 \u062e\u0644\u064a\u0644 \u062c\u0628\u0631\u0627\u0646/Anthony Rizcallah Ferris",
+        "rating": 3.92,
+        "reviews": 12996,
+        "pages": "eng"
+    },
+    {
+        "title": "Wizard: The Life and Times of Nikola Tesla: Biography of a Genius",
+        "isbn": "0806519606",
+        "cover": "//covers.openlibrary.org/b/id/585394-M.jpg",
+        "authors": "Marc J.  Seifer/William H. Terbo",
+        "rating": 3.78,
+        "reviews": 6200,
+        "pages": "eng"
+    },
+    {
+        "title": "Ruby Ann's Down Home Trailer Park Cookbook",
+        "isbn": "0806523492",
+        "cover": "//covers.openlibrary.org/b/id/585603-M.jpg",
+        "authors": "Ruby Ann Boxcar",
+        "rating": 4.12,
+        "reviews": 340,
+        "pages": "eng"
+    },
+    {
+        "title": "Ruby Ann's Down Home Trailer Park BBQin' Cookbook",
+        "isbn": "0806525363",
+        "cover": "//covers.openlibrary.org/b/id/1524823-M.jpg",
+        "authors": "Ruby Ann Boxcar",
+        "rating": 4.08,
+        "reviews": 232,
+        "pages": "eng"
+    },
+    {
+        "title": "Poetry for Young People: Edward Lear",
+        "isbn": "0806930772",
+        "cover": "//covers.openlibrary.org/b/id/586598-M.jpg",
+        "authors": "Edward Lear/Laura Huliska-Beith/Edward Mendelson",
+        "rating": 3.91,
+        "reviews": 180,
+        "pages": "eng"
+    },
+    {
+        "title": "The Creation of the American Republic  1776-1787",
+        "isbn": "0807847232",
+        "cover": "//covers.openlibrary.org/b/id/1528375-M.jpg",
+        "authors": "Gordon S. Wood",
+        "rating": 4.12,
+        "reviews": 4259,
+        "pages": "eng"
+    },
+    {
+        "title": "The Air-Conditioned Nightmare",
+        "isbn": "0811201066",
+        "cover": "//covers.openlibrary.org/b/id/597860-M.jpg",
+        "authors": "Henry Miller",
+        "rating": 3.83,
+        "reviews": 5690,
+        "pages": "eng"
+    },
+    {
+        "title": "Henry Miller on Writing",
+        "isbn": "0811201120",
+        "cover": "//covers.openlibrary.org/b/id/597866-M.jpg",
+        "authors": "Henry Miller/Thomas H. Moore",
+        "rating": 4.22,
+        "reviews": 2179,
+        "pages": "eng"
+    },
+    {
+        "title": "The Collected Poems of Wilfred Owen",
+        "isbn": "0811201325",
+        "cover": "//covers.openlibrary.org/b/id/7456201-M.jpg",
+        "authors": "Wilfred Owen/Cecil Day-Lewis",
+        "rating": 4.34,
+        "reviews": 6494,
+        "pages": "eng"
+    },
+    {
+        "title": "The Red Notebook: True Stories",
+        "isbn": "0811214982",
+        "cover": "//covers.openlibrary.org/b/id/598368-M.jpg",
+        "authors": "Paul Auster",
+        "rating": 3.77,
+        "reviews": 4884,
+        "pages": "eng"
+    },
+    {
+        "title": "Blood Stripes: The Grunt's View of the War in Iraq",
+        "isbn": "0811701646",
+        "cover": "//covers.openlibrary.org/b/id/598618-M.jpg",
+        "authors": "David J. Danelo/Steven Pressfield",
+        "rating": 3.91,
+        "reviews": 510,
+        "pages": "eng"
+    },
+    {
+        "title": "Aeschylus  1: The Oresteia: Agamemnon/The Libation Bearers/The Eumenides",
+        "isbn": "081221627X",
+        "cover": "//covers.openlibrary.org/b/id/602601-M.jpg",
+        "authors": "Aeschylus/David R. Slavitt/Smith Palmer Bovie",
+        "rating": 4.02,
+        "reviews": 202,
+        "pages": "eng"
+    },
+    {
+        "title": "Aristophanes 1: The Acharnians/Peace/Celebrating Ladies/Wealth",
+        "isbn": "0812234561",
+        "cover": "//covers.openlibrary.org/b/id/3727871-M.jpg",
+        "authors": "Aristophanes/David R. Slavitt",
+        "rating": 3.83,
+        "reviews": 344,
+        "pages": "eng"
+    },
+    {
+        "title": "Snow Flower and the Secret Fan",
+        "isbn": "0812968069",
+        "cover": "//covers.openlibrary.org/b/id/606050-M.jpg",
+        "authors": "Lisa See",
+        "rating": 4.07,
+        "reviews": 595335,
+        "pages": "eng"
+    },
+    {
+        "title": "A War Like No Other: How the Athenians & Spartans Fought the Peloponnesian War",
+        "isbn": "0812969707",
+        "cover": "//covers.openlibrary.org/b/id/606137-M.jpg",
+        "authors": "Victor Davis Hanson",
+        "rating": 4.11,
+        "reviews": 3783,
+        "pages": "eng"
+    },
+    {
+        "title": "All the King's Men: Three Stage Versions",
+        "isbn": "0820320978",
+        "cover": "//covers.openlibrary.org/b/id/1555409-M.jpg",
+        "authors": "Robert Penn Warren/James A. Perkins/James A. Grimshaw",
+        "rating": 4.0,
+        "reviews": 270,
+        "pages": "eng"
+    },
+    {
+        "title": "A Gravity's Rainbow Companion: Sources and Contexts for Pynchon's Novel",
+        "isbn": "0820328073",
+        "cover": "//covers.openlibrary.org/b/id/619001-M.jpg",
+        "authors": "Steven Weisenburger",
+        "rating": 4.01,
+        "reviews": 728,
+        "pages": "eng"
+    },
+    {
+        "title": "The Wedding Clause",
+        "isbn": "0821778250",
+        "cover": "//covers.openlibrary.org/b/id/7493477-M.jpg",
+        "authors": "Debbie Raleigh",
+        "rating": 3.6,
+        "reviews": 446,
+        "pages": "eng"
+    },
+    {
+        "title": "A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1)",
+        "isbn": "0821925326",
+        "cover": "//covers.openlibrary.org/b/id/4289050-M.jpg",
+        "authors": "Madeleine L'Engle",
+        "rating": 4.0,
+        "reviews": 322,
+        "pages": "eng"
+    },
+    {
+        "title": "Cliffs notes on Warren's All the King's Men",
+        "isbn": "0822001462",
+        "cover": "//covers.openlibrary.org/b/id/10693242-M.jpg",
+        "authors": "L. David Allen",
+        "rating": 3.45,
+        "reviews": 86,
+        "pages": "eng"
+    },
+    {
+        "title": "CliffsNotes on Tolstoy's Anna Karenina",
+        "isbn": "0822001837",
+        "cover": "//covers.openlibrary.org/b/id/6951821-M.jpg",
+        "authors": "Marianne Sturman/Leo Tolstoy",
+        "rating": 3.85,
+        "reviews": 112,
+        "pages": "eng"
+    },
+    {
+        "title": "CliffsNotes on Euripides' Medea and Electra",
+        "isbn": "0822004240",
+        "cover": "//covers.openlibrary.org/b/id/8506076-M.jpg",
+        "authors": "Robert J. Milch",
+        "rating": 4.2,
+        "reviews": 79,
+        "pages": "eng"
+    },
+    {
+        "title": "The Heidi Chronicles",
+        "isbn": "0822205106",
+        "cover": "//covers.openlibrary.org/b/id/8753189-M.jpg",
+        "authors": "Wendy Wasserstein",
+        "rating": 3.75,
+        "reviews": 2927,
+        "pages": "eng"
+    },
+    {
+        "title": "The Diary of Anne Frank",
+        "isbn": "082221718X",
+        "cover": "//covers.openlibrary.org/b/id/1558473-M.jpg",
+        "authors": "Frances Goodrich/Albert Hackett/Wendy Kesselman",
+        "rating": 4.06,
+        "reviews": 2710,
+        "pages": "eng"
+    },
+    {
+        "title": "Nikola Tesla: A Spark of Genius",
+        "isbn": "0822549204",
+        "cover": "//covers.openlibrary.org/b/id/623366-M.jpg",
+        "authors": "Carol Dommermuth-Costa",
+        "rating": 3.93,
+        "reviews": 354,
+        "pages": "eng"
+    },
+    {
+        "title": "Life of the Beloved: Spiritual Living in a Secular World",
+        "isbn": "0824519868",
+        "cover": "//covers.openlibrary.org/b/id/626368-M.jpg",
+        "authors": "Henri J.M. Nouwen",
+        "rating": 4.28,
+        "reviews": 15262,
+        "pages": "eng"
+    },
+    {
+        "title": "Guerilla Film Makers Movie Blueprint",
+        "isbn": "0826414532",
+        "cover": "//covers.openlibrary.org/b/id/630170-M.jpg",
+        "authors": "Chris          Jones/Jonathan Newman/Cara Williams",
+        "rating": 4.2,
+        "reviews": 708,
+        "pages": "eng"
+    },
+    {
+        "title": "Aeneid: Selections from Books 1  2  4  6  10  12",
+        "isbn": "086516584X",
+        "cover": "//covers.openlibrary.org/b/id/655768-M.jpg",
+        "authors": "Virgil/Barbara Weiden Boyd",
+        "rating": 4.35,
+        "reviews": 299,
+        "pages": "eng"
+    },
+    {
+        "title": "Cradle to Cradle: Remaking the Way We Make Things",
+        "isbn": "0865475873",
+        "cover": "//covers.openlibrary.org/b/id/12816947-M.jpg",
+        "authors": "William McDonough/Michael Braungart",
+        "rating": 4.11,
+        "reviews": 18227,
+        "pages": "eng"
+    },
+    {
+        "title": "Getting Results with Curriculum Mapping",
+        "isbn": "0871209993",
+        "cover": "//covers.openlibrary.org/b/id/661026-M.jpg",
+        "authors": "Heidi Hayes Jacobs",
+        "rating": 3.25,
+        "reviews": 302,
+        "pages": "eng"
+    },
+    {
+        "title": "On Justice  Power and Human Nature: Selections from The History of the Peloponnesian War",
+        "isbn": "0872201686",
+        "cover": "//covers.openlibrary.org/b/id/662203-M.jpg",
+        "authors": "Thucydides/Paul Woodruff",
+        "rating": 3.72,
+        "reviews": 1392,
+        "pages": "eng"
+    },
+    {
+        "title": "Clouds/Wasps/Birds (Aristophanes 1)",
+        "isbn": "0872203611",
+        "cover": "//covers.openlibrary.org/b/id/662271-M.jpg",
+        "authors": "Aristophanes/Peter Meineck",
+        "rating": 3.77,
+        "reviews": 482,
+        "pages": "eng"
+    },
+    {
+        "title": "Oresteia",
+        "isbn": "0872203905",
+        "cover": "//covers.openlibrary.org/b/id/6917129-M.jpg",
+        "authors": "Aeschylus/Peter Meineck/Helene P. Foley",
+        "rating": 4.02,
+        "reviews": 830,
+        "pages": "eng"
+    },
+    {
+        "title": "The Peloponnesian War",
+        "isbn": "0872203948",
+        "cover": "//covers.openlibrary.org/b/id/662290-M.jpg",
+        "authors": "Thucydides/Steven Lattimore",
+        "rating": 3.9,
+        "reviews": 838,
+        "pages": "eng"
+    },
+    {
+        "title": "Statesman",
+        "isbn": "0872204626",
+        "cover": "//covers.openlibrary.org/b/id/4796944-M.jpg",
+        "authors": "Plato/C.J. Rowe",
+        "rating": 3.85,
+        "reviews": 184,
+        "pages": "eng"
+    },
+    {
+        "title": "On Love: Lysis/Symposium/Phaedrus/Alcibiades/Selections from Republic & Laws",
+        "isbn": "0872207889",
+        "cover": "//covers.openlibrary.org/b/id/1619825-M.jpg",
+        "authors": "Plato/C.D.C. Reeve",
+        "rating": 4.06,
+        "reviews": 580,
+        "pages": "eng"
+    },
+    {
+        "title": "Howl and Other Poems",
+        "isbn": "0872863107",
+        "cover": "//covers.openlibrary.org/b/id/662901-M.jpg",
+        "authors": "Allen Ginsberg/William Carlos Williams",
+        "rating": 4.13,
+        "reviews": 170342,
+        "pages": "eng"
+    },
+    {
+        "title": "The Essential Neruda: Selected Poems",
+        "isbn": "0872864286",
+        "cover": "//covers.openlibrary.org/b/id/662999-M.jpg",
+        "authors": "Pablo Neruda/Mark Eisner/Lawrence Ferlinghetti/Robert Hass/Stephen Mitchell/Alastair Reid/Forrest Gander/Jack Hirschman/Stephen Kessler/John Felstiner",
+        "rating": 4.46,
+        "reviews": 10498,
+        "pages": "eng"
+    },
+    {
+        "title": "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth",
+        "isbn": "0879232153",
+        "cover": "//covers.openlibrary.org/b/id/674545-M.jpg",
+        "authors": "Giorgio De Santillana/Hertha Von Dechend",
+        "rating": 4.29,
+        "reviews": 1428,
+        "pages": "eng"
+    },
+    {
+        "title": "Lysis/Phaedrus/Symposium: Plato on Homosexuality",
+        "isbn": "0879756322",
+        "cover": "",
+        "authors": "Plato/Benjamin Jowett",
+        "rating": 4.47,
+        "reviews": 185,
+        "pages": "eng"
+    },
+    {
+        "title": "The Life and Times of Scrooge McDuck",
+        "isbn": "0911903968",
+        "cover": "//covers.openlibrary.org/b/id/703302-M.jpg",
+        "authors": "Don Rosa",
+        "rating": 4.67,
+        "reviews": 5200,
+        "pages": "eng"
+    },
+    {
+        "title": "Thucydides  Book 6 Commentary",
+        "isbn": "0929524357",
+        "cover": "",
+        "authors": "Cynthia W. Shelmerdine",
+        "rating": 4.5,
+        "reviews": 38,
+        "pages": "eng"
+    },
+    {
+        "title": "Five T'ang Poets",
+        "isbn": "093244055X",
+        "cover": "//covers.openlibrary.org/b/id/711716-M.jpg",
+        "authors": "Wang Wei/Li Bai/Li Ho/Li Shang-yin/David        Young",
+        "rating": 4.3,
+        "reviews": 522,
+        "pages": "eng"
+    },
+    {
+        "title": "Tesla Papers",
+        "isbn": "0932813860",
+        "cover": "//covers.openlibrary.org/b/id/712105-M.jpg",
+        "authors": "Nikola Tesla/David Hatcher Childress",
+        "rating": 4.13,
+        "reviews": 304,
+        "pages": "eng"
+    },
+    {
+        "title": "Dalit: The Black Untaouchables of India",
+        "isbn": "0932863051",
+        "cover": "//covers.openlibrary.org/b/id/712160-M.jpg",
+        "authors": "V.T. Rajshekar/Y.N. Kly",
+        "rating": 4.2,
+        "reviews": 120,
+        "pages": "eng"
+    },
+    {
+        "title": "100 Years of Lynchings",
+        "isbn": "0933121180",
+        "cover": "//covers.openlibrary.org/b/id/712311-M.jpg",
+        "authors": "Ralph Ginzburg",
+        "rating": 4.61,
+        "reviews": 446,
+        "pages": "eng"
+    },
+    {
+        "title": "The Locked Room (The New York Trilogy  #3)",
+        "isbn": "0940650762",
+        "cover": "//covers.openlibrary.org/b/id/4133231-M.jpg",
+        "authors": "Paul Auster",
+        "rating": 3.89,
+        "reviews": 6175,
+        "pages": "eng"
+    },
+    {
+        "title": "The Ethics of Rhetoric",
+        "isbn": "0961180021",
+        "cover": "//covers.openlibrary.org/b/id/724943-M.jpg",
+        "authors": "Richard M. Weaver",
+        "rating": 4.14,
+        "reviews": 370,
+        "pages": "eng"
+    },
+    {
+        "title": "Pyramids of Montauk: Explorations in Consciousness",
+        "isbn": "0963188925",
+        "cover": "//covers.openlibrary.org/b/id/726666-M.jpg",
+        "authors": "Peter Moon/Preston B. Nichols/Nina Helms",
+        "rating": 3.89,
+        "reviews": 404,
+        "pages": "eng"
+    },
+    {
+        "title": "'Salem's Lot",
+        "isbn": "0965772411",
+        "cover": "//covers.openlibrary.org/b/id/10693244-M.jpg",
+        "authors": "Stephen King",
+        "rating": 4.02,
+        "reviews": 2483,
+        "pages": "eng"
+    },
+    {
+        "title": "The Player's Handbook: The Ultimate Guide on Dating and Relationships",
+        "isbn": "0972016414",
+        "cover": "//covers.openlibrary.org/b/id/737531-M.jpg",
+        "authors": "Heidi Fleiss/Libby Keatinge",
+        "rating": 3.82,
+        "reviews": 191,
+        "pages": "eng"
+    },
+    {
+        "title": "Eating for Life: Your Guide to Great Health  Fat Loss and Increased Energy!",
+        "isbn": "0972018417",
+        "cover": "//covers.openlibrary.org/b/id/737536-M.jpg",
+        "authors": "Bill Phillips",
+        "rating": 3.95,
+        "reviews": 2033,
+        "pages": "eng"
+    },
+    {
+        "title": "Agile Web Development with Rails: A Pragmatic Guide",
+        "isbn": "097669400X",
+        "cover": "//covers.openlibrary.org/b/id/742452-M.jpg",
+        "authors": "Dave Thomas/David Heinemeier Hansson/Leon Breedt/Mike Clark/Thomas  Fuchs/Andreas  Schwarz",
+        "rating": 3.84,
+        "reviews": 3418,
+        "pages": "eng"
+    },
+    {
+        "title": "Pragmatic Version Control: Using Subversion (The Pragmatic Starter Kit Series)",
+        "isbn": "0977616657",
+        "cover": "//covers.openlibrary.org/b/id/743207-M.jpg",
+        "authors": "Mike   Mason",
+        "rating": 3.58,
+        "reviews": 602,
+        "pages": "eng"
+    },
+    {
+        "title": "The Dragon's Eye (Erec Rex  #1)",
+        "isbn": "0978655567",
+        "cover": "//covers.openlibrary.org/b/id/743597-M.jpg",
+        "authors": "Kaza Kingsley/Melvyn Grant",
+        "rating": 4.0,
+        "reviews": 459,
+        "pages": "eng"
+    },
+    {
+        "title": "Veinte poemas de amor y una canci\u00f3n desesperada; Cien sonetos de amor",
+        "isbn": "1400001447",
+        "cover": "//covers.openlibrary.org/b/id/743840-M.jpg",
+        "authors": "Pablo Neruda",
+        "rating": 4.3,
+        "reviews": 2400,
+        "pages": "eng"
+    },
+    {
+        "title": "A Fine Balance",
+        "isbn": "140003065X",
+        "cover": "//covers.openlibrary.org/b/id/8348361-M.jpg",
+        "authors": "Rohinton Mistry",
+        "rating": 4.36,
+        "reviews": 224995,
+        "pages": "eng"
+    },
+    {
+        "title": "Miami Blues (Hoke Moseley #1)",
+        "isbn": "1400032466",
+        "cover": "",
+        "authors": "Charles Willeford/Elmore Leonard",
+        "rating": 3.94,
+        "reviews": 5985,
+        "pages": "eng"
+    },
+    {
+        "title": "Sideswipe: A Hoke Moseley Novel",
+        "isbn": "1400032482",
+        "cover": "//covers.openlibrary.org/b/id/744903-M.jpg",
+        "authors": "Charles Willeford/Lawrence Block",
+        "rating": 4.05,
+        "reviews": 1677,
+        "pages": "eng"
+    },
+    {
+        "title": "New Hope for the Dead (Hoke Mosely #2)",
+        "isbn": "1400032490",
+        "cover": "",
+        "authors": "Charles Willeford/James Lee Burke",
+        "rating": 3.9,
+        "reviews": 1886,
+        "pages": "eng"
+    },
+    {
+        "title": "The Complete Short Novels",
+        "isbn": "140003292X",
+        "cover": "//covers.openlibrary.org/b/id/12764196-M.jpg",
+        "authors": "Anton Chekhov/Richard Pevear/Larissa Volokhonsky",
+        "rating": 4.47,
+        "reviews": 21708,
+        "pages": "eng"
+    },
+    {
+        "title": "Beloved",
+        "isbn": "1400033411",
+        "cover": "//covers.openlibrary.org/b/id/10653442-M.jpg",
+        "authors": "Toni Morrison",
+        "rating": 3.83,
+        "reviews": 564414,
+        "pages": "eng"
+    },
+    {
+        "title": "Providence of a Sparrow: Lessons from a Life Gone to the Birds",
+        "isbn": "1400033853",
+        "cover": "//covers.openlibrary.org/b/id/744978-M.jpg",
+        "authors": "Chris Chester",
+        "rating": 4.33,
+        "reviews": 760,
+        "pages": "eng"
+    },
+    {
+        "title": "The Oresteia: Agamemnon  Choephoroe & Eumenides (Everyman's Library  No. 260)",
+        "isbn": "1400041929",
+        "cover": "//covers.openlibrary.org/b/id/745289-M.jpg",
+        "authors": "Aeschylus/George Thomson/Richard Seaford",
+        "rating": 4.02,
+        "reviews": 253,
+        "pages": "eng"
+    },
+    {
+        "title": "Eat This Book: Cooking with Global Fresh Flavors",
+        "isbn": "1400052378",
+        "cover": "//covers.openlibrary.org/b/id/745985-M.jpg",
+        "authors": "Tyler Florence/Petrina Tinslay",
+        "rating": 3.92,
+        "reviews": 837,
+        "pages": "eng"
+    },
+    {
+        "title": "Tyler's Ultimate: Brilliant Simple Food to Make Any Time",
+        "isbn": "1400052386",
+        "cover": "//covers.openlibrary.org/b/id/745986-M.jpg",
+        "authors": "Tyler Florence/Petrina Tinslay",
+        "rating": 4.09,
+        "reviews": 7650,
+        "pages": "eng"
+    },
+    {
+        "title": "Everyday Italian: 125 Simple and Delicious Recipes",
+        "isbn": "1400052580",
+        "cover": "//covers.openlibrary.org/b/id/745996-M.jpg",
+        "authors": "Giada De Laurentiis",
+        "rating": 3.95,
+        "reviews": 80506,
+        "pages": "eng"
+    },
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1)",
+        "isbn": "1400052920",
+        "cover": "//covers.openlibrary.org/b/id/10176291-M.jpg",
+        "authors": "Douglas Adams",
+        "rating": 4.22,
+        "reviews": 10075,
+        "pages": "eng"
+    },
+    {
+        "title": "Shibumi",
+        "isbn": "1400098033",
+        "cover": "//covers.openlibrary.org/b/id/6677153-M.jpg",
+        "authors": "Trevanian/Gisela Stege",
+        "rating": 4.21,
+        "reviews": 19476,
+        "pages": "eng"
+    },
+    {
+        "title": "V for Vendetta",
+        "isbn": "1401207928",
+        "cover": "//covers.openlibrary.org/b/id/749345-M.jpg",
+        "authors": "Alan Moore/David   Lloyd",
+        "rating": 4.25,
+        "reviews": 470204,
+        "pages": "eng"
+    },
+    {
+        "title": "The Five People You Meet in Heaven",
+        "isbn": "1401308589",
+        "cover": "//covers.openlibrary.org/b/id/12560440-M.jpg",
+        "authors": "Mitch Albom",
+        "rating": 3.93,
+        "reviews": 1040298,
+        "pages": "eng"
+    },
+    {
+        "title": "V.S. Naipaul",
+        "isbn": "1403904561",
+        "cover": "//covers.openlibrary.org/b/id/4308666-M.jpg",
+        "authors": "Bruce Alvin King",
+        "rating": 2.0,
+        "reviews": 240,
+        "pages": "eng"
+    },
+    {
+        "title": "The Good Earth (House of Earth  #1)",
+        "isbn": "1416500189",
+        "cover": "//covers.openlibrary.org/b/id/759383-M.jpg",
+        "authors": "Pearl S. Buck",
+        "rating": 3.98,
+        "reviews": 401906,
+        "pages": "eng"
+    },
+    {
+        "title": "Treasure Island",
+        "isbn": "1416500294",
+        "cover": "//covers.openlibrary.org/b/id/12818348-M.jpg",
+        "authors": "Robert Louis Stevenson",
+        "rating": 3.83,
+        "reviews": 12179,
+        "pages": "eng"
+    },
+    {
+        "title": "Oedipus the King",
+        "isbn": "1416500332",
+        "cover": "//covers.openlibrary.org/b/id/759398-M.jpg",
+        "authors": "Sophocles/Bernard Knox/Cynthia Brantley Johnson",
+        "rating": 3.7,
+        "reviews": 1624,
+        "pages": "eng"
+    },
+    {
+        "title": "V for Vendetta",
+        "isbn": "1416516999",
+        "cover": "//covers.openlibrary.org/b/id/12293378-M.jpg",
+        "authors": "Steve Moore/Lilly Wachowski/Lana Wachowski/Alan Moore",
+        "rating": 4.15,
+        "reviews": 6318,
+        "pages": "eng"
+    },
+    {
+        "title": "Aleutian Sparrow",
+        "isbn": "1416903275",
+        "cover": "//covers.openlibrary.org/b/id/6967027-M.jpg",
+        "authors": "Karen Hesse/Evon Zerbetz/Kim McGillivray",
+        "rating": 3.78,
+        "reviews": 1580,
+        "pages": "eng"
+    },
+    {
+        "title": "Salmon of Doubt: Hitchhiking the Galaxy One Last Time",
+        "isbn": "1417622857",
+        "cover": "",
+        "authors": "Douglas Adams/Christopher Cerf",
+        "rating": 3.93,
+        "reviews": 346,
+        "pages": "eng"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "isbn": "1417735988",
+        "cover": "",
+        "authors": "Gabriel Garc\u00eda M\u00e1rquez/Gregory Rabassa",
+        "rating": 4.07,
+        "reviews": 597,
+        "pages": "eng"
+    },
+    {
+        "title": "The Best Short Stories of Edith Wharton",
+        "isbn": "1417911832",
+        "cover": "//covers.openlibrary.org/b/id/1788353-M.jpg",
+        "authors": "Edith Wharton",
+        "rating": 3.77,
+        "reviews": 382,
+        "pages": "eng"
+    },
+    {
+        "title": "The Suppliant Maidens/The Persians/Seven against Thebes/Prometheus Bound",
+        "isbn": "1419150014",
+        "cover": "//covers.openlibrary.org/b/id/763293-M.jpg",
+        "authors": "Aeschylus/E.D.A. Morshead",
+        "rating": 4.1,
+        "reviews": 210,
+        "pages": "eng"
+    },
+    {
+        "title": "The Richest Man in Babylon",
+        "isbn": "1419349996",
+        "cover": "//covers.openlibrary.org/b/id/763786-M.jpg",
+        "authors": "George S. Clason",
+        "rating": 4.26,
+        "reviews": 176,
+        "pages": "eng"
+    },
+    {
+        "title": "The Art of Howl's Moving Castle",
+        "isbn": "1421500493",
+        "cover": "//covers.openlibrary.org/b/id/764817-M.jpg",
+        "authors": "Hayao Miyazaki/Yuji Oniki/Joe Hisaishi",
+        "rating": 4.51,
+        "reviews": 6004,
+        "pages": "eng"
+    },
+    {
+        "title": "Nineteen Eighty-Four",
+        "isbn": "1421808323",
+        "cover": "//covers.openlibrary.org/b/id/765647-M.jpg",
+        "authors": "George Orwell",
+        "rating": 4.18,
+        "reviews": 817,
+        "pages": "eng"
+    },
+    {
+        "title": "The Siren Song (Pirates of the Caribbean: Jack Sparrow  #2)",
+        "isbn": "1423100190",
+        "cover": "//covers.openlibrary.org/b/id/766014-M.jpg",
+        "authors": "Rob Kidd/Jean-Paul Orpinas",
+        "rating": 3.86,
+        "reviews": 1841,
+        "pages": "eng"
+    },
+    {
+        "title": "The Pirate Chase (Pirates of the Caribbean: Jack Sparrow  #3)",
+        "isbn": "1423100204",
+        "cover": "//covers.openlibrary.org/b/id/766015-M.jpg",
+        "authors": "Rob Kidd/Walt Disney Company",
+        "rating": 3.89,
+        "reviews": 1579,
+        "pages": "eng"
+    },
+    {
+        "title": "The Age of Bronze (Pirates of the Caribbean: Jack Sparrow  #5)",
+        "isbn": "1423101685",
+        "cover": "//covers.openlibrary.org/b/id/766037-M.jpg",
+        "authors": "Rob Kidd/Walt Disney Company",
+        "rating": 4.05,
+        "reviews": 1240,
+        "pages": "eng"
+    },
+    {
+        "title": "The Woman in White",
+        "isbn": "1551116448",
+        "cover": "//covers.openlibrary.org/b/id/770520-M.jpg",
+        "authors": "Wilkie Collins/Maria K. Bachman/Don Richard Cox",
+        "rating": 4.0,
+        "reviews": 940,
+        "pages": "eng"
+    },
+    {
+        "title": "A Wrinkle in Time: A Guide for Using \"A Wrinkle in Time\" in the Classroom",
+        "isbn": "1557344035",
+        "cover": "//covers.openlibrary.org/b/id/780014-M.jpg",
+        "authors": "John Carratello/Patty Carratello/Theresa Wright",
+        "rating": 4.0,
+        "reviews": 82,
+        "pages": "eng"
+    },
+    {
+        "title": "Hatchet: A Guide for Using \"Hatchet\" in the Classroom",
+        "isbn": "1557344493",
+        "cover": "//covers.openlibrary.org/b/id/780034-M.jpg",
+        "authors": "Donna Ickes/Edward Sciranko/Keith Vasconcelles",
+        "rating": 4.0,
+        "reviews": 120,
+        "pages": "eng"
+    },
+    {
+        "title": "The Compleat Works of Wllm Shkspr (abridged)",
+        "isbn": "1557831572",
+        "cover": "//covers.openlibrary.org/b/id/781264-M.jpg",
+        "authors": "Reduced Shakespeare Company/Adam Long/Daniel Singer/Jess Winfield",
+        "rating": 4.44,
+        "reviews": 16455,
+        "pages": "eng"
+    },
+    {
+        "title": "Paul Kirk's Championship Barbecue Sauces: 175 Make-Your-Own Sauces  Marinades  Dry Rubs  Wet Rubs  Mops and Salsas",
+        "isbn": "155832125X",
+        "cover": "//covers.openlibrary.org/b/id/782791-M.jpg",
+        "authors": "Paul  Kirk",
+        "rating": 3.94,
+        "reviews": 382,
+        "pages": "eng"
+    },
+    {
+        "title": "The War",
+        "isbn": "1565842219",
+        "cover": "//covers.openlibrary.org/b/id/804878-M.jpg",
+        "authors": "Marguerite Duras/Barbara Bray",
+        "rating": 3.85,
+        "reviews": 2118,
+        "pages": "eng"
+    },
+    {
+        "title": "Kahlil Gibran: His Life and World",
+        "isbn": "156656249X",
+        "cover": "//covers.openlibrary.org/b/id/807020-M.jpg",
+        "authors": "Jean Gibran/\u062c\u0628\u0631\u0627\u0646 \u062e\u0644\u064a\u0644 \u062c\u0628\u0631\u0627\u0646/Kahlil Gibran",
+        "rating": 4.21,
+        "reviews": 534,
+        "pages": "eng"
+    },
+    {
+        "title": "The Untouchables",
+        "isbn": "1568491980",
+        "cover": "//covers.openlibrary.org/b/id/811529-M.jpg",
+        "authors": "Eliot Ness/Oscar Fraley",
+        "rating": 3.89,
+        "reviews": 1482,
+        "pages": "eng"
+    },
+    {
+        "title": "Mother Maria Skobtsova: Essential Writings",
+        "isbn": "1570754365",
+        "cover": "//covers.openlibrary.org/b/id/818580-M.jpg",
+        "authors": "Maria Skobtsova/Richard Pevear",
+        "rating": 4.31,
+        "reviews": 316,
+        "pages": "eng"
+    },
+    {
+        "title": "Writing",
+        "isbn": "1571290532",
+        "cover": "//covers.openlibrary.org/b/id/819723-M.jpg",
+        "authors": "Marguerite Duras",
+        "rating": 3.75,
+        "reviews": 1647,
+        "pages": "eng"
+    },
+    {
+        "title": "Molly Hatchet - 5 of the Best",
+        "isbn": "1575606240",
+        "cover": "//covers.openlibrary.org/b/id/1928956-M.jpg",
+        "authors": "Molly Hatchet",
+        "rating": 4.33,
+        "reviews": 68,
+        "pages": "eng"
+    },
+    {
+        "title": "Treasure Island (Great Illustrated Classics)",
+        "isbn": "1577658051",
+        "cover": "//covers.openlibrary.org/b/id/833286-M.jpg",
+        "authors": "Deidre S. Laiken/A.J. McAllister/Robert Louis Stevenson",
+        "rating": 4.05,
+        "reviews": 414,
+        "pages": "eng"
+    },
+    {
+        "title": "A Christmas Carol",
+        "isbn": "1580495796",
+        "cover": "//covers.openlibrary.org/b/id/8347930-M.jpg",
+        "authors": "Charles Dickens",
+        "rating": 4.05,
+        "reviews": 13454,
+        "pages": "eng"
+    },
+    {
+        "title": "Oedipus Rex  (The Theban Plays  #1)",
+        "isbn": "1580495931",
+        "cover": "//covers.openlibrary.org/b/id/840094-M.jpg",
+        "authors": "Sophocles/J.E. Thomas",
+        "rating": 3.7,
+        "reviews": 283185,
+        "pages": "eng"
+    },
+    {
+        "title": "Acharnians",
+        "isbn": "1585100870",
+        "cover": "//covers.openlibrary.org/b/id/1951580-M.jpg",
+        "authors": "Aristophanes/Jeffrey Henderson",
+        "rating": 3.42,
+        "reviews": 142,
+        "pages": "eng"
+    },
+    {
+        "title": "The Unknown Sigrid Undset: Jenny and Other Works",
+        "isbn": "1586420216",
+        "cover": "//covers.openlibrary.org/b/id/852599-M.jpg",
+        "authors": "Sigrid Undset/Tim Page/Tiina Nunnally/Naomi Walford",
+        "rating": 4.19,
+        "reviews": 502,
+        "pages": "eng"
+    },
+    {
+        "title": "Jenny",
+        "isbn": "158642050X",
+        "cover": "//covers.openlibrary.org/b/id/852626-M.jpg",
+        "authors": "Sigrid Undset/Tiina Nunnally",
+        "rating": 3.79,
+        "reviews": 1428,
+        "pages": "eng"
+    },
+    {
+        "title": "Grief Lessons: Four Plays by Euripides",
+        "isbn": "1590171802",
+        "cover": "//covers.openlibrary.org/b/id/859200-M.jpg",
+        "authors": "Anne Carson/Euripides",
+        "rating": 4.4,
+        "reviews": 1670,
+        "pages": "eng"
+    },
+    {
+        "title": "The Changeling",
+        "isbn": "1590301943",
+        "cover": "//covers.openlibrary.org/b/id/859585-M.jpg",
+        "authors": "Kate Horsley",
+        "rating": 3.55,
+        "reviews": 941,
+        "pages": "eng"
+    },
+    {
+        "title": "The Last Christmas of Ebenezer Scrooge",
+        "isbn": "1592241336",
+        "cover": "//covers.openlibrary.org/b/id/8770376-M.jpg",
+        "authors": "Marvin Kaye",
+        "rating": 4.13,
+        "reviews": 196,
+        "pages": "eng"
+    },
+    {
+        "title": "The Greatest Sailing Stories Ever Told: Twenty-Seven Unforgettable Stories",
+        "isbn": "1592283195",
+        "cover": "//covers.openlibrary.org/b/id/1979683-M.jpg",
+        "authors": "Christopher Caswell",
+        "rating": 3.62,
+        "reviews": 388,
+        "pages": "eng"
+    },
+    {
+        "title": "LOGO Lounge: 2 000 International Identities by Leading Designers",
+        "isbn": "1592530877",
+        "cover": "//covers.openlibrary.org/b/id/868324-M.jpg",
+        "authors": "Catharine M. Fishel/Bill Gardner",
+        "rating": 3.93,
+        "reviews": 245,
+        "pages": "eng"
+    },
+    {
+        "title": "Robinson Crusoe",
+        "isbn": "1593080115",
+        "cover": "//covers.openlibrary.org/b/id/869603-M.jpg",
+        "authors": "Daniel Defoe/L.J. Swingle",
+        "rating": 3.67,
+        "reviews": 1012,
+        "pages": "eng"
+    },
+    {
+        "title": "Anna Karenina",
+        "isbn": "1593080271",
+        "cover": "//covers.openlibrary.org/b/id/869620-M.jpg",
+        "authors": "Leo Tolstoy/Amy Mandelker/Constance Garnett",
+        "rating": 4.05,
+        "reviews": 19931,
+        "pages": "eng"
+    },
+    {
+        "title": "Vanity Fair",
+        "isbn": "1593080719",
+        "cover": "//covers.openlibrary.org/b/id/869663-M.jpg",
+        "authors": "William Makepeace Thackeray/Nicholas Dames",
+        "rating": 3.79,
+        "reviews": 1802,
+        "pages": "eng"
+    },
+    {
+        "title": "The Portrait of a Lady",
+        "isbn": "1593080964",
+        "cover": "//covers.openlibrary.org/b/id/869679-M.jpg",
+        "authors": "Henry James/Gabriel Brownstein/Mary Cregan",
+        "rating": 3.78,
+        "reviews": 1419,
+        "pages": "eng"
+    },
+    {
+        "title": "Anna Karenina",
+        "isbn": "1593081774",
+        "cover": "//covers.openlibrary.org/b/id/1983328-M.jpg",
+        "authors": "Leo Tolstoy/Constance Garnett/Amy Mandelker",
+        "rating": 4.05,
+        "reviews": 1409,
+        "pages": "eng"
+    },
+    {
+        "title": "The Woman in White",
+        "isbn": "1593082800",
+        "cover": "//covers.openlibrary.org/b/id/1983392-M.jpg",
+        "authors": "Wilkie Collins/Camille Cauti",
+        "rating": 4.0,
+        "reviews": 1883,
+        "pages": "eng"
+    },
+    {
+        "title": "Come Away My Beloved",
+        "isbn": "1593109156",
+        "cover": "//covers.openlibrary.org/b/id/10510077-M.jpg",
+        "authors": "Frances J. Roberts",
+        "rating": 4.58,
+        "reviews": 208,
+        "pages": "eng"
+    },
+    {
+        "title": "The Hobbit: Or There and Back Again",
+        "isbn": "1594130051",
+        "cover": "//covers.openlibrary.org/b/id/871993-M.jpg",
+        "authors": "J.R.R. Tolkien",
+        "rating": 4.27,
+        "reviews": 1033,
+        "pages": "eng"
+    },
+    {
+        "title": "Andrew Carnegie",
+        "isbn": "1594201048",
+        "cover": "//covers.openlibrary.org/b/id/6627244-M.jpg",
+        "authors": "David Nasaw",
+        "rating": 3.99,
+        "reviews": 6056,
+        "pages": "eng"
+    },
+    {
+        "title": "Against the Day",
+        "isbn": "159420120X",
+        "cover": "//covers.openlibrary.org/b/id/872335-M.jpg",
+        "authors": "Thomas Pynchon",
+        "rating": 4.13,
+        "reviews": 11677,
+        "pages": "eng"
+    },
+    {
+        "title": "A Changeling for All Seasons (Changeling Seasons #1)",
+        "isbn": "1595962808",
+        "cover": "//covers.openlibrary.org/b/id/875098-M.jpg",
+        "authors": "Angela Knight/Sahara Kelly/Judy Mays/Marteeka Karland/Kate Douglas/Shelby Morgen/Lacey Savage/Kate Hill/Willa Okati",
+        "rating": 3.76,
+        "reviews": 638,
+        "pages": "eng"
+    },
+    {
+        "title": "Active Literacy Across the Curriculum: Strategies for Reading  Writing  Speaking  and Listening",
+        "isbn": "1596670231",
+        "cover": "//covers.openlibrary.org/b/id/1996984-M.jpg",
+        "authors": "Heidi Hayes Jacobs",
+        "rating": 3.94,
+        "reviews": 200,
+        "pages": "eng"
+    },
+    {
+        "title": "My Inventions",
+        "isbn": "1599869942",
+        "cover": "//covers.openlibrary.org/b/id/879936-M.jpg",
+        "authors": "Nikola Tesla",
+        "rating": 4.01,
+        "reviews": 5812,
+        "pages": "eng"
+    },
+    {
+        "title": "Casino Royale",
+        "isbn": "1840238437",
+        "cover": "//covers.openlibrary.org/b/id/883159-M.jpg",
+        "authors": "Anthony Hern/Ian Fleming/Henry Gammidge/John McLusky",
+        "rating": 3.7,
+        "reviews": 316,
+        "pages": "eng"
+    },
+    {
+        "title": "Risotto: 30 Simply Delicious Vegetarian Recipes from an Italian Kitchen",
+        "isbn": "1841721476",
+        "cover": "//covers.openlibrary.org/b/id/887021-M.jpg",
+        "authors": "Ursula Ferrigno/Jason Lowe/Maxine  Clark",
+        "rating": 4.08,
+        "reviews": 80,
+        "pages": "eng"
+    },
+    {
+        "title": "Love Letters",
+        "isbn": "1851681825",
+        "cover": "//covers.openlibrary.org/b/id/898979-M.jpg",
+        "authors": "Kahlil Gibran/Suheil Bushrui/Salma H. Al-Kuzbari",
+        "rating": 3.68,
+        "reviews": 584,
+        "pages": "eng"
+    },
+    {
+        "title": "There's Always Enough: The Miraculous Move of God in Mozambique",
+        "isbn": "1852402873",
+        "cover": "//covers.openlibrary.org/b/id/900253-M.jpg",
+        "authors": "Rolland Baker/Heidi Baker",
+        "rating": 4.46,
+        "reviews": 260,
+        "pages": "eng"
+    },
+    {
+        "title": "Motorcycle Basics Techbook",
+        "isbn": "185960515X",
+        "cover": "//covers.openlibrary.org/b/id/912876-M.jpg",
+        "authors": "John Harold Haynes",
+        "rating": 3.85,
+        "reviews": 302,
+        "pages": "eng"
+    },
+    {
+        "title": "On Rhetoric and Language: Four Key Dialogues",
+        "isbn": "1880393336",
+        "cover": "//covers.openlibrary.org/b/id/4836065-M.jpg",
+        "authors": "Jean Nienkamp",
+        "rating": 4.2,
+        "reviews": 252,
+        "pages": "eng"
+    },
+    {
+        "title": "Novels and Stories 1932\u20131937: The Pastures of Heaven / To a God Unknown / Tortilla Flat / In Dubious Battle / Of Mice and Men",
+        "isbn": "1883011019",
+        "cover": "//covers.openlibrary.org/b/id/12373756-M.jpg",
+        "authors": "John Steinbeck/Elaine Steinbeck/Robert DeMott",
+        "rating": 4.35,
+        "reviews": 1651,
+        "pages": "eng"
+    },
+    {
+        "title": "Collected Stories  1891-1910",
+        "isbn": "1883011930",
+        "cover": "//covers.openlibrary.org/b/id/929412-M.jpg",
+        "authors": "Edith Wharton/Maureen Howard",
+        "rating": 4.26,
+        "reviews": 1040,
+        "pages": "eng"
+    },
+    {
+        "title": "Edward Lear's Book of Nonsense: With Lear's Original Illustrations",
+        "isbn": "1888297018",
+        "cover": "//covers.openlibrary.org/b/id/936033-M.jpg",
+        "authors": "Edward Lear/Simcha Shtull",
+        "rating": 3.65,
+        "reviews": 188,
+        "pages": "eng"
+    },
+    {
+        "title": "The Life and Times of Scrooge McDuck Companion",
+        "isbn": "1888472405",
+        "cover": "//covers.openlibrary.org/b/id/936383-M.jpg",
+        "authors": "Don Rosa",
+        "rating": 4.48,
+        "reviews": 2126,
+        "pages": "eng"
+    },
+    {
+        "title": "Uncle Scrooge #359",
+        "isbn": "1888472421",
+        "cover": "//covers.openlibrary.org/b/id/936384-M.jpg",
+        "authors": "Don Rosa/Carl Barks/Lars Jensen/Pat McGreal/Carol McGreal/Frank Jonker/Romano Scarpa/Mau Heymans/Jos\u00e9 Massaroli",
+        "rating": 3.88,
+        "reviews": 80,
+        "pages": "eng"
+    },
+    {
+        "title": "Enthusiasm and Divine Madness",
+        "isbn": "189031823X",
+        "cover": "//covers.openlibrary.org/b/id/938472-M.jpg",
+        "authors": "Josef Pieper/Richard Winston/Clara Winston",
+        "rating": 4.5,
+        "reviews": 177,
+        "pages": "eng"
+    },
+    {
+        "title": "City Eclogue",
+        "isbn": "1891190237",
+        "cover": "//covers.openlibrary.org/b/id/4841772-M.jpg",
+        "authors": "Ed Roberson",
+        "rating": 4.13,
+        "reviews": 270,
+        "pages": "eng"
+    },
+    {
+        "title": "The Elephant War",
+        "isbn": "1903252040",
+        "cover": "//covers.openlibrary.org/b/id/949132-M.jpg",
+        "authors": "Gillian Avery",
+        "rating": 3.67,
+        "reviews": 294,
+        "pages": "eng"
+    },
+    {
+        "title": "Beloved Bride: The Letters of Stonewall Jackson to His Wife",
+        "isbn": "1929241631",
+        "cover": "//covers.openlibrary.org/b/id/953659-M.jpg",
+        "authors": "Bill Potter/Stephen Lang",
+        "rating": 4.1,
+        "reviews": 430,
+        "pages": "eng"
+    },
+    {
+        "title": "The Road Back",
+        "isbn": "1931541744",
+        "cover": "//covers.openlibrary.org/b/id/957096-M.jpg",
+        "authors": "Erich Maria Remarque",
+        "rating": 4.32,
+        "reviews": 6644,
+        "pages": "eng"
+    },
+    {
+        "title": "Artesia: Adventures in the Known World",
+        "isbn": "1932386106",
+        "cover": "//covers.openlibrary.org/b/id/959537-M.jpg",
+        "authors": "Mark Smylie",
+        "rating": 4.13,
+        "reviews": 456,
+        "pages": "eng"
+    },
+    {
+        "title": "Think and Grow Rich",
+        "isbn": "1932429239",
+        "cover": "//covers.openlibrary.org/b/id/959777-M.jpg",
+        "authors": "Napoleon Hill",
+        "rating": 4.18,
+        "reviews": 464,
+        "pages": "eng"
+    },
+    {
+        "title": "The Best of America's Test Kitchen 2007: The Year's Best Recipes  Equipment Reviews  and Tastings",
+        "isbn": "1933615095",
+        "cover": "//covers.openlibrary.org/b/id/962117-M.jpg",
+        "authors": "America's Test Kitchen",
+        "rating": 4.35,
+        "reviews": 698,
+        "pages": "eng"
+    }
+]
