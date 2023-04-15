@@ -35,22 +35,6 @@ export default function Footer() {
         </div>
 
         <div className="column">
-          <h3 className="h3">Company</h3>
-          <a className="link" href="/about">
-            About
-          </a>
-          <a className="link" href="/community">
-            Community
-          </a>
-          <a className="link" href="/masthead">
-            Masthead
-          </a>
-          <a className="link" href="/credits">
-            Credits
-          </a>
-        </div>
-
-        <div className="column">
           <h3 className="h3">Socials</h3>
           <a
             className="link"
@@ -84,7 +68,7 @@ export default function Footer() {
         <div className="logo">
           <p className="logoText">itsalright</p>
           <p style={{ marginTop: "10px", zoom: 0.8, display: "flex" }}>
-            Copyright © 2022 Lakshya Jain. All rights reserved.
+            Copyright © 2023 Lakshya Jain. All rights reserved.
             <div className="status" style={{ marginTop: "-10px" }}>
               Status : <span style={{ color: "green" }}>All Systems Fine</span>
             </div>
@@ -93,11 +77,11 @@ export default function Footer() {
               style={{ marginTop: "-10px", paddingTop: "10px" }}
               onClick={() =>
                 window.location.replace(
-                  "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+                  "https://www.codingal.com/competitions/hpe-codewars-2023-hackathon/"
                 )
               }
             >
-              Donate ❤️
+              hpe hackathon
             </div>
           </p>
         </div>
@@ -172,6 +156,7 @@ export default function Footer() {
           .donate {
             font-family: var(--mainfont);
             margin-left: 200px;
+            width : 200px;
           }
 
           .h3 {

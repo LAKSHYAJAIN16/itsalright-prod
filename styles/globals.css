@@ -3,8 +3,11 @@
 
 /* Main Font testing */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
-/* @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap"); */
-/* @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 html,
 body {
@@ -19,15 +22,19 @@ body {
   --primary: black;
   --secondary: #b8c6db;
   --logofont: "Caveat", cursive;
-  --mainfont: "Inter", sans-serif;
+  /* --mainfont: "Inter", sans-serif; */
   /* --mainfont: "Open Sans", sans-serif; */
   /* --mainfont: "Montserrat", sans-serif; */
+  /* --mainfont: "Kanit", sans-serif; */
+  /* --mainfont: "Lato", sans-serif; */
+  --mainfont : 'Poppins', sans-serif;
   --royalfont: "Kings", cursive;
   --gradient: linear-gradient(315deg, #b3c0d3 0%, #f5f7fa 74%);
   --color3: rgb(255, 255, 255);
   --color4: #d1faf7;
   --royalcolor: purple;
   --gold: #daa520;
+  text-transform: lowercase !important;
 }
 
 p,
@@ -78,6 +85,7 @@ textarea {
   font-size: 16px;
   font-weight: 600;
   font-family: var(--mainfont);
+  text-transform: lowercase;
   color: #fff;
   cursor: pointer;
   text-align: center;

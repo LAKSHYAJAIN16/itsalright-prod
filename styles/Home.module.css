@@ -20,7 +20,7 @@
 
 .head {
   font-weight: 200;
-  font-size: 60px;
+  font-size: 70px;
   font-family: var(--mainfont);
   overflow: hidden;
   text-align: center;
@@ -34,6 +34,7 @@
 
 .subhead {
   font-family: var(--mainfont);
+  font-size: 1.3em;
 }
 
 .itsalrightspan {
@@ -55,15 +56,39 @@
 }
 
 .cardHeading {
-  font-size: 3em;
+  font-size: 5em;
   font-weight: 300;
   opacity: 1;
   animation: cardHeadingIn 1s 0.3s ease forwards;
 }
 
+.c1 {
+  background: -webkit-radial-gradient(red, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.c2 {
+  background: -webkit-radial-gradient(green, lime);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.c3 {
+  background: -webkit-radial-gradient(turquoise, blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.c4 {
+  background: -webkit-radial-gradient(black, gray);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .cardDescription {
   width: 48vw;
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: 300;
   line-height: 130%;
   font-family: var(--mainfont);
@@ -76,57 +101,20 @@
   height: 300px;
   opacity: 1;
   animation: cardHeadingIn 1s 1.5s ease forwards;
-}
-
-.testimonialHeader {
-  margin-top: 70px;
-  text-align: center;
-  font-family: var(--mainfont);
-  font-size: 2.5em;
-}
-
-.testimonialRow {
-  display: flex;
-  justify-content: center;
-  margin-left: -100px;
-}
-
-.testimonial {
-  margin-left: 100px;
-}
-
-.testimonialContent {
-  background-color: rgb(197, 224, 233);
-  font-family: var(--mainfont);
-  font-weight: 300;
-  width: 300px;
-  padding: 20px 30px 20px 30px;
   border-radius: 30px;
 }
 
-.testimonialPreHead {
-  margin-top: 14px;
-  font-family: var(--mainfont);
-  display: flex;
+.alt {
+  margin-right: 100px !important;
+  margin-left: 0px;
 }
 
-.testimonialName {
-  padding-left: 10px;
+.foot {
+  margin-top: 50px;
+  text-align: center;
   font-family: var(--mainfont);
+  font-weight: 100;
   font-size: 1.2em;
-  font-weight: 600;
-}
-
-.testimonialSubName {
-  font-family: var(--mainfont);
-  padding-left: 10px;
-  font-style: italic;
-}
-
-.testimonialImage {
-  height: 60px;
-  width: 60px;
-  border-radius: 50%;
 }
 
 @keyframes typing {
@@ -134,10 +122,10 @@
     width: 0;
   }
   50% {
-    width: 840px;
+    width: 1040px;
   }
   100% {
-    width: 840px;
+    width: 1040px;
   }
 }
 
