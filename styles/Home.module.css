@@ -9,6 +9,7 @@
   max-width: 100%;
   min-height: 150vh;
   overflow-x: hidden;
+  z-index: 1;
 }
 
 .mainHeadBox {

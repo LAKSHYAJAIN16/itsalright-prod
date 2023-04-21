@@ -19,6 +19,18 @@ export default function Navbar() {
       setIsExpert(JSON.parse(localStorage.getItem("user"))?.isExpert);
     }
 
+    const blob = document.getElementById("blob");
+    document.body.onpointermove = (event) => {
+      const { clientX, clientY } = event;
+      blob.animate(
+        {
+          left: `${clientX}px`,
+          top: `${clientY + window.pageYOffset}px`,
+        },
+        { duration: 3000, fill: "forwards" }
+      );
+    };
+
     //Check on update if we're on mobile
     const isMobile = window.innerWidth <= Keys["mobile-cutoff"];
     setMobileUI(isMobile);
@@ -217,14 +229,13 @@ export default function Navbar() {
                 </>
               )}
             </div>
-            
             <style jsx>
               {`
                 .main {
                   display: flex;
                   flex-direction: row;
                   align-items: center;
-                  margin-top: 0px;
+                  margin-top: 3px;
                 }
 
                 .logoText {
@@ -289,7 +300,7 @@ export default function Navbar() {
                   }
 
                   .expert {
-                    display : none;
+                    display: none;
                   }
                 }
 
@@ -320,7 +331,7 @@ export default function Navbar() {
                   }
 
                   .log {
-                    margin-top : 10px;
+                    margin-top: 10px;
                   }
                 }
 
@@ -365,7 +376,7 @@ export default function Navbar() {
                   }
 
                   .log {
-                    display : none;
+                    display: none;
                   }
                 }
 
@@ -383,18 +394,22 @@ export default function Navbar() {
 
                 /* Ha ha default styles of course NOTHING can go wrong*/
                 a {
-                  color : black;
+                  color: black;
                 }
               `}
             </style>
           </>
         )}
       </div>
-      
+
       <br />
       <br />
       <br />
       <br />
+
+      <div className="blob" id="blob">
+        <div id="blur"></div>
+      </div>
     </>
   );
 }

@@ -187,3 +187,39 @@ textarea {
 .redButton:focus {
   outline: none;
 }
+
+.blob {
+  z-index:-100;
+  background-color: white;
+  height: 16vmax;
+  aspect-ratio: 1;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  border-radius: 50%;
+  background: linear-gradient(
+    to right,
+    #25aae1,
+    #4481eb,
+    #04befe,
+    #3f86ed
+  );
+  animation: rotate 20s infinite;
+  opacity: 0.8;
+  filter: blur(100px);
+}
+
+@keyframes rotate {
+  from {
+    rotate: 0deg;
+  }
+  
+  50% {
+    scale: 1 1.5;
+  }
+  
+  to {
+    rotate: 360deg;
+  }
+}

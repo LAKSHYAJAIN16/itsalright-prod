@@ -164,6 +164,7 @@ export default function MessagesPage() {
               margin-top: 10px;
               cursor: pointer;
               overflow-x: none;
+              font-family : var(--main-font);
             }
 
             .pic {
@@ -234,6 +235,7 @@ export default function MessagesPage() {
           {`
             .main {
               display: flex;
+              font-family : var(--mainfont);
             }
 
             .chats {
@@ -247,6 +249,7 @@ export default function MessagesPage() {
             .activeChats {
               font-size: 1.6em;
               font-weight: 500;
+              font-family: var(--mainfont);
             }
 
             /* HA HA RESPONSIVENESS*/

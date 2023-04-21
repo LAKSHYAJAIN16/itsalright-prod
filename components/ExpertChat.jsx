@@ -240,6 +240,7 @@ export default function ExpertChat({ messages, reciever }) {
             border-radius: 25px;
             margin-bottom: 10px;
             min-height: 40px;
+            font-family : var(--mainfont) !important;
             min-width: 5%;
             max-width: 80%;
             zoom: 0.8;
@@ -251,6 +252,7 @@ export default function ExpertChat({ messages, reciever }) {
             padding-right: 10px;
             padding-left: 10px;
             white-space: initial;
+            font-family : var(--mainfont) !important;
             word-wrap: break-word;
           }
 
@@ -270,6 +272,7 @@ export default function ExpertChat({ messages, reciever }) {
 
           .underneathContent {
             font-size: 0.7em;
+            font-family : var(--mainfont) !important;
           }
 
           .notCheck {
@@ -1083,7 +1086,7 @@ export default function ExpertChat({ messages, reciever }) {
         {`
           .content {
             font-size: 1em;
-            font-family: var(--mainfont);
+            font-family: var(--mainfont) !important;
             background-color: var(--color4);
             margin-left: 100px;
             width: 600px;

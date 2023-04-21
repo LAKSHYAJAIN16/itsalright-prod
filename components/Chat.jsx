@@ -245,6 +245,7 @@ export default function Chat({ reciever }) {
             min-width: 5%;
             max-width: 80%;
             zoom: 0.8;
+            font-family : var(--mainfont);
           }
 
           .messageBody {

@@ -476,7 +476,7 @@ export default function CommentSection({ comments, user, postID }) {
         {comment.comment.isAnswer && (
           <>
             <p
-              style={{ marginLeft: "50px", fontSize: "1.2em", fontWeight: 500 }}
+              style={{ marginLeft: "60px", fontSize: "1.2em", fontWeight: 500, fontFamily:"var(--main-font)" }}
             >
               Answer
               <i
@@ -616,6 +616,9 @@ export default function CommentSection({ comments, user, postID }) {
                 padding-top: 20px;
                 padding-bottom: 20px;
                 border: 5px solid lightgreen;
+                border-radius : 25px;
+                padding-left : 20px;
+                padding-right : 20px;
               }
 
               .main {
