@@ -67,7 +67,7 @@ export default function HomeDef() {
   return (
     <div onMouseDown={(e) => scrollFailSafe(e)}>
       <Meta
-        title={"Itsalright : Together, we can make it alright"}
+        title={"Itsalright : together, we can make it alright"}
         desc={
           "Get access to a free body of thousands of mental health experts and get their advice for free"
         }

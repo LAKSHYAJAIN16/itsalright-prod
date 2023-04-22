@@ -407,9 +407,9 @@ export default function Navbar() {
       <br />
       <br />
 
-      <div className="blob" id="blob">
+      {/* <div className="blob" id="blob">
         <div id="blur"></div>
-      </div>
+      </div> */}
     </>
   );
 }
