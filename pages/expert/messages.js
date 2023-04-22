@@ -150,7 +150,7 @@ export default function MessagesPage() {
             </p>
 
             <p className="content">
-              {val.messages[val.messages.length - 1].message.content}
+              {val.messages[val.messages.length - 1].message.content.substring(0,Math.min(val.messages[val.messages.length - 1].message.content.length, 35))}
             </p>
           </div>
         </div>
