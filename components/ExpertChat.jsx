@@ -54,6 +54,12 @@ export default function ExpertChat({ messages, reciever }) {
     setRenderedSeens(true);
   };
 
+  const scroll = () => {
+    document.getElementById("scroll").scrollIntoView({
+      behavior: "smooth",
+    });
+  };
+
   const messageText = async () => {
     console.log(text);
 
@@ -106,6 +112,7 @@ export default function ExpertChat({ messages, reciever }) {
     //Reset Text
     setText("");
     sendNotifications(text);
+    scroll();
   };
 
   const messageEmoji = async (text) => {
@@ -136,6 +143,7 @@ export default function ExpertChat({ messages, reciever }) {
     //Reset Text
     setEmoji(false);
     sendNotifications(text);
+    scroll();
   };
 
   const messageGif = async (gifURL) => {
@@ -166,6 +174,7 @@ export default function ExpertChat({ messages, reciever }) {
     //Reset Text
     setGif(false);
     sendNotifications(gifURL);
+    scroll();
   };
 
   const searchGifs = async (text) => {
@@ -177,14 +186,16 @@ export default function ExpertChat({ messages, reciever }) {
     setRenderGifs(true);
   };
 
-  const sendNotifications = async(msg) => {
+  const sendNotifications = async (msg) => {
     //Get Email Address and name
     const email = reciever.email;
     const name = JSON.parse(localStorage.getItem("user") || "").name;
 
     //Send API request
-    const res = await axios.get(`/api/email/notifications/expert-message?m=${email}&n=${name}&msg=${msg}`);
-  }
+    const res = await axios.get(
+      `/api/email/notifications/expert-message?m=${email}&n=${name}&msg=${msg}`
+    );
+  };
 
   const TextMessage = (message) => (
     <>
@@ -240,7 +251,7 @@ export default function ExpertChat({ messages, reciever }) {
             border-radius: 25px;
             margin-bottom: 10px;
             min-height: 40px;
-            font-family : var(--mainfont) !important;
+            font-family: var(--mainfont) !important;
             min-width: 5%;
             max-width: 80%;
             zoom: 0.8;
@@ -252,7 +263,7 @@ export default function ExpertChat({ messages, reciever }) {
             padding-right: 10px;
             padding-left: 10px;
             white-space: initial;
-            font-family : var(--mainfont) !important;
+            font-family: var(--mainfont) !important;
             word-wrap: break-word;
           }
 
@@ -272,7 +283,7 @@ export default function ExpertChat({ messages, reciever }) {
 
           .underneathContent {
             font-size: 0.7em;
-            font-family : var(--mainfont) !important;
+            font-family: var(--mainfont) !important;
           }
 
           .notCheck {
@@ -534,6 +545,9 @@ export default function ExpertChat({ messages, reciever }) {
               </div>
             ))}
           </>
+          <div id="scroll">
+            {/* <p>bella ciao!</p> */}
+          </div>
         </div>
 
         {emoji && (

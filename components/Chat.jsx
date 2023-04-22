@@ -59,6 +59,12 @@ export default function Chat({ reciever }) {
     }
   };
 
+  const scroll = () => {
+    document.getElementById("scroll").scrollIntoView({
+      behavior: "smooth",
+    });
+  };
+
   const messageText = async () => {
     //Check for some shortcuts
     let shortcut = false;
@@ -107,6 +113,7 @@ export default function Chat({ reciever }) {
 
     //Reset Text
     setText("");
+    scroll();
     sendNotifications(text);
   };
 
@@ -137,6 +144,7 @@ export default function Chat({ reciever }) {
 
     //Reset Text
     setEmoji(false);
+    scroll();
     sendNotifications(text);
   };
 
@@ -167,17 +175,20 @@ export default function Chat({ reciever }) {
 
     //Reset Text
     setGif(false);
+    scroll();
     sendNotifications("Gif : " + gifURL);
   };
 
-  const sendNotifications = async(msg) => {
+  const sendNotifications = async (msg) => {
     //Get Email Address and name
     const email = reciever.email;
     const name = JSON.parse(localStorage.getItem("user") || "").name;
 
     //Send API request
-    const res = await axios.get(`/api/email/notifications/message?m=${email}&n=${name}&msg=${msg}`);
-  }
+    const res = await axios.get(
+      `/api/email/notifications/message?m=${email}&n=${name}&msg=${msg}`
+    );
+  };
 
   const searchGifs = async (text) => {
     setRenderGifs(false);
@@ -245,7 +256,7 @@ export default function Chat({ reciever }) {
             min-width: 5%;
             max-width: 80%;
             zoom: 0.8;
-            font-family : var(--mainfont);
+            font-family: var(--mainfont);
           }
 
           .messageBody {
@@ -517,11 +528,11 @@ export default function Chat({ reciever }) {
           <br />
           {messages.length === 0 ? (
             <>
-              <p style={{ textAlign: "center" }}>
-                There are no messages between you and {reciever.name} !
+              <p style={{ textAlign: "center", fontFamily: "var(--mainfont)" }}>
+                there are no messages between you and {reciever.name} !
               </p>
-              <p style={{ textAlign: "center" }}>
-                Change that by typing a message!
+              <p style={{ textAlign: "center", fontFamily: "var(--mainfont)" }}>
+                change that by typing a message!
               </p>
             </>
           ) : (
@@ -543,6 +554,7 @@ export default function Chat({ reciever }) {
                   )}
                 </div>
               ))}
+              <div id="scroll"></div>
             </>
           )}
         </div>

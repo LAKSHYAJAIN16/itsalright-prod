@@ -995,6 +995,7 @@ export default function UserSettings() {
             padding-left: 10px;
             padding-right: 10px;
             width: 70px;
+            text-transform: lowercase;
           }
 
           .catSave {
@@ -1006,6 +1007,7 @@ export default function UserSettings() {
             padding-left: 10px;
             padding-right: 10px;
             width: 70px;
+            text-transform: lowercase;
           }
 
           .catCancel {

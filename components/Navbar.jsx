@@ -19,17 +19,17 @@ export default function Navbar() {
       setIsExpert(JSON.parse(localStorage.getItem("user"))?.isExpert);
     }
 
-    const blob = document.getElementById("blob");
-    document.body.onpointermove = (event) => {
-      const { clientX, clientY } = event;
-      blob.animate(
-        {
-          left: `${clientX}px`,
-          top: `${clientY + window.pageYOffset}px`,
-        },
-        { duration: 3000, fill: "forwards" }
-      );
-    };
+    // const blob = document.getElementById("blob");
+    // document.body.onpointermove = (event) => {
+    //   const { clientX, clientY } = event;
+    //   blob.animate(
+    //     {
+    //       left: `${clientX}px`,
+    //       top: `${clientY + window.pageYOffset}px`,
+    //     },
+    //     { duration: 3000, fill: "forwards" }
+    //   );
+    // };
 
     //Check on update if we're on mobile
     const isMobile = window.innerWidth <= Keys["mobile-cutoff"];
